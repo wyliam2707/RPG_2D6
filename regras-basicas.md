@@ -65,9 +65,9 @@ Um **descanso curto de 1 hora** recupera o PV Atual até o PV Máximo Atual e re
 
 A cada dia, o personagem recupera PV Máximo Atual em quantidade igual ao seu **Vigor**, com mínimo de **1 PV por dia**, sem ultrapassar o PV Máximo Base.
 
-## Pontos de Manobra (PM)
+## Pontos de Mana (PM)
 
-PM representa a **reserva técnica** usada para forçar as capacidades do personagem além do uso normal. O uso normal de Perícias e Poderes não exige gasto de PM.
+PM (Pontos de Mana) representa a **reserva técnica** usada para forçar as capacidades do personagem além do uso normal. O uso normal de Perícias e Poderes não exige gasto de PM.
 
 O máximo de PM é:
 
