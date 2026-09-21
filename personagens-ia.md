@@ -44,6 +44,10 @@ Uma personagem controlada por IA pode ser central ou incidental. Isso altera a q
 
 Personagens centrais precisam de ficha completa e continuidade cuidadosa. Personagens incidentais podem ter somente os campos necessários, mas ainda decidem com conhecimento, motivos e meios próprios. O Narrador não é um terceiro tipo de controle: ele julga e apresenta o resultado das decisões.
 
+Uma personagem nova pode aparecer inicialmente com descrição simples. Antes de tomar uma decisão relevante ou usar uma capacidade que afete a campanha, deve possuir ao menos uma ficha mínima com identidade, controle, conceito, objetivo atual, personalidade necessária, conhecimento, capacidades relevantes, posição e condição. Esses elementos precisam ser fixados antes de conhecer o resultado que poderiam favorecer ou impedir.
+
+Se a personagem se tornar recorrente, central ou importante para relações e conflitos contínuos, complete sua ficha antes da próxima participação significativa.
+
 O Narrador pode representar gestos, voz e execução de uma decisão já tomada. Ele não substitui a decisão voluntária da personagem.
 
 ## 3. Fontes da decisão
