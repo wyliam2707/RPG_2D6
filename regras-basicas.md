@@ -85,7 +85,7 @@ Efeitos benéficos podem exigir teste quando houver incerteza, oposição, press
 
 ### Arredondamento
 
-Quando dano, cura, PE ou outro efeito numérico for dividido pela metade, arredonde sempre para cima. Isso vale especialmente para um efeito reduzido por sucesso parcial.
+Sempre que uma regra mandar dividir um valor numérico pela metade, arredonde para cima.
 
 ### Clareza antes da rolagem
 
