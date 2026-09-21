@@ -4,6 +4,45 @@ Este documento reúne somente regras de jogo já confirmadas. Ele foi organizado
 
 ## 1. Regra central
 
+### Atributos e Perícias Finais
+
+Atributos e Perícias Finais têm funções diferentes durante o jogo.
+
+**Atributos** são usados para Pontos de Vida, Mana, bônus de dano, cura, efeitos e criação de personagem. Eles não são somados em testes.
+
+**Perícias Finais** são usadas em todos os testes. O valor da Perícia Final já inclui o Atributo associado, calculado durante a criação do personagem.
+
+> **Todo teste usa apenas Perícia Final. Nunca some Atributo + Perícia durante a rolagem.**
+
+#### Atributos
+
+- **Vigor:** força física, resistência corporal, condicionamento, potência muscular e capacidade atlética geral. É usado no cálculo de PV e pode ser somado ao dano corpo a corpo.
+- **Destreza:** coordenação, precisão, reflexos, equilíbrio, controle motor e habilidade manual. Pode ser somada ao dano de disparos.
+- **Razão:** raciocínio, memória, conhecimento, análise, técnica e controle intelectual. Pode ser somada ao dano de magia.
+- **Espírito:** vontade, presença, sensibilidade, força interior, percepção social e influência. Pode ser somado à cura.
+
+#### Perícias Finais
+
+- **Combate:** atacar, aparar, bloquear ou lutar corpo a corpo com armas, escudos, técnica marcial ou recurso equivalente.
+- **Resistência:** suportar dor, veneno, cansaço, impacto, frio, calor, doença, pressão física, paralisia corporal e efeitos semelhantes.
+- **Atletismo:** correr, saltar, nadar, escalar, erguer, empurrar, puxar e realizar esforço físico ativo.
+- **Sobrevivência:** rastrear, orientar-se, encontrar abrigo, obter recursos naturais, lidar com ambientes hostis e sobreviver fora de áreas seguras.
+
+- **Pontaria:** realizar ataques à distância, disparos, arremessos precisos e ações que dependam de mira.
+- **Esquiva:** evitar ataques, projéteis, explosões pequenas, investidas, perigos físicos e sair da linha de impacto.
+- **Furtividade:** esconder-se, mover-se sem ser notado, agir em silêncio, ocultar presença ou realizar ações discretas.
+- **Mobilidade:** equilíbrio, acrobacia, manobras, deslocamento difícil, movimento em terreno complicado e controle corporal fino.
+
+- **Conjuração:** executar magia, técnica arcana, poder estudado ou efeito controlado por conhecimento e método.
+- **Astúcia:** estratégia, truque, leitura tática, improviso, esperteza prática, engano situacional e solução criativa de problemas.
+- **Conhecimento:** lembrar, reconhecer, explicar ou interpretar informação acadêmica, cultural, histórica, científica, arcana ou especializada.
+- **Técnica:** construir, reparar, operar, hackear, desmontar, modificar, dirigir sistemas complexos ou usar ferramentas e máquinas.
+
+- **Canalização:** manifestar poder por força interior, fé, energia pessoal, dom bruto, conexão espiritual ou fonte semelhante.
+- **Vontade:** resistir a medo, sono, controle, compulsão, tentação, dor mental, pressão emocional e efeitos mentais ou espirituais.
+- **Percepção:** notar detalhes, sons, movimentos, pistas, perigo, alterações no ambiente, presença escondida ou sinais visíveis de mentira.
+- **Influência:** persuadir, intimidar, negociar, comandar, seduzir, inspirar, manipular socialmente ou causar impressão deliberada.
+
 ### Teste universal
 
 Todo teste usa uma **Perícia Final**. O Atributo associado já foi incorporado a esse valor durante a criação do personagem.
