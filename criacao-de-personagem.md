@@ -83,7 +83,7 @@ Depois de calculada, registre a **Perícia Final** na ficha. Durante o jogo, tes
 
 Poderes não possuem níveis ou valores numéricos próprios. Eles abrem possibilidades que normalmente não estariam disponíveis ao personagem.
 
-Um personagem com **Superforça** pode realizar feitos de força sobre-humana. **Voo** permite voar. **Telepatia** permite ações envolvendo interação mental.
+Um personagem com **Superforça** pode realizar feitos de força sobre-huampliação. **Voo** permite voar. **Telepatia** permite ações envolvendo interação mental.
 
 Poderes não aumentam automaticamente Atributos ou Perícias. Quando uma possibilidade aberta por um Poder exigir teste, use somente a Perícia Final apropriada.
 
@@ -108,7 +108,7 @@ PADRÃO: [1], [2] ou [3]
 DESCRIÇÃO FÍSICA IMEDIATA:
 O que qualquer pessoa percebe ao olhar.
 
-ATRIBUTOS [pontos de vida, mana, bônus de dano, cura e criação]
+ATRIBUTOS [pontos de vida, ampliação, bônus de dano, cura e criação]
 Vigor [ ] | Destreza [ ] | Razão [ ] | Espírito [ ]
 
 PERÍCIAS FINAIS [usadas em testes: 2D6 + Perícia Final]
@@ -120,7 +120,7 @@ Canalização [ ] | Vontade [ ] | Percepção [ ] | Influência [ ]
 PV:
 Atual [ ] / Máximo Atual [ ] [Máximo Base: ]
 
-PM:
+PA:
 Atual [ ] / Máximo [ ]
 
 PODERES / RECURSOS:
