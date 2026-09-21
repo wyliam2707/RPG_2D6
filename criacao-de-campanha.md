@@ -15,8 +15,10 @@ Antes da primeira cena, a campanha precisa possuir:
 - gênero principal e gêneros secundários;
 - classificação indicativa;
 - tom em instruções observáveis;
+- promessa narrativa e desenvolvimentos que devem receber retorno;
 - experiência desejada;
 - temas ou relações que receberão espaço;
+- protagonistas centrais e estrutura relacional, quando relevante;
 - elementos que não devem dominar;
 - limites de conteúdo;
 - cenário e escopo inicial;
@@ -41,13 +43,15 @@ Perguntas úteis:
 4. Existem gêneros secundários?
 5. Qual é a classificação e o grau de maturidade?
 6. Como as cenas devem parecer e fazer sentir na maior parte do tempo?
-7. O que deve receber desenvolvimento contínuo?
-8. O que pode existir, mas não deve dominar?
-9. Existe conteúdo que não deve aparecer?
-10. Qual cenário, época ou universo será usado?
-11. Qual personagem o jogador controla?
-12. Existe elenco inicial desejado?
-13. Há uma situação inicial ou direção que o jogador já queira explorar?
+7. Que desenvolvimento ou payoff faria a campanha cumprir sua promessa?
+8. Quem são os protagonistas centrais e, quando relevante, qual estrutura relacional foi combinada?
+9. O que deve receber desenvolvimento contínuo?
+10. O que pode existir, mas não deve dominar?
+11. Existe conteúdo que não deve aparecer?
+12. Qual cenário, época ou universo será usado?
+13. Qual personagem o jogador controla?
+14. Existe elenco inicial desejado?
+15. Há uma situação inicial ou direção que o jogador já queira explorar?
 
 Faça uma pergunta por vez quando várias respostas puderem mudar as perguntas seguintes. Não repita informação já fornecida.
 
@@ -282,27 +286,34 @@ Esses elementos podem aparecer quando coerentes, mas não devem assumir automati
 
 Conteúdo proibido ou limite explícito deve ser registrado separadamente e não deve aparecer.
 
-## 9. Identidade persistente da campanha
+## 9. Bússola narrativa da campanha
 
-A identidade da campanha é composta por:
+A direção aprovada deve ser registrada no README da campanha como uma **bússola narrativa operacional**. Ela é a fonte canônica para decidir o que merece espaço e como apresentar a campanha durante o jogo.
+
+A bússola é composta por:
 
 ~~~text
 FOCO
-+ GÊNERO
-+ CLASSIFICAÇÃO
-+ TOM
-+ EXPERIÊNCIA DESEJADA
-+ TEMAS
++ GÊNERO PRINCIPAL E GÊNEROS SECUNDÁRIOS
++ TOM E MATURIDADE APLICADOS
++ PROMESSA NARRATIVA
++ PROTAGONISTAS CENTRAIS
++ ESTRUTURA RELACIONAL, QUANDO RELEVANTE
++ DESENVOLVIMENTOS QUE DEVEM RECEBER ESPAÇO
 + NÃO DOMINAR
 + LIMITES
 + PREMISSAS GERAIS
 ~~~
 
-Ela permanece válida durante toda a campanha.
+A promessa narrativa descreve o tipo de desenvolvimento e de retorno que a campanha se compromete a tornar possível e revisitar. Ela não garante vitória, romance, descoberta ou qualquer outro resultado.
 
-Uma cena diferente, um arco secundário ou um antagonista interessante não altera automaticamente essa identidade.
+A estrutura relacional registra a forma combinada para o núcleo da campanha, como romance centrado em uma heroína, conjunto fechado de protagonistas, harém com integrantes definidos, relações abertas ou ausência de foco romântico. Ela não determina atração, consentimento, sentimentos nem desfecho.
 
-Mudança de gênero principal, classificação, foco ou limite exige decisão explícita do jogador e atualização dos arquivos da campanha.
+A bússola permanece válida durante toda a campanha. Gênero, tom, foco e premissa são restrições persistentes de direção, não sugestões descartáveis.
+
+Uma cena diferente, um arco secundário, uma nova personagem ou um antagonista interessante não altera automaticamente essa direção. Variação local é permitida; substituição silenciosa da proposta não é.
+
+Mudança de gênero principal, classificação, foco, promessa, protagonismo, estrutura relacional ou limite exige decisão explícita do jogador e atualização do README. Acontecimentos emergentes podem transformar relações e situações sem reescrever silenciosamente a bússola.
 
 ## 10. Criar situação, não enredo fechado
 
@@ -500,6 +511,8 @@ STATUS: PREPARAÇÃO ou ATIVA
 ## Premissa apresentada
 O que o jogador pode saber sobre a proposta inicial.
 
+## Bússola narrativa
+
 ## Foco principal
 O que receberá maior atenção.
 
@@ -512,8 +525,17 @@ Classificação e maturidade permitida.
 ## Tom
 Instruções observáveis de linguagem, ritmo, intimidade, humor e consequência.
 
-## Experiência desejada
-O que o jogador espera acompanhar regularmente.
+## Promessa narrativa
+Que experiência e que tipo de desenvolvimento ou payoff devem receber retorno contínuo, sem resultado garantido.
+
+## Protagonistas centrais
+Quem deve permanecer no núcleo da campanha, com controle e importância de cada personagem.
+
+## Estrutura relacional
+Forma combinada para as relações centrais, quando relevante, sem predeterminar sentimentos ou resultados.
+
+## Espaço devido
+Temas, relações e desenvolvimentos que precisam reaparecer em proporção ao foco.
 
 ## Temas
 Assuntos e relações importantes.
@@ -528,7 +550,7 @@ Conteúdo que não deve aparecer.
 Dimensão pessoal, local, regional ou maior.
 
 ## Personagens com agência
-Nome — controle — importância — arquivo.
+Nome — controle — importância — centralidade — arquivo.
 
 ## Estrutura
 Links para estado, personagens, mundo, mestre e livro.
@@ -619,7 +641,9 @@ Antes de criar os arquivos finais, apresente ao jogador um resumo contendo:
 - gêneros;
 - classificação;
 - tom aplicado;
-- experiência desejada;
+- promessa narrativa;
+- protagonistas centrais e estrutura relacional, quando relevante;
+- espaço devido;
 - não dominar;
 - limites;
 - premissa apresentada;
@@ -647,20 +671,23 @@ Não revele a premissa reservada ao pedir aprovação. Confirme apenas a propost
 1. O foco está claro?
 2. O gênero principal produzirá desenvolvimento real?
 3. O tom foi convertido em instruções observáveis?
-4. A classificação está separada do grau de explicitude?
-5. Romance, quando principal, possui espaço e iniciativa de todas as partes?
-6. Uma campanha 18+ está adulta sem exigir pornografia?
-7. “Não dominar” foi separado de conteúdo proibido?
-8. A situação existe independentemente da futura escolha do jogador?
-9. A verdade estrutural necessária foi definida?
-10. Forças possuem objetivos, meios e limites próprios?
-11. Existe processo em movimento sem resultado predeterminado?
-12. Nenhuma decisão futura do jogador foi escrita?
-13. Personagens por IA possuem vida e vontade próprias?
-14. Os arquivos e READMEs estão organizados?
-15. O estado inicial termina numa escolha real?
+4. A promessa narrativa indica desenvolvimento devido sem garantir resultado?
+5. Protagonistas centrais e estrutura relacional estão definidos quando forem relevantes?
+6. A classificação está separada do grau de explicitude?
+7. Romance, quando principal, possui espaço e iniciativa de todas as partes?
+8. Uma campanha 18+ está adulta sem exigir pornografia?
+9. “Não dominar” foi separado de conteúdo proibido?
+10. A situação existe independentemente da futura escolha do jogador?
+11. A verdade estrutural necessária foi definida?
+12. Forças possuem objetivos, meios e limites próprios?
+13. Existe processo em movimento sem resultado predeterminado?
+14. Nenhuma decisão futura do jogador foi escrita?
+15. Personagens por IA possuem vida e vontade próprias?
+16. A bússola está reunida no README como fonte canônica?
+17. Os arquivos e READMEs estão organizados?
+18. O estado inicial termina numa escolha real?
 ~~~
 
 ## Regra final
 
-> **Criar uma campanha é transformar os desejos do jogador em identidade narrativa aplicável, preparar uma situação coerente e organizar as fontes que permitirão executá-la. O gênero determina o desenvolvimento que precisa receber espaço; o tom determina como a experiência é apresentada; a classificação determina sua maturidade e seus limites. A IA prepara verdades, forças e processos, mas não decide as ações, relações ou resultados futuros. A história nasce durante o jogo e é preservada no livro.**
+> **Criar uma campanha é transformar os desejos do jogador em uma bússola narrativa aplicável, preparar uma situação coerente e organizar as fontes que permitirão executá-la. O gênero determina o desenvolvimento que precisa receber espaço; o tom determina como a experiência é apresentada; a classificação determina sua maturidade e seus limites. A bússola permanece ativa sem decidir ações, relações ou resultados futuros. A história nasce durante o jogo e é preservada no livro.**

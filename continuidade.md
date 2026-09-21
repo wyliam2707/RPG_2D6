@@ -197,6 +197,24 @@ Atualize os READMEs necessários para preservar:
 - personagens relevantes;
 - rotas de consulta.
 
+### 5.7 Recalibração da direção narrativa
+
+No encerramento de capítulo, releia a bússola narrativa canônica no README da campanha e compare-a com o ciclo recém-concluído.
+
+Verifique:
+
+- se o gênero principal e o foco receberam desenvolvimento real;
+- se a promessa narrativa continua visível e com espaço para payoff;
+- se o tom e a maturidade predominantes foram preservados apesar das variações locais;
+- se gêneros secundários, conflitos ou personagens incidentais passaram a dominar;
+- se os protagonistas centrais continuam recebendo a importância combinada;
+- se a estrutura relacional foi ampliada, substituída ou desviada silenciosamente;
+- se algo marcado como “não dominar” assumiu o centro da campanha.
+
+Distinga mudança legítima da ficção de deriva de condução. Não reescreva acontecimentos, sentimentos, relações ou resultados para alinhar o passado. Corrija a ênfase das próximas cenas e preserve as consequências já estabelecidas.
+
+Só altere a bússola canônica quando o jogador aprovar uma mudança de proposta. Se um acontecimento legítimo tornar a promessa atual inviável, apresente a incompatibilidade antes de substituir foco, protagonismo ou estrutura relacional.
+
 ---
 
 ## 6. Recarga do sistema
@@ -211,7 +229,7 @@ Abra novamente:
 4. `campanhas/nome-da-campanha/README.md`;
 5. `campanhas/nome-da-campanha/estado/atual.md`;
 6. fichas das personagens imediatamente relevantes;
-7. direção da campanha e arquivos adicionais indicados por `consulta.md`.
+7. arquivos adicionais indicados por `consulta.md`.
 
 A recarga serve para reduzir deriva de contexto e restaurar:
 
@@ -219,7 +237,9 @@ A recarga serve para reduzir deriva de contexto e restaurar:
 - forma correta de narrar;
 - autonomia das personagens;
 - foco narrativo;
-- gênero e tom;
+- gênero, tom e maturidade;
+- promessa narrativa;
+- protagonismo e estrutura relacional;
 - posição atual;
 - intenções em andamento;
 - agenda;
@@ -239,7 +259,8 @@ O objetivo pode ser:
 
 - consolidar uma sessão longa;
 - corrigir deriva narrativa;
-- recuperar foco;
+- recuperar foco, gênero, tom e maturidade;
+- restaurar a promessa narrativa, o protagonismo e a estrutura relacional;
 - reforçar regras esquecidas;
 - limpar estado acumulado;
 - reorganizar o livro;
@@ -290,10 +311,11 @@ Esses arquivos trabalham juntos e não devem duplicar suas funções.
 7. Consolidar fichas.
 8. Atualizar mundo e mestre quando necessário.
 9. Atualizar READMEs e ponto de retomada.
-10. Recarregar regras, narrador, personagens IA e direção da campanha.
-11. Retomar somente depois da ressincronização.
+10. Auditar a bússola e definir a recalibração necessária.
+11. Recarregar regras, narrador, personagens IA e direção da campanha.
+12. Retomar somente depois da ressincronização.
 ~~~
 
 ## Regra final
 
-> **O fechamento diário preserva o relógio e os compromissos do mundo. O encerramento de capítulo preserva a saúde geral da campanha: salva, limpa, consolida e recarrega o sistema antes de continuar.**
+> **O fechamento diário preserva o relógio e os compromissos do mundo. O encerramento de capítulo preserva a saúde geral da campanha: salva, limpa, consolida, recalibra sua direção narrativa e recarrega o sistema antes de continuar.**

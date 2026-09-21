@@ -12,6 +12,7 @@ A consulta deve permitir que a IA:
 
 - encontre rapidamente a campanha correta;
 - carregue as regras universais necessárias;
+- mantenha a direção narrativa da campanha como contexto ativo;
 - retome o ponto atual;
 - interprete somente as personagens relevantes;
 - recupere fatos antigos sem ler todo o livro;
@@ -30,7 +31,7 @@ As fontes possuem funções diferentes:
 | narrador-ia.md | Julgar e transformar resultado em narrativa |
 | personagens-ia.md | Criar e decidir por personagens controladas por IA |
 | criacao-de-personagem.md | Criar ou revisar fichas |
-| campanhas/nome/README.md | Identificar e orientar a campanha |
+| campanhas/nome/README.md | Identificar a campanha e fornecer sua bússola narrativa canônica |
 | estado/atual.md | Informar o presente operacional |
 | personagens/nome.md | Definir identidade, capacidades e conhecimento da personagem |
 | mundo/ | Definir verdades estáveis do cenário |
@@ -78,6 +79,9 @@ O carregamento inicial precisa responder:
 
 - qual campanha está ativa;
 - qual é sua proposta;
+- qual é seu foco, gênero principal, tom e maturidade;
+- qual promessa narrativa, protagonismo e estrutura relacional devem permanecer ativos;
+- o que precisa receber espaço e o que não deve dominar;
 - onde e quando a próxima cena começa;
 - quem está presente;
 - quem controla cada personagem;
@@ -107,6 +111,25 @@ A regra é:
 > **O README indica onde procurar; o arquivo indicado contém a informação completa.**
 
 Não trate uma linha de índice como substituta da fonte quando a decisão depender de detalhes.
+
+### 5.1 Bússola como contexto ativo
+
+Ao abrir o README da campanha, extraia sua bússola narrativa e mantenha-a ativa durante toda a condução:
+
+~~~text
+FOCO
+GÊNERO PRINCIPAL E SECUNDÁRIOS
+TOM E MATURIDADE
+PROMESSA NARRATIVA
+PROTAGONISTAS CENTRAIS
+ESTRUTURA RELACIONAL, QUANDO RELEVANTE
+ESPAÇO DEVIDO
+NÃO DOMINAR E LIMITES
+~~~
+
+Esse bloco é uma visão operacional da fonte, não um novo cânone. Em caso de dúvida, releia o README em vez de completar a direção por memória ou convenção de gênero.
+
+Não descarte a bússola depois do carregamento inicial. Recarregue-a no encerramento de capítulo e sempre que surgirem sinais de deriva, como mudança persistente de foco, tom, maturidade, protagonismo ou estrutura relacional.
 
 ## 6. Consulta do estado atual
 
@@ -299,6 +322,7 @@ Abra:
 
 ~~~text
 narrador-ia.md
+README da campanha ou bússola ativa
 sentença ou resultado estabelecido
 estado atual relevante
 fichas necessárias para voz, aparência e capacidade
@@ -318,6 +342,19 @@ fontes específicas de conhecimento legítimo
 ~~~
 
 Não abra material reservado para melhorar a decisão.
+
+### Escolher a próxima cena, fio ou introdução
+
+Abra:
+
+~~~text
+narrador-ia.md
+README da campanha ou bússola ativa
+estado/atual.md
+fontes do fio ou personagem considerado
+~~~
+
+Consulte a direção para escolher entre possibilidades coerentes, não para forçar acontecimentos ou decisões.
 
 ### Criar ou revisar personagem
 
@@ -438,6 +475,7 @@ Antes de uma personagem usar um fato, deve existir uma origem legítima:
 Para manter decisões rápidas e precisas:
 
 - carregue arquivos universais uma vez por sessão ou contexto estável;
+- mantenha a bússola narrativa do README como contexto ativo;
 - mantenha estado/atual.md disponível;
 - carregue somente fichas relevantes;
 - prefira índices antes de pastas inteiras;
@@ -470,18 +508,19 @@ Antes de agir, confirme:
 ~~~text
 1. Estou na campanha correta?
 2. Abri o README da campanha?
-3. Abri o estado atual?
-4. Sei o ponto exato de retomada?
-5. Carreguei somente as fichas relevantes?
-6. Preciso realmente consultar mundo, mestre ou livro?
-7. Usei o índice antes de abrir arquivos históricos?
-8. Separei verdade técnica de conhecimento da personagem?
-9. Alguma fonte mais recente corrigiu a anterior?
-10. Falta uma informação indispensável ou apenas um detalhe neutro?
-11. Estou prestes a reler conteúdo desnecessário?
-12. Consigo indicar de qual fonte veio cada fato importante?
+3. Sei qual bússola narrativa deve permanecer ativa?
+4. Abri o estado atual?
+5. Sei o ponto exato de retomada?
+6. Carreguei somente as fichas relevantes?
+7. Preciso realmente consultar mundo, mestre ou livro?
+8. Usei o índice antes de abrir arquivos históricos?
+9. Separei verdade técnica de conhecimento da personagem?
+10. Alguma fonte mais recente corrigiu a anterior?
+11. Falta uma informação indispensável ou apenas um detalhe neutro?
+12. Estou prestes a reler conteúdo desnecessário?
+13. Consigo indicar de qual fonte veio cada fato importante?
 ~~~
 
 ## Regra final
 
-> **Consultar é carregar o mínimo suficiente para decidir corretamente. A IA começa pelas regras necessárias, pelo README da campanha e pelo estado atual; abre fichas conforme as personagens entram em foco; usa os READMEs para localizar mundo, mestre e livro; pesquisa a memória histórica de forma dirigida; e nunca transforma acesso técnico em conhecimento da personagem.**
+> **Consultar é carregar o mínimo suficiente para decidir corretamente sem descartar a direção da campanha. A IA mantém a bússola narrativa do README e o estado atual como contexto ativo; abre fichas conforme as personagens entram em foco; usa os READMEs para localizar mundo, mestre e livro; pesquisa a memória histórica de forma dirigida; e nunca transforma acesso técnico em conhecimento da personagem.**
