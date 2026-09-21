@@ -81,7 +81,7 @@ Quando não houver alguém resistindo diretamente, o narrador pode aplicar um mo
 
 A dificuldade mede a complicação da cena. Ela pode ser usada dentro ou fora de combate, mas não torna possível uma ação incompatível com as capacidades, os Poderes, as ferramentas ou a situação ficcional do personagem.
 
-Efeitos benéficos também exigem teste e podem sofrer dificuldade circunstancial.
+Efeitos benéficos podem exigir teste quando houver incerteza, oposição, pressão ou dificuldade relevante. Quando houver teste, também podem sofrer dificuldade circunstancial.
 
 ### Arredondamento
 
