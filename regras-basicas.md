@@ -456,6 +456,8 @@ O resultado do teste define a criação da invocação:
 - **7–10 — Sucesso parcial:** a invocação surge com os pontos de Atributo dados pela escala.
 - **11+ — Sucesso completo:** a invocação surge e recebe **+1 ponto de Atributo adicional** para distribuir.
 
+Invocações são uma exceção à redução normal do sucesso parcial. Em **7–10**, recebem integralmente os pontos de Atributo definidos pela escala. Em **11+**, recebem o ponto adicional indicado acima.
+
 A invocação dura normalmente até o fim da cena.
 
 Por **5 PA**, ela pode permanecer por até **1 hora**. Enquanto essa invocação permanecer ativa, os 5 PA ficam **comprometidos** e não podem ser recuperados. Quando ela for desinvocada, destruída ou a duração terminar, esses PA deixam de ficar comprometidos e podem ser recuperados normalmente.
