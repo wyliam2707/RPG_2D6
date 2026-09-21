@@ -211,6 +211,8 @@ A defesa só pode ser usada quando fizer sentido na ficção. Uma defesa não to
 
 **RD** representa proteção passiva, geralmente vinda de armadura, equipamento ou proteção semelhante. Ela reduz o dano que chega aos PV.
 
+RD não se acumula. Se houver várias fontes de RD ao mesmo tempo, use apenas o **maior valor** disponível.
+
 **PE** representa barreiras, escudos, campos de força ou proteções temporárias. Cada barreira de PE é registrada separadamente conforme sua **origem**, normalmente quem ou o que gerou o efeito.
 
 Um personagem pode manter no máximo **3 barreiras de PE simultâneas**.
