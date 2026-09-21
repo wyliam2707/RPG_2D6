@@ -124,6 +124,8 @@ Quando a ordem de ação importar, todos fazem um teste de iniciativa:
 
 Quem obtiver o maior resultado age primeiro. Organize todos os participantes em uma fila de iniciativa, do maior para o menor resultado. Essa fila permanece até o fim da cena de luta.
 
+Em caso de empate, role **1D6** apenas como desempate e acrescente o resultado como uma casa decimal ao valor da iniciativa. Exemplo: dois personagens com iniciativa 7 podem ficar com **7,3** e **7,2**. Se houver novo empate, role outro 1D6 e acrescente outra casa decimal, repetindo até separar os resultados, como **7,325** e **7,324**.
+
 Quem entrar no meio da luta faz seu teste de iniciativa e ocupa na fila a posição correspondente ao resultado, mas só age na próxima volta da fila.
 
 ### Turno
