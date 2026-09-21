@@ -134,6 +134,10 @@ No seu turno, um personagem pode normalmente:
 - realizar uma **Ação**;
 - fazer uma **fala breve**.
 
+Esse é um **turno comum**. Nele, a ação usa normalmente escala de **1D6**.
+
+O personagem pode escolher um **turno dedicado**. Nesse caso, abre mão do movimento e da fala breve para dedicar o turno inteiro apenas à Ação, que passa a usar escala de **2D6**.
+
 #### Movimento
 
 O movimento serve para se aproximar, se afastar, alcançar cobertura, mudar de posição ou se deslocar dentro da cena.
