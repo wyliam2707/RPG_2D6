@@ -350,6 +350,8 @@ A escala usa **1D6, 2D6, 3D6 ou 4D6**:
 
 Por **5 PA**, aumente a escala em **+1D6**, até o máximo de 4D6.
 
+As fontes de escala podem se combinar quando fizerem sentido: um efeito comum de **1D6** pode chegar a **2D6** com 5 PA; um turno dedicado de **2D6** pode chegar a **3D6** com 5 PA; uma preparação excepcional de **3D6** pode chegar a **4D6** com 5 PA. O teto é sempre **4D6**.
+
 Exemplos de referência: uma arma comum costuma operar em **1D6**; um tanque de guerra pode representar **2D6**; uma armadilha elaborada ou ritual previamente preparado pode alcançar **3D6**. Uma preparação excepcional reforçada com 5 PA pode alcançar **4D6**.
 
 O Atributo já influencia a eficácia da ação porque está incorporado à **Perícia Final** usada no teste.
