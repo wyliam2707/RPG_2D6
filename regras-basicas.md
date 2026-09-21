@@ -350,11 +350,9 @@ Por **5 PA**, aumente a escala em **+1D6**, até o máximo de 4D6.
 
 Exemplos de referência: uma arma comum costuma operar em **1D6**; um tanque de guerra pode representar **2D6**; uma armadilha elaborada ou ritual previamente preparado pode alcançar **3D6**. Uma preparação excepcional reforçada com 5 PA pode alcançar **4D6**.
 
-Quando um efeito somar um Atributo ao seu valor, use o **Atributo associado à Perícia Final usada no teste**.
+O Atributo já influencia a eficácia da ação porque está incorporado à **Perícia Final** usada no teste.
 
-Exemplos: Combate usa Vigor; Pontaria usa Destreza; Conjuração usa Razão; Canalização usa Espírito.
-
-A Perícia define como a ação é executada. O Atributo associado a essa Perícia pode compor o valor do efeito quando a regra pedir, mas nunca é somado à rolagem do teste.
+Por isso, o Atributo **não é somado novamente ao valor do efeito**. Depois da rolagem, aplique apenas a escala, o valor fixo do item, o estado, o bônus, a invocação ou outro efeito definido pela regra correspondente.
 
 ### Perícia, dificuldade, escala e resultado
 
