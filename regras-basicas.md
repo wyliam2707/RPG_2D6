@@ -343,8 +343,7 @@ Personagens **[3]**, heróis ou protagonistas recebem **+20 PV**.
 
 Depois do cálculo, aplique o piso:
 
-- adulto: mínimo 10 PV;
-- criança: mínimo 5 PV.
+- mínimo universal: **5 PV**.
 
 Registre:
 
