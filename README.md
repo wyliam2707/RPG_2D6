@@ -61,6 +61,7 @@ A ficha define capacidades, identidade, conhecimento e tendências. Não conceda
 Use:
 
 - `salvamento.md`
+- `continuidade.md`, quando houver fechamento do dia ou encerramento de capítulo
 
 As campanhas ficam em:
 
@@ -85,6 +86,7 @@ O salvamento separa:
 | `criacao-de-campanha.md` | Preparação e direção de campanhas |
 | `consulta.md` | Carregamento e busca de contexto |
 | `salvamento.md` | Organização e atualização dos arquivos da campanha |
+| `continuidade.md` | Fechamento do dia, agenda, encerramento de capítulo e ressincronização |
 | `campanhas/` | Armazenamento das campanhas |
 
 ## Princípios operacionais
@@ -104,7 +106,8 @@ Ao usar este sistema:
 - mantenha separado o que a IA sabe do que cada personagem sabe;
 - preserve fatos estabelecidos e consulte a fonte correta quando houver dúvida;
 - use `consulta.md` para evitar carregar arquivos desnecessários;
-- use `salvamento.md` para manter a campanha canônica organizada.
+- use `salvamento.md` para manter a campanha canônica organizada;
+- use `continuidade.md` para fechamento do dia, agenda e checkpoints de capítulo.
 
 ## Regra de prioridade
 
