@@ -174,11 +174,15 @@ Exemplos:
 
 ### Efeito sustentado
 
-Um efeito **sustentado** é uma exceção e existe apenas enquanto o personagem mantém atenção contínua.
+Um efeito **sustentado** permanece ativo enquanto o personagem mantém atenção contínua.
+
+Cada personagem só pode manter **um efeito sustentado por vez**.
+
+Se o personagem começar a sustentar outro efeito, o anterior deixa de ser sustentado. A partir daí, ele segue sua duração normal, se possuir uma. Se o efeito só existir enquanto for sustentado, então ele termina.
 
 Exemplos: segurar um carro no ar com telecinese, manter uma barreira de energia, sustentar uma ilusão ativa, mover um campo de força ou manter controle mental contínuo.
 
-Quando o personagem para de sustentar, o efeito acaba imediatamente e a cena segue a lógica normal. Um carro suspenso cai; uma barreira de energia desaparece.
+Se um carro estiver suspenso apenas enquanto a telecinese for sustentada, ele cai quando o efeito deixa de ser mantido. Se uma barreira existir apenas enquanto sustentada, ela desaparece.
 
 ## 4. Defesa e proteção
 
