@@ -36,6 +36,30 @@ A dificuldade é universal e pode ser usada dentro ou fora de combate. Ela não 
 
 Efeitos benéficos também exigem teste e podem sofrer dificuldade circunstancial.
 
+## Combate
+
+O combate usa as mesmas regras do teste universal, mas é organizado em **rodadas** e **turnos**.
+
+Uma rodada representa um ciclo curto da cena em que todos os participantes relevantes têm chance de agir.
+
+No seu turno, um personagem pode normalmente:
+
+- realizar um **movimento**;
+- realizar uma **ação**;
+- fazer uma **fala breve**.
+
+### Movimento
+
+O movimento serve para se aproximar, se afastar, alcançar cobertura, mudar de posição ou se deslocar dentro da cena.
+
+### Ação
+
+A ação serve para atacar, usar Poder, conjurar, curar, interagir com objeto, arrombar, proteger alguém, criar vantagem, usar Fôlego ou realizar outra atividade relevante.
+
+### Fala breve
+
+A fala breve permite dizer algo curto, dar uma ordem, avisar, provocar ou negociar, desde que isso não substitua uma ação complexa.
+
 ## Pontos de Vida (PV)
 
 O PV Máximo Base é calculado assim:
@@ -61,9 +85,19 @@ Chegar a **0 PV** causa dano agravado, que reduz o **PV Máximo Atual**. O PV M�
 
 ### Recuperação
 
-Um **descanso curto de 1 hora** recupera o PV Atual até o PV Máximo Atual e recupera os PM até o máximo atual.
+Um **Descanso Breve de 5 minutos** de pausa real recupera o PV Atual até o PV Máximo Atual e recupera os PM até o máximo.
 
 A cada dia, o personagem recupera PV Máximo Atual em quantidade igual ao seu **Vigor**, com mínimo de **1 PV por dia**, sem ultrapassar o PV Máximo Base.
+
+### Fôlego
+
+Durante combate ou outra cena de pressão, o personagem pode usar sua **Ação** para recuperar PV Atual.
+
+Para cada **2 PM** gastos, recupera **1 PV Atual**, até o máximo de **5 PV por turno**.
+
+Assim, em uma única ação de Fôlego, o personagem pode gastar até **10 PM** para recuperar até **5 PV Atuais**.
+
+Fôlego não recupera PV Máximo Atual e não cura dano agravado. Ele apenas ajuda o personagem a continuar quando ainda não teve tempo para um Descanso Breve.
 
 ## Pontos de Mana (PM)
 
