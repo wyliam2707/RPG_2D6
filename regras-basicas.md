@@ -211,20 +211,37 @@ A defesa só pode ser usada quando fizer sentido na ficção. Uma defesa não to
 
 **RD** representa proteção passiva, geralmente vinda de armadura, equipamento ou proteção semelhante. Ela reduz o dano que chega aos PV.
 
-**PE** representa escudos, barreiras, campos de força ou proteções temporárias. PE absorve dano antes dos PV.
+**PE** representa barreiras, escudos, campos de força ou proteções temporárias. Cada barreira de PE é registrada separadamente conforme sua **origem**, normalmente quem ou o que gerou o efeito.
 
-Quando um ataque causar dano, aplique nesta ordem:
+Um personagem pode manter no máximo **3 barreiras de PE simultâneas**.
 
-1. O ataque acerta e o dano é definido.
-2. O dano atinge primeiro os **PE**, se houver.
-3. Se sobrar dano depois dos PE, aplique a **RD**.
-4. O dano restante reduz os **PV Atuais**.
+Barreiras de origens diferentes coexistem. Barreiras da mesma origem não se acumulam; mantenha apenas o maior valor atual gerado por aquela origem.
 
-PE não se acumula. Quando vários efeitos concederem PE ao mesmo personagem, use apenas o maior valor disponível.
+As barreiras são registradas na ordem em que foram criadas:
 
-Se um personagem tem **PE 10** e recebe um novo efeito de **PE 5**, continua com **PE 10**. Se o novo efeito gerar **PE 12**, passa a usar **PE 12**.
+`[1º] → [2º] → [3º]`
 
-Gerar PE usa a escala normal de efeito. Uma ação pode causar dano, curar PV Atual ou gerar PE, conforme o Poder, item ou recurso permitir.
+Quando o personagem recebe dano, aplique nesta ordem:
+
+1. O dano atinge primeiro a barreira **[1º]**.
+2. Se sobrar dano, atinge a barreira **[2º]**.
+3. Se ainda sobrar dano, atinge a barreira **[3º]**.
+4. Depois das barreiras, aplique a **RD**.
+5. O dano restante reduz os **PV Atuais**.
+
+Se uma barreira for reduzida a 0 PE, ela é destruída e removida.
+
+Se o personagem já possuir 3 barreiras de origens diferentes e receber uma **4ª barreira**, compare os valores atuais de PE das quatro. A barreira de **menor valor** é removida, independentemente da ordem em que foi criada. As três restantes mantêm sua ordem relativa de criação, e a nova barreira entra por último entre as que permanecerem.
+
+Exemplo:
+
+`[1º] PE 8 | [2º] PE 3 | [3º] PE 6`
+
+Se entrar uma nova barreira de **PE 5**, a barreira de PE 3 é removida. As demais permanecem e a nova entra por último:
+
+`[1º] PE 8 | [2º] PE 6 | [3º] PE 5`
+
+Gerar PE usa a escala normal de efeito. Uma ação pode gerar PE quando o Poder, item ou recurso permitir.
 
 ## 5. Pontos de Vida e recuperação
 
