@@ -311,6 +311,8 @@ Assim:
 
 ### Esforço no teste
 
+Todo gasto de **PA** deve ser declarado **antes da rolagem**. Depois que os dados forem rolados, não é possível gastar PA retroativamente para melhorar o teste, ampliar a escala, aumentar alcance, área ou qualquer outro aspecto da ação.
+
 Antes de um teste, o personagem pode gastar **5 PA por dado extra**, até o máximo de **+2D6**.
 
 - Sem gasto: role 2D6.
