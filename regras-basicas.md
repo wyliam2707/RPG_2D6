@@ -68,7 +68,7 @@ ou
 - **7–10 — Sucesso parcial:** a ação acontece, mas de forma incompleta, com efeito reduzido, consequência, custo, exposição ou outra imperfeição apropriada.
 - **11+ — Sucesso completo:** a ação acontece conforme pretendido.
 
-Um sucesso parcial continua sendo um sucesso. Quando o teste produzir dano ou cura, o sucesso parcial aplica **metade do valor**. O sucesso completo aplica o valor inteiro.
+Um sucesso parcial continua sendo um sucesso. Quando o teste produzir um **efeito numérico**, o sucesso parcial aplica **metade do valor**, arredondando para cima. O sucesso completo aplica o valor inteiro.
 
 ### Dificuldade circunstancial
 
