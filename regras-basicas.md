@@ -319,9 +319,11 @@ Mesmo com dados extras, mantenha apenas os **2 melhores dados** e então aplique
 
 ### Ampliação do efeito
 
-Por **5 PA**, o personagem pode adicionar **+1D6 à escala de um efeito**, respeitando o máximo de **4D6**.
+Por **5 PA**, o personagem pode adicionar **+1D6 à escala de um efeito produzido por suas próprias capacidades, técnicas, Poderes ou Recursos pessoais**, respeitando o máximo de **4D6**.
 
-Esse aumento não é exclusivo de magia. Pode ampliar uma ação física, tecnológica, sobrenatural, mágica ou qualquer outro efeito compatível com a situação.
+Esse aumento não é exclusivo de magia. Pode ampliar uma ação física, tecnológica, sobrenatural ou mágica, desde que a escala do efeito seja moldável pelo personagem.
+
+**Itens comuns com escala fixa não recebem essa ampliação.**
 
 O gasto para melhorar o teste e o gasto para ampliar o efeito são independentes e podem ser usados na mesma ação.
 
