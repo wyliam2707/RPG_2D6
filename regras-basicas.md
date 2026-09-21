@@ -398,16 +398,33 @@ Por isso, o Atributo **não é somado novamente ao valor do efeito**. Depois da 
 
 Cada elemento responde a uma pergunta diferente:
 
-- a **Perícia Final** mede se o personagem consegue executar a ação naquela situação;
-- a **dificuldade** mede a complicação da cena;
-- a **escala** mede o tamanho, a força, o volume, o alcance narrativo ou o impacto físico do efeito produzido;
-- o **resultado do teste** determina como a escala pretendida se manifesta.
+- a **Perícia Final** mede a competência do personagem para executar a ação;
+- a **dificuldade** mede as complicações circunstanciais da cena;
+- a **escala** mede o nível de magnitude, dedicação, preparação, intensidade ou elaboração da ação;
+- o **resultado do teste** determina se a intenção é alcançada e com que qualidade.
 
-O resultado molda a escala:
+Os valores **1D6, 2D6, 3D6 e 4D6 representam níveis de escala**. Eles não significam sempre a mesma coisa mecanicamente: a forma como a escala se manifesta depende do tipo de ação.
+
+Em efeitos como dano, cura, PE, criação, força, volume ou tamanho, a escala pode ser aplicada diretamente ao valor do efeito.
+
+Em ações comuns de Perícia, quando tempo, cuidado, preparação ou precisão puderem melhorar a execução, a escala pode se converter em bônus no teste:
+
+- **1D6:** +0;
+- **2D6:** +1;
+- **3D6:** +2;
+- **4D6:** +3.
+
+Esse bônus também pode compensar dificuldades circunstanciais. Exemplo: uma tarefa com dificuldade −2 e escala 3D6 (+2) pode neutralizar completamente essa penalidade.
+
+Competência alta somada a condições excelentes pode tornar a falha básica impossível. Isso é permitido pelo sistema e representa domínio real da tarefa; não existe chance mínima automática de falha.
+
+Quando a escala representa diretamente um efeito, o resultado pode moldar sua manifestação:
 
 - **Falha:** o efeito não cumpre a intenção ou não se estabiliza de forma útil.
 - **Sucesso parcial:** o efeito acontece de forma reduzida, incompleta ou aproximadamente pela metade. Em efeitos de escala, isso pode significar cair um nível ou manifestar uma versão equivalente mais fraca.
 - **Sucesso completo:** o efeito acontece na escala pretendida.
+
+Quando a escala foi convertida em bônus de Perícia antes da rolagem, ela não é reduzida novamente após o teste; o resultado parcial afeta a qualidade, completude, custo ou consequência da ação.
 
 Exemplo: um personagem tenta criar uma parede grande para bloquear uma rua. Em uma falha, a pressão do Poder é alta e a parede falha ou não surge de forma útil. Em um sucesso parcial, ela pode surgir menor, rachada, baixa demais, com brechas ou bloquear apenas parte da rua. Em um sucesso completo, surge como pretendido e bloqueia a rua.
 
