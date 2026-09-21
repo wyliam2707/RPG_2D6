@@ -403,6 +403,10 @@ Quando um Poder gera uma vantagem ou desvantagem numérica, o efeito base é **+
 
 Por **5 PA**, o efeito pode ser ampliado para **+2** ou **−2**.
 
+Bônus e penalidades têm teto de **+2** e **−2**. Efeitos do mesmo lado não se acumulam além desse limite: use apenas o maior bônus e a maior penalidade aplicáveis. Depois, aplique ambos normalmente ao resultado final.
+
+Exemplos: +1 e +2 resultam em +2; −1 e −2 resultam em −2; +2 e −2 se anulam e resultam em 0.
+
 O bônus ou penalidade só afeta ações compatíveis com a natureza do Poder. Alcance, alvo, área e demais ampliações seguem as regras normais de efeitos.
 
 A duração depende do resultado do teste:
