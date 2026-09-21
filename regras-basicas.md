@@ -366,6 +366,17 @@ A escala é uma **regra geral do sistema**. Ela pode representar a intensidade d
 
 A escala mede tamanho, força, volume, alcance narrativo ou impacto físico do efeito produzido. Ela não serve apenas para dano, cura ou PE; também pode medir efeitos narrativos, como o tamanho de uma parede, a força de uma barreira e o volume de gelo ou fumaça.
 
+Quando aplicada a uma **ação comum de Perícia**, a escala pode representar tempo, cuidado, preparação, precisão ou elaboração, desde que isso faça sentido para a tarefa. Nesses casos, a escala não substitui nem altera os dados básicos do teste: ela gera um bônus circunstancial.
+
+- **1D6:** +0 no teste.
+- **2D6:** +1 no teste.
+- **3D6:** +2 no teste.
+- **4D6:** +3 no teste.
+
+Exemplo: forjar uma espada no tempo normal pode usar escala 1D6 e não recebe bônus. Fazer o mesmo trabalho com mais tempo e cuidado pode usar escala 2D6 e receber +1. Dedicar uma semana inteira, com preparação, zelo e acabamento minucioso, pode usar escala 3D6 e receber +2.
+
+Esse benefício só se aplica quando a própria ação permitir que tempo, cuidado ou preparação realmente melhorem a execução.
+
 A escala usa **1D6, 2D6, 3D6 ou 4D6**:
 
 - **1D6:** uso comum, efeito corriqueiro ou recurso comum.
