@@ -407,14 +407,20 @@ Os valores **1D6, 2D6, 3D6 e 4D6 representam níveis de escala**. Eles não sign
 
 Em efeitos como dano, cura, PE, criação, força, volume ou tamanho, a escala pode ser aplicada diretamente ao valor do efeito.
 
-Em ações comuns de Perícia, quando tempo, cuidado, preparação ou precisão puderem melhorar a execução, a escala pode se converter em bônus no teste:
+Em ações comuns de Perícia, quando tempo, cuidado, preparação ou precisão puderem melhorar a execução, a escala pode influenciar o teste:
 
-- **1D6:** +0;
-- **2D6:** +1;
-- **3D6:** +2;
-- **4D6:** +3.
+- **1D6:** valor de escala 0;
+- **2D6:** valor de escala 1;
+- **3D6:** valor de escala 2;
+- **4D6:** valor de escala 3.
 
-Esse bônus também pode compensar dificuldades circunstanciais. Exemplo: uma tarefa com dificuldade −2 e escala 3D6 (+2) pode neutralizar completamente essa penalidade.
+O valor da escala é usado primeiro para compensar dificuldades circunstanciais, até o máximo de **−2**. Depois disso, qualquer valor restante pode se tornar bônus direto no teste, mas o bônus direto de escala nunca ultrapassa **+2**.
+
+Exemplos:
+
+- escala 3D6 contra dificuldade −2: os 2 pontos de escala anulam a dificuldade e não sobra bônus;
+- escala 4D6 contra dificuldade −2: 2 pontos anulam a dificuldade e sobra **+1** no teste;
+- escala 4D6 sem dificuldade: o bônus direto fica limitado a **+2**.
 
 Competência alta somada a condições excelentes pode tornar a falha básica impossível. Isso é permitido pelo sistema e representa domínio real da tarefa; não existe chance mínima automática de falha.
 
