@@ -381,6 +381,15 @@ Os alcances seguem a ordem:
 
 `Toque → Curto → Médio → Longo`
 
+Como referência aproximada:
+
+- **Toque:** contato físico.
+- **Curto:** até cerca de **10 metros**.
+- **Médio:** até cerca de **50 metros**.
+- **Longo:** até cerca de **200 metros**.
+
+Essas distâncias são referências de cena, não medidas de tabuleiro.
+
 Alcances padrão:
 
 - **Corpo a corpo:** Toque.
