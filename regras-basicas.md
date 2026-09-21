@@ -8,7 +8,7 @@ Este documento reúne somente regras de jogo já confirmadas. Ele foi organizado
 
 Atributos e Perícias Finais têm funções diferentes durante o jogo.
 
-**Atributos** são usados para Pontos de Vida, Ampliação, bônus de dano, cura, efeitos e criação de personagem. Eles não são somados em testes.
+**Atributos** são usados para Pontos de Vida, bônus de dano, cura, efeitos e criação de personagem. Eles não são somados em testes.
 
 **Perícias Finais** são usadas em todos os testes. O valor da Perícia Final já inclui o Atributo associado, calculado durante a criação do personagem.
 
