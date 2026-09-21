@@ -93,6 +93,16 @@ Antes do teste, o narrador deve avisar custos, riscos evidentes, consequências 
 
 Depois de apresentar o custo ou risco, o narrador pergunta se o jogador deseja continuar, ajustar a ação ou cancelar.
 
+### Sem suposições sobre a decisão do jogador
+
+Se a declaração do jogador não estiver clara o bastante para determinar alvo, método, Poder, item, alcance, escala, custo, intenção ou outra decisão necessária, o narrador **não completa a ação por conta própria**.
+
+Ele pede apenas o esclarecimento necessário antes de calcular custos ou realizar qualquer rolagem.
+
+Exemplo: se o jogador disser apenas “Eu ataco”, o narrador não escolhe alvo, arma ou Poder. Ele pergunta quem será atacado e com qual método.
+
+> **Sem clareza suficiente, não há suposição nem rolagem.**
+
 Exemplos:
 
 > “Sono é um efeito de alcance Curto. Para alcançar Médio, custa 5 PM. Para afetar múltiplos alvos em Área Curta, custa mais 5 PM. O custo total será 10 PM. Você deseja gastar 10 PM para gerar esse efeito?”
@@ -103,7 +113,7 @@ Exemplos:
 
 O combate usa as mesmas regras do teste universal, organizado em **rodadas** e **turnos**.
 
-Uma rodada representa um ciclo curto da cena em que todos os participantes relevantes têm a chance de agir.
+Uma rodada representa um ciclo curto da cena em que todos os participantes relevantes têm a chance de agir. Um turno representa aproximadamente **6 segundos** dentro da ficção.
 
 ### Iniciativa
 
@@ -376,6 +386,73 @@ Ao dedicar a Ação, o personagem pode concentrar o efeito em um alvo com **2D6*
 Na opção em área, o personagem pode gastar **5 PM** para elevar o efeito de **1D6 para 2D6**.
 
 **Área Curta é o máximo.**
+
+### Bônus e penalidades
+
+Quando um Poder gera uma vantagem ou desvantagem numérica, o efeito base é **+1** ou **−1**.
+
+Por **5 PM**, o efeito pode ser ampliado para **+2** ou **−2**.
+
+O bônus ou penalidade só afeta ações compatíveis com a natureza do Poder. Alcance, alvo, área e demais ampliações seguem as regras normais de efeitos.
+
+A duração depende do resultado do teste:
+
+- **1–6 — Falha:** o efeito não é aplicado.
+- **7–10 — Sucesso parcial:** o efeito dura **2 turnos**, cerca de **12 segundos**.
+- **11+ — Sucesso completo:** o efeito dura até o fim do combate ou até **5 minutos** fora de combate.
+
+O efeito pode ser declarado como **sustentado**. Enquanto sustentado, permanece ativo até o personagem parar de mantê-lo.
+
+Cada personagem só pode manter **um efeito sustentado por vez**. Se começar a sustentar outro efeito, o anterior deixa de ser sustentado e passa a durar conforme o resultado original do teste.
+
+Se um bônus ou penalidade afetar vários alvos pelas regras normais de área, todos podem permanecer sob o mesmo efeito sustentado. Mesmo afetando vários alvos, isso continua contando como **um único efeito sustentado**.
+
+### Movimento e posição
+
+Quando um Poder move, puxa, empurra, teleporta, levita, arremessa ou reposiciona alguém ou alguma coisa, use normalmente as regras de teste, alcance, alvo, área, PM, oposição, dificuldade e resultado.
+
+O Poder define o tipo de movimento possível. A escala define o tamanho, peso, distância ou intensidade do deslocamento quando isso for relevante.
+
+O resultado segue a regra geral:
+
+- **1–6 — Falha:** o deslocamento não acontece ou não se estabiliza de forma útil.
+- **7–10 — Sucesso parcial:** o deslocamento acontece de forma incompleta, curta, imprecisa, instável ou com consequência apropriada.
+- **11+ — Sucesso completo:** o deslocamento acontece como pretendido.
+
+Quando houver resistência, use a Perícia Final apropriada como oposição. Por exemplo, uma telecinese pode usar **Conjuração contra Atletismo** para tentar agarrar ou mover alguém que resiste.
+
+**Teleportar outra pessoa contra a vontade custa 5 PM e é resistido por Vontade.** Teleportar a si mesmo segue as regras normais de movimento, alcance e do próprio Poder.
+
+### Invocação
+
+Quando um Poder cria ou chama algo físico e inanimado, trate o resultado como um objeto, item ou efeito criado pelo Poder, usando as regras normais de escala, alcance, alvo, área, PM e duração.
+
+Quando a invocação for capaz de agir, como um drone, cão fantasma, esqueleto, zumbi, enxame ou criatura semelhante, ela recebe uma **ficha simples de NPC aliado** e passa a agir como tal depois de criada.
+
+Uma invocação pode representar um único ser ou um grupo que funcione mecanicamente como uma única unidade. Uma horda de ratos ou um enxame de insetos, por exemplo, conta como **uma invocação** se usar uma única ficha e agir como uma única unidade.
+
+A quantidade máxima de invocações simultâneas é igual ao **Espírito** do invocador, com mínimo de **1**.
+
+A escala escolhida determina quantos pontos de Atributo a invocação recebe para distribuir entre **Vigor, Destreza, Razão e Espírito**:
+
+- **1D6:** 1 ponto.
+- **2D6:** 2 pontos.
+- **3D6:** 3 pontos.
+- **4D6:** 4 pontos.
+
+O resultado do teste define a criação da invocação:
+
+- **1–6 — Falha:** a invocação não acontece.
+- **7–10 — Sucesso parcial:** a invocação surge com os pontos de Atributo dados pela escala.
+- **11+ — Sucesso completo:** a invocação surge e recebe **+1 ponto de Atributo adicional** para distribuir.
+
+A invocação dura normalmente até o fim da cena.
+
+Por **5 PM**, ela pode permanecer por até **1 hora**. Enquanto essa invocação permanecer ativa, os 5 PM ficam **comprometidos** e não podem ser recuperados. Quando ela for desinvocada, destruída ou a duração terminar, esses PM deixam de ficar comprometidos e podem ser recuperados normalmente.
+
+Antes da rolagem, o narrador deve informar a escala, os pontos de Atributo previstos, custos de PM, duração, limite de invocações e qualquer oposição ou dificuldade relevante. O jogador confirma ou ajusta a declaração antes do teste.
+
+Depois do resultado, o narrador informa quantos pontos de Atributo a invocação recebeu, o jogador distribui esses pontos e, a partir daí, a invocação passa a agir como **NPC aliado**.
 
 ## 8. Itens e equipamentos
 
