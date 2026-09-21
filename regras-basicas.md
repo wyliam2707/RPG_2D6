@@ -362,6 +362,8 @@ Poderes são flexíveis. Eles podem ser moldados pela escolha do personagem, pel
 
 ### Escala de efeito
 
+A escala é uma **regra geral do sistema**. Ela pode representar a intensidade de uma ação comum, Poder, técnica, recurso, ataque, criação ou qualquer outro efeito cujo resultado tenha magnitude relevante.
+
 A escala mede tamanho, força, volume, alcance narrativo ou impacto físico do efeito produzido. Ela não serve apenas para dano, cura ou PE; também pode medir efeitos narrativos, como o tamanho de uma parede, a força de uma barreira e o volume de gelo ou fumaça.
 
 A escala usa **1D6, 2D6, 3D6 ou 4D6**:
