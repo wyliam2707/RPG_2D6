@@ -61,7 +61,7 @@ Em cada grupo de quatro Perícias, distribua **3 pontos**. Cada Perícia pode re
 
 Exemplos de distribuição: **(2, 1, 0, 0)** ou **(1, 1, 1, 0)**.
 
-O Atributo representa a base da capacidade e a Perícia representa seu refinamento. O valor final de uma Perícia é a soma dos dois valores:
+O Atributo representa a base da capacidade e a Perícia representa seu refinamento. O valor final de uma Perícia é calculado durante a criação do personagem pela soma dos dois valores:
 
 **Perícia Final = Atributo associado + Perícia**
 
@@ -73,6 +73,10 @@ Exemplos:
 
 Para um personagem [3], os valores finais das Perícias podem variar de **-1 a +5**.
 
+Depois de calculada, registre a **Perícia Final** na ficha. Durante o jogo, testes usam somente esse valor.
+
+> **Todo teste usa apenas Perícia Final. Nunca some Atributo + Perícia durante a rolagem.**
+
 ## 4. Poderes
 
 **Poderes são chaves dramáticas que mudam aquilo que é possível para o personagem.**
@@ -81,7 +85,7 @@ Poderes não possuem níveis ou valores numéricos próprios. Eles abrem possibi
 
 Um personagem com **Superforça** pode realizar feitos de força sobre-humana. **Voo** permite voar. **Telepatia** permite ações envolvendo interação mental.
 
-Poderes não aumentam automaticamente Atributos ou Perícias. A competência do personagem nas possibilidades abertas por seus Poderes continua sendo representada por seus Atributos e Perícias.
+Poderes não aumentam automaticamente Atributos ou Perícias. Quando uma possibilidade aberta por um Poder exigir teste, use somente a Perícia Final apropriada.
 
 Na criação, registre o **nome do Poder** e uma **descrição clara do que ele torna possível**.
 
@@ -94,3 +98,40 @@ A definir.
 ## 6. Descrição Pessoal, Social e Mental
 
 A definir.
+
+## Modelo de ficha
+
+```text
+NOME:
+PADRÃO: [1], [2] ou [3]
+
+DESCRIÇÃO FÍSICA IMEDIATA:
+O que qualquer pessoa percebe ao olhar.
+
+ATRIBUTOS [pontos de vida, mana, bônus de dano, cura e criação]
+Vigor [ ] | Destreza [ ] | Razão [ ] | Espírito [ ]
+
+PERÍCIAS FINAIS [usadas em testes: 2D6 + Perícia Final]
+Combate [ ] | Resistência [ ] | Atletismo [ ] | Sobrevivência [ ]
+Pontaria [ ] | Esquiva [ ] | Furtividade [ ] | Mobilidade [ ]
+Conjuração [ ] | Astúcia [ ] | Conhecimento [ ] | Técnica [ ]
+Canalização [ ] | Vontade [ ] | Percepção [ ] | Influência [ ]
+
+PV:
+Atual [ ] / Máximo Atual [ ] [Máximo Base: ]
+
+PM:
+Atual [ ] / Máximo [ ]
+
+PODERES / RECURSOS:
+- Nome: descrição objetiva do que permite fazer.
+
+ITENS / EQUIPAMENTOS:
+- Nome [efeito fixo, RD, dano, carga ou uso]
+
+ESTADOS ATUAIS:
+- Caído, preso, dormindo, ferido etc.
+
+NOTAS:
+Personalidade, vínculos, objetivos e detalhes sociais ou mentais importantes.
+```
