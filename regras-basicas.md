@@ -501,6 +501,10 @@ A diferença central é:
 - **Poderes** são moldáveis por escolha, contexto, teste e PA.
 - **Itens** têm efeito fixo, existência física e limites de posse, acesso, uso ou carga.
 
+A escala de um item comum é fixa. Dedicação do personagem e gasto de PA não aumentam a potência base de armas, veículos ou equipamentos. Mirar melhor pode melhorar a execução de uma ação, mas não torna o projétil, a explosão ou o equipamento fisicamente mais potente.
+
+Quando um equipamento ou veículo fizer parte diretamente de um **Poder/Recurso pessoal** do personagem, como uma armadura tecnológica integrada ao conceito do personagem, ele pode seguir as regras normais de ampliação de escala, desde que a descrição do Poder permita.
+
 ## 9. NPCs e PA
 
 PA é principalmente um recurso dos personagens principais e heróis. NPCs comuns podem ser criados sem PA para reduzir cálculos.
