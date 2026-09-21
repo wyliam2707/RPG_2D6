@@ -8,7 +8,7 @@ Este documento reúne somente regras de jogo já confirmadas. Ele foi organizado
 
 Atributos e Perícias Finais têm funções diferentes durante o jogo.
 
-**Atributos** são usados para Pontos de Vida, Mana, bônus de dano, cura, efeitos e criação de personagem. Eles não são somados em testes.
+**Atributos** são usados para Pontos de Vida, Ampliação, bônus de dano, cura, efeitos e criação de personagem. Eles não são somados em testes.
 
 **Perícias Finais** são usadas em todos os testes. O valor da Perícia Final já inclui o Atributo associado, calculado durante a criação do personagem.
 
@@ -105,7 +105,7 @@ Exemplo: se o jogador disser apenas “Eu ataco”, o narrador não escolhe alvo
 
 Exemplos:
 
-> “Sono é um efeito de alcance Curto. Para alcançar Médio, custa 5 PM. Para afetar múltiplos alvos em Área Curta, custa mais 5 PM. O custo total será 10 PM. Você deseja gastar 10 PM para gerar esse efeito?”
+> “Sono é um efeito de alcance Curto. Para alcançar Médio, custa 5 PA. Para afetar múltiplos alvos em Área Curta, custa mais 5 PA. O custo total será 10 PA. Você deseja gastar 10 PA para gerar esse efeito?”
 
 > “Você pode tentar arrombar a porta, mas nota que existem câmeras de vigilância no local. Deseja continuar?”
 
@@ -159,6 +159,8 @@ Em combate ou outra cena de pressão, o personagem afetado pode gastar sua **Aç
 Se o estado veio do ambiente ou de um objeto sem agente ativo, use dificuldade de **0 a −3**.
 
 Fora de combate, não é necessário rolar turno a turno. Resolva o estado por tempo, ajuda, ferramentas e lógica narrativa.
+
+Estados não possuem uma duração fixa por padrão. Eles permanecem até serem encerrados pela própria lógica do efeito, por libertação, ajuda, remoção da causa ou outra condição apropriada. O resultado do teste altera a qualidade do estado: em sucesso parcial, ele pode surgir em versão reduzida, incompleta ou aproximadamente pela metade; em sucesso completo, surge como pretendido.
 
 ### Efeito rápido
 
@@ -253,7 +255,7 @@ Se o **PV Máximo Atual** chegar a **0**, o personagem morre permanentemente.
 
 ### Descanso Breve
 
-Um **Descanso Breve de 5 minutos** de pausa real recupera o PV Atual até o PV Máximo Atual e recupera os PM até o máximo.
+Um **Descanso Breve de 5 minutos** de pausa real recupera o PV Atual até o PV Máximo Atual e recupera os PA até o máximo.
 
 A cada dia, o personagem recupera PV Máximo Atual em quantidade igual ao seu **Vigor**, com mínimo de **1 PV por dia**, sem ultrapassar o PV Máximo Base.
 
@@ -277,41 +279,41 @@ Cada personagem só pode receber **uma cura de Dano Agravado por dia**.
 
 Durante combate ou outra cena de pressão, o personagem pode usar sua **Ação** para recuperar PV Atual.
 
-Para cada **2 PM** gastos, recupera **1 PV Atual**, até o máximo de **5 PV por turno**.
+Para cada **2 PA** gastos, recupera **1 PV Atual**, até o máximo de **5 PV por turno**.
 
-Assim, em uma única Ação de Fôlego, o personagem pode gastar até **10 PM** para recuperar até **5 PV Atuais**.
+Assim, em uma única Ação de Fôlego, o personagem pode gastar até **10 PA** para recuperar até **5 PV Atuais**.
 
 Fôlego não recupera PV Máximo Atual e não cura Dano Agravado. Ele apenas ajuda o personagem a continuar quando ainda não teve tempo para um Descanso Breve.
 
-## 6. Pontos de Mana (PM)
+## 6. Pontos de Ampliação (PA)
 
-PM representa a **reserva técnica** usada para forçar as capacidades do personagem além do uso normal. O uso normal de Perícias e Poderes não exige gasto de PM.
+PA representa a reserva usada para **ampliar ações, técnicas, Poderes e recursos** além do uso normal. PA não representa magia e pode ser usado por personagens físicos, tecnológicos, sobrenaturais ou mágicos. O uso normal de Perícias e Poderes não exige gasto de PA.
 
-O máximo de PM é:
+O máximo de PA é:
 
-`PM Máximo = [X] × 10`
+`PA Máximo = [X] × 10`
 
 Assim:
 
-- **[1]:** 10 PM.
-- **[2]:** 20 PM.
-- **[3]:** 30 PM.
+- **[1]:** 10 PA.
+- **[2]:** 20 PA.
+- **[3]:** 30 PA.
 
 ### Esforço no teste
 
-Antes de um teste, o personagem pode gastar **5 PM por dado extra**, até o máximo de **+2D6**.
+Antes de um teste, o personagem pode gastar **5 PA por dado extra**, até o máximo de **+2D6**.
 
 - Sem gasto: role 2D6.
-- Com 5 PM: role 3D6.
-- Com 10 PM: role 4D6.
+- Com 5 PA: role 3D6.
+- Com 10 PA: role 4D6.
 
 Mesmo com dados extras, mantenha apenas os **2 melhores dados** e então aplique a Perícia Final e a oposição ou dificuldade.
 
-### Esforço no efeito
+### Ampliação do efeito
 
-Por **5 PM**, o personagem pode adicionar **+1D6** ao dano, à cura ou à geração de PE de uma ação.
+Por **5 PA**, o personagem pode adicionar **+1D6 à escala de um efeito**, respeitando o máximo de **4D6**.
 
-Esse uso é limitado a **+1D6 no efeito** por ação.
+Esse aumento não é exclusivo de magia. Pode ampliar uma ação física, tecnológica, sobrenatural, mágica ou qualquer outro efeito compatível com a situação.
 
 O gasto para melhorar o teste e o gasto para ampliar o efeito são independentes e podem ser usados na mesma ação.
 
@@ -323,7 +325,7 @@ Poderes não possuem níveis ou valores numéricos próprios. Cada Poder deve te
 
 O Poder define a possibilidade. A Perícia Final resolve a ação quando houver incerteza, oposição ou necessidade de medir sua execução.
 
-Poderes são flexíveis. Eles podem ser moldados pela escolha do personagem, pela dedicação da ação, pela situação e pelo uso de PM.
+Poderes são flexíveis. Eles podem ser moldados pela escolha do personagem, pela dedicação da ação, pela situação e pelo uso de PA.
 
 ### Escala de efeito
 
@@ -331,10 +333,14 @@ A escala mede tamanho, força, volume, alcance narrativo ou impacto físico do e
 
 A escala usa **1D6, 2D6, 3D6 ou 4D6**:
 
-- **1D6:** efeito comum ou uso versátil.
-- **2D6:** ação focada ou efeito poderoso.
-- **3D6:** efeito muito poderoso ou de escala excepcional.
+- **1D6:** uso comum, efeito corriqueiro ou recurso comum.
+- **2D6:** dedicação exclusiva por um turno inteiro, cerca de 6 segundos, ou um recurso naturalmente mais poderoso.
+- **3D6:** preparação excepcional já montada, como ritual previamente armado, armadilha elaborada, itens posicionados, dispositivo preparado ou condição equivalente.
 - **4D6:** maior valor da escala de efeito.
+
+Por **5 PA**, aumente a escala em **+1D6**, até o máximo de 4D6.
+
+Exemplos de referência: uma arma comum costuma operar em **1D6**; um tanque de guerra pode representar **2D6**; uma armadilha elaborada ou ritual previamente preparado pode alcançar **3D6**. Uma preparação excepcional reforçada com 5 PA pode alcançar **4D6**.
 
 Quando aplicável, some o Atributo associado ao valor do efeito:
 
@@ -357,7 +363,7 @@ Cada elemento responde a uma pergunta diferente:
 O resultado molda a escala:
 
 - **Falha:** o efeito não cumpre a intenção ou não se estabiliza de forma útil.
-- **Sucesso parcial:** o efeito acontece, mas em escala reduzida, incompleta, rachada, com brechas, instável, baixa demais ou com uma consequência apropriada.
+- **Sucesso parcial:** o efeito acontece de forma reduzida, incompleta ou aproximadamente pela metade. Em efeitos de escala, isso pode significar cair um nível ou manifestar uma versão equivalente mais fraca.
 - **Sucesso completo:** o efeito acontece na escala pretendida.
 
 Exemplo: um personagem tenta criar uma parede grande para bloquear uma rua. Em uma falha, a pressão do Poder é alta e a parede falha ou não surge de forma útil. Em um sucesso parcial, ela pode surgir menor, rachada, baixa demais, com brechas ou bloquear apenas parte da rua. Em um sucesso completo, surge como pretendido e bloqueia a rua.
@@ -375,7 +381,7 @@ Alcances padrão:
 - **Cura:** Curto.
 - **Outros efeitos:** Curto.
 
-Por **5 PM**, o alcance aumenta em **um nível**.
+Por **5 PA**, o alcance aumenta em **um nível**.
 
 ### Alvos, dedicação e área
 
@@ -383,7 +389,7 @@ Uma ação normalmente afeta **1 alvo**.
 
 Ao dedicar a Ação, o personagem pode concentrar o efeito em um alvo com **2D6** ou trocar essa potência por **Área Curta com 1D6**, atingindo os alvos válidos na área.
 
-Na opção em área, o personagem pode gastar **5 PM** para elevar o efeito de **1D6 para 2D6**.
+Na opção em área, o personagem pode gastar **5 PA** para elevar o efeito de **1D6 para 2D6**.
 
 **Área Curta é o máximo.**
 
@@ -391,7 +397,7 @@ Na opção em área, o personagem pode gastar **5 PM** para elevar o efeito de *
 
 Quando um Poder gera uma vantagem ou desvantagem numérica, o efeito base é **+1** ou **−1**.
 
-Por **5 PM**, o efeito pode ser ampliado para **+2** ou **−2**.
+Por **5 PA**, o efeito pode ser ampliado para **+2** ou **−2**.
 
 O bônus ou penalidade só afeta ações compatíveis com a natureza do Poder. Alcance, alvo, área e demais ampliações seguem as regras normais de efeitos.
 
@@ -409,7 +415,7 @@ Se um bônus ou penalidade afetar vários alvos pelas regras normais de área, t
 
 ### Movimento e posição
 
-Quando um Poder move, puxa, empurra, teleporta, levita, arremessa ou reposiciona alguém ou alguma coisa, use normalmente as regras de teste, alcance, alvo, área, PM, oposição, dificuldade e resultado.
+Quando um Poder move, puxa, empurra, teleporta, levita, arremessa ou reposiciona alguém ou alguma coisa, use normalmente as regras de teste, alcance, alvo, área, PA, oposição, dificuldade e resultado.
 
 O Poder define o tipo de movimento possível. A escala define o tamanho, peso, distância ou intensidade do deslocamento quando isso for relevante.
 
@@ -421,11 +427,11 @@ O resultado segue a regra geral:
 
 Quando houver resistência, use a Perícia Final apropriada como oposição. Por exemplo, uma telecinese pode usar **Conjuração contra Atletismo** para tentar agarrar ou mover alguém que resiste.
 
-**Teleportar outra pessoa contra a vontade custa 5 PM e é resistido por Vontade.** Teleportar a si mesmo segue as regras normais de movimento, alcance e do próprio Poder.
+**Teleportar outra pessoa contra a vontade custa 5 PA e é resistido por Vontade.** Teleportar a si mesmo segue as regras normais de movimento, alcance e do próprio Poder.
 
 ### Invocação
 
-Quando um Poder cria ou chama algo físico e inanimado, trate o resultado como um objeto, item ou efeito criado pelo Poder, usando as regras normais de escala, alcance, alvo, área, PM e duração.
+Quando um Poder cria ou chama algo físico e inanimado, trate o resultado como um objeto, item ou efeito criado pelo Poder, usando as regras normais de escala, alcance, alvo, área, PA e duração.
 
 Quando a invocação for capaz de agir, como um drone, cão fantasma, esqueleto, zumbi, enxame ou criatura semelhante, ela recebe uma **ficha simples de NPC aliado** e passa a agir como tal depois de criada.
 
@@ -448,11 +454,21 @@ O resultado do teste define a criação da invocação:
 
 A invocação dura normalmente até o fim da cena.
 
-Por **5 PM**, ela pode permanecer por até **1 hora**. Enquanto essa invocação permanecer ativa, os 5 PM ficam **comprometidos** e não podem ser recuperados. Quando ela for desinvocada, destruída ou a duração terminar, esses PM deixam de ficar comprometidos e podem ser recuperados normalmente.
+Por **5 PA**, ela pode permanecer por até **1 hora**. Enquanto essa invocação permanecer ativa, os 5 PA ficam **comprometidos** e não podem ser recuperados. Quando ela for desinvocada, destruída ou a duração terminar, esses PA deixam de ficar comprometidos e podem ser recuperados normalmente.
 
-Antes da rolagem, o narrador deve informar a escala, os pontos de Atributo previstos, custos de PM, duração, limite de invocações e qualquer oposição ou dificuldade relevante. O jogador confirma ou ajusta a declaração antes do teste.
+Antes da rolagem, o narrador deve informar a escala, os pontos de Atributo previstos, custos de PA, duração, limite de invocações e qualquer oposição ou dificuldade relevante. O jogador confirma ou ajusta a declaração antes do teste.
 
 Depois do resultado, o narrador informa quantos pontos de Atributo a invocação recebeu, o jogador distribui esses pontos e, a partir daí, a invocação passa a agir como **NPC aliado**.
+
+Invocações não distribuem pontos em Perícias. Para qualquer teste, usam diretamente o valor do **Atributo associado** como Perícia Final. Assim, uma invocação com Vigor +2 usa +2 em Combate, Resistência, Atletismo e Sobrevivência.
+
+Os PV de uma invocação são calculados por:
+
+`PV = 5 + (soma dos Atributos × 5)`
+
+Invocações possuem apenas capacidades naturais óbvias daquilo que representam, como um pássaro voar, um peixe nadar ou uma aranha escalar, além de **uma única função mecânica principal**. Essa função pode ser, por exemplo, lutar, disparar, prender, defender, rastrear ou explorar.
+
+Invocações comuns não conjuram magias, não curam e não acumulam várias funções especiais. Se algo aparecer apenas como parte da descrição de outro Poder, isso não o transforma em invocação mecânica. Por exemplo, um corvo espectral pode aparecer na descrição visual de um Poder de Porta ou Teleporte sem receber ficha, ocupar limite de invocações ou agir como NPC.
 
 ## 8. Itens e equipamentos
 
@@ -468,11 +484,11 @@ Um item define o que permite fazer ou qual benefício passivo concede.
 
 A diferença central é:
 
-- **Poderes** são moldáveis por escolha, contexto, teste e PM.
+- **Poderes** são moldáveis por escolha, contexto, teste e PA.
 - **Itens** têm efeito fixo, existência física e limites de posse, acesso, uso ou carga.
 
-## 9. NPCs e PM
+## 9. NPCs e PA
 
-PM é principalmente um recurso dos personagens principais e heróis. NPCs comuns podem ser criados sem PM para reduzir cálculos.
+PA é principalmente um recurso dos personagens principais e heróis. NPCs comuns podem ser criados sem PA para reduzir cálculos.
 
-Vilões importantes podem usar PM ou uma solução simplificada definida para a campanha. Nenhuma regra adicional é necessária para NPCs comuns.
+Vilões importantes podem usar PA ou uma solução simplificada definida para a campanha. Nenhuma regra adicional é necessária para NPCs comuns.
