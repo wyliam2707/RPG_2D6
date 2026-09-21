@@ -134,9 +134,9 @@ No seu turno, um personagem pode normalmente:
 - realizar uma **Ação**;
 - fazer uma **fala breve**.
 
-Esse é um **turno comum**. Nele, a ação usa normalmente escala de **1D6**.
+Esse é um **turno comum**. Nele, ações e efeitos moldáveis do personagem usam normalmente escala de **1D6**. Itens e recursos com escala fixa mantêm sua própria escala.
 
-O personagem pode escolher um **turno dedicado**. Nesse caso, abre mão do movimento e da fala breve para dedicar o turno inteiro apenas à Ação, que passa a usar escala de **2D6**.
+O personagem pode escolher um **turno dedicado**. Nesse caso, abre mão do movimento e da fala breve para dedicar o turno inteiro apenas à Ação. Efeitos moldáveis do personagem passam a usar escala de **2D6**. Itens comuns com escala fixa não aumentam por dedicação.
 
 #### Movimento
 
