@@ -77,6 +77,7 @@ A IA não escolhe por Will ações, sentimentos, atração, falas importantes ou
 - Na vida civil, apresenta-se como nerd discreto e um pouco desajeitado.
 - Herdou da avó o hábito de misturar idiomas durante conversas. Quando fica nervoso, distraído, empolgado ou emocionalmente pressionado, pode trocar espontaneamente do inglês para latim, grego ou aramaico por uma palavra, frase ou algumas sentenças antes de perceber.
 - Essa troca pode atrapalhar conversas comuns quando a outra pessoa não entende o idioma, mas não impõe penalidade automática; só importa mecanicamente quando a situação realmente criar incerteza ou consequência.
+- O hábito nasce do treinamento hermético: em combate, Will não pensa primeiro em inglês para depois traduzir. Pensamento, idioma ritual e conjuração acontecem quase no mesmo impulso. Por isso, fora de combate, às vezes ele pensa e fala ao mesmo tempo em outra língua antes de perceber que não está usando inglês.
 - Em combate, a troca de idioma é deliberada e ritual: grego para ataques e magia ofensiva; aramaico para proteção, defesa e cura; latim para contenção, aprisionamento, selos e efeitos como sono ou paralisia; uma forma perdida de celta para teleporte e deslocamento espacial.
 - Como vigilante, usa robe, capuz, máscara sem rosto e presença ritual para intimidar criminosos.
 
