@@ -18,3 +18,12 @@ Will continuava sendo Will.
 Mas, para um sensor procurando anomalias sem motivo específico, agora havia muito menos para encontrar.
 
 Ele deixou o prédio civilmente e seguiu para o campus como qualquer outro estudante.
+
+
+Depois de algum tempo estudando juntos na biblioteca, Will se despediu de Gwen.
+
+Disse que adoraria encontrá-la novamente pelo campus.
+
+A fala foi bem recebida, ainda que sem transformar o momento em um compromisso formal. Gwen respondeu com humor e deixou claro que a ideia de se encontrarem outra vez não a incomodava.
+
+Will então seguiu o próprio dia.
