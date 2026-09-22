@@ -1,38 +1,40 @@
 # Estado atual
 
 ## Momento
-Primeiras semanas de um novo semestre em Culver University. A campanha está ativa, mas a primeira cena ainda não começou.
+Primeiras semanas de um novo semestre em Culver University, fim da manhã.
 
 ## Cena atual
-Local de abertura: cafeteria do campus de Culver University.
+Cafeteria do campus de Culver University.
 
-A cena deve começar em situação cotidiana e parar na primeira escolha real de Will.
+Will, Gwen e Riri estão presentes. Os três continuam desconhecidos entre si.
+
+Gwen percebeu uma reação incomum de seu sentido-aranha orientada para Will. Riri registrou em seus sensores uma assinatura energética anômala associada a ele. Will percebeu uma aura incomum em Gwen e uma fonte de energia concentrada e sofisticada em Riri.
+
+Nenhuma dessas percepções forneceu identidade, causa completa ou intenção.
 
 ## Posição e condição
-- Gwen Stacy: no campus; PV 40/40; PA 30/30; sem Estados ativos.
-- Riri Williams: no campus; PV 35/35; PA 30/30; sem Estados ativos.
-- Will Jack: no campus; PV 40/40; PA 30/30; sem Estados ativos.
+- Gwen Stacy: cafeteria; PV 40/40; PA 30/30; sem Estados ativos.
+- Riri Williams: cafeteria; PV 35/35; PA 30/30; sem Estados ativos.
+- Will Jack: cafeteria; PV 40/40; PA 30/30; sem Estados ativos.
 
 ## Intenções e processos
 - Gwen, Riri e Will seguem rotinas universitárias normais.
 - Os três mantêm separadas suas identidades civis e heroicas.
-- A campanha deve permitir que a aproximação entre eles comece organicamente a partir da convivência e das oportunidades já preparadas.
+- Nenhuma iniciativa nova foi resolvida após as percepções iniciais.
 
 ## Conhecimento distribuído
-- Gwen, Riri e Will começam como desconhecidos entre si, civilmente e como vigilantes.
-- Nenhum deles sabe que os outros dois também atuam como heróis.
-- Todos já possuem experiência heroica anterior à chegada a Willowdale.
-- Gwen conhece apenas suas próprias capacidades e experiência.
-- Riri conhece apenas sua própria identidade heroica e tecnologia.
-- Will conhece apenas sua própria tradição mágica e experiência.
+- Gwen sabe apenas que seu sentido-aranha reagiu na direção de Will; não sabe por quê.
+- Riri sabe apenas que seus sensores registraram uma anomalia energética associada a Will; não sabe sua natureza.
+- Will percebe uma aura incomum em Gwen e uma fonte de energia incomum em Riri; não conhece a natureza ou identidade heroica de nenhuma delas.
+- Nenhum deles sabe que os outros atuam como heróis.
 
 ## Relações em mudança
-Nenhuma relação entre os três foi estabelecida em jogo ainda.
+Nenhuma relação foi estabelecida ainda.
 
 ## Recursos e objetos relevantes
-- Gwen: traje da Aranha-Fantasma, RD 1, PE 10.
-- Riri: armadura Ironheart, RD 2, PE 10.
-- Will: cajado hermético; robe, capuz e máscara sem RD.
+- Gwen: traje da Aranha-Fantasma, RD 1, PE 10, não exposto na cena.
+- Riri: armadura Ironheart, RD 2, PE 10, não exposta na cena.
+- Will: cajado hermético, robe, capuz e máscara, não expostos na cena.
 
 ## Fios ativos
 - Desenvolvimento do romance entre Will, Gwen e Riri.
@@ -42,15 +44,7 @@ Nenhuma relação entre os três foi estabelecida em jogo ainda.
 - Ameaças urbanas comuns e pequenos supercriminosos.
 - Invasão alienígena futura, ainda distante.
 
-## Primeira oportunidade perceptível
-Na cafeteria, sem determinar reação:
-- o sentido-aranha de Gwen pode reagir de forma incomum na direção de Will;
-- sensores de Riri podem registrar uma anomalia associada a ele;
-- Will pode perceber uma aura incomum em Gwen e uma fonte de energia incomum em Riri.
-
-Essas percepções fornecem informação, não obrigam aproximação, confiança ou ação específica.
-
 ## Retomada
-- Capítulo em andamento: nenhum.
-- Última cena salva: nenhuma.
-- Próximo passo: abrir o primeiro capítulo e iniciar a cena na cafeteria.
+- Capítulo em andamento: Capítulo 001 — Café, Teias e Ruído.
+- Última cena salva: abertura na cafeteria.
+- Ponto exato da próxima decisão: Will percebeu as duas anomalias e ainda não decidiu como reagir.
