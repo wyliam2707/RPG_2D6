@@ -139,3 +139,26 @@ Usando os livros e anotações de Laura, preparou um ritual de velamento. O obje
 O ritual foi um sucesso completo.
 
 Will criou um pequeno Selo de Velamento, capaz de abafar sua assinatura mágica enquanto permanecesse com ele. O selo não escondia conjuração ativa nem tornava Will impossível de detectar sob investigação deliberada, mas eliminava o ruído passivo que havia chamado a atenção dos sensores de Riri.
+
+
+## Encerramento da cena
+
+Naquela noite, já na cobertura, Will decidiu resolver o problema que o scanner de Riri havia revelado.
+
+Sua magia não vazava de forma descontrolada, mas deixava uma assinatura passiva perceptível para meios suficientemente sensíveis. Em vez de continuar desligando equipamentos sempre que alguém chegasse perto demais da verdade, ele recorreu aos ensinamentos de Laura e preparou um selo de velamento.
+
+O ritual funcionou.
+
+A assinatura mágica passiva de Will ficou abafada o bastante para não se apresentar automaticamente a sensores comuns como uma anomalia evidente.
+
+Will guardou o selo e encerrou o dia.
+
+Do outro lado do prédio, Riri tinha um scanner que falhara de uma forma que não sabia explicar e uma tradução em latim que preferia fingir que não tinha conferido duas vezes.
+
+Em outro apartamento, Gwen já tinha um nome para o arqueólogo estranho da cafeteria.
+
+Will Jack.
+
+A noite terminou sem sirenes, portais ou novas perguntas.
+
+Por enquanto.
