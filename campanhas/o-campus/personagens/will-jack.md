@@ -86,14 +86,16 @@ A IA não escolhe por Will ações, sentimentos, atração, falas importantes ou
 
 ## Relações
 - **Laura Jack:** avó e figura parental; falecida há cerca de um ano.
-- **Gwen Stacy:** desconhecida no início da campanha.
-- **Riri Williams:** desconhecida no início da campanha.
+- **Gwen Stacy:** inicialmente desconhecida; atualmente conhecida civil de Culver, estudante de Bioquímica e vizinha de prédio. A aproximação é leve, bem-humorada e marcada por curiosidade, tensão romântica inicial e conversas sobre família, idiomas e rotina universitária. Will não conhece sua identidade heroica.
+- **Riri Williams:** inicialmente desconhecida; atualmente conhecida civil de Culver, estudante de Engenharia e vizinha de prédio. A aproximação é leve, curiosa e competitiva, com flerte sutil e interesse mútuo em mistérios que um percebeu no outro. Will não conhece sua identidade heroica.
 
 ## Conhecimento Relevante
 - Formação em magia hermética transmitida pela linhagem familiar.
 - Conhecimento de símbolos, línguas antigas, rituais e fenômenos sobrenaturais.
 - Conhecimento acadêmico compatível com Arqueologia.
 - Não conhece inicialmente as identidades heroicas de Gwen ou Riri.
+- Sabe que Gwen possui uma característica incomum integrada ao corpo, sem entender sua natureza.
+- Sabe que Riri mantém próxima uma fonte tecnológica de energia compacta e muito intensa, sem conhecer exatamente o objeto ou função.
 
 ## História Consolidada
 - Os pais morreram quando Will tinha cerca de 2 anos.
