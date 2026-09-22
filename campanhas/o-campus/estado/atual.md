@@ -3,56 +3,66 @@
 ## Momento
 Primeiras semanas de um novo semestre em Culver University, noite.
 
-## Cena atual
-Will concluiu uma patrulha noturna após impedir um roubo em um beco. A vítima ficou segura e chamou a polícia. Três criminosos permaneceram contidos e adormecidos no local.
+O Capítulo 001 foi concluído.
 
-Will deixou a área sob ocultação mágica. Saiu sem ser seguido nem identificado diretamente, embora possa existir registro incompleto de um vulto encapuzado.
+## Cena atual
+Nenhuma cena em andamento.
+
+Will está em casa após preparar com sucesso um Selo de Velamento hermético para abafar sua assinatura mágica passiva.
 
 ## Posição e condição
-- Gwen Stacy: cafeteria; PV 40/40; PA 30/30; sem Estados ativos.
-- Riri Williams: cafeteria; PV 35/35; PA 30/30; sem Estados ativos.
-- Will Jack: em deslocamento após a patrulha; PV 40/40; PA 30/30; sem Estados ativos.
+- Gwen Stacy: em Willowdale; PV 40/40; PA 30/30; sem Estados ativos.
+- Riri Williams: em Willowdale; PV 35/35; PA 30/30; sem Estados ativos.
+- Will Jack: em casa; PV 40/40; PA 30/30; sem Estados ativos.
 
 ## Intenções e processos
-- Gwen, Riri e Will seguem rotinas universitárias normais.
-- Os três mantêm separadas suas identidades civis e heroicas.
-- Will escolheu disfarçar o interesse, sentou-se para ler e realizou uma análise discreta usando Percepção Mística. A tentativa falhou e não produziu informação útil além das percepções já existentes. Sem notar hostilidade, decidiu apenas memorizar os rostos de Gwen e Riri e seguir o próprio dia.
+- Gwen, Riri e Will continuam suas rotinas universitárias.
+- Os três preservam suas identidades heroicas.
+- Will pretende evitar novas leituras anômalas involuntárias usando o Selo de Velamento.
+- Riri continua curiosa sobre a leitura energética anômala associada a Will e sobre o desligamento inexplicável de seu scanner.
+- Gwen já reconhece Will e teve com ele uma primeira interação civil positiva.
 
 ## Conhecimento distribuído
-- Gwen sabe apenas que seu sentido-aranha reagiu na direção de Will; não sabe por quê.
-- Riri sabe apenas que seus sensores registraram uma anomalia energética associada a Will; não sabe sua natureza.
-- Will percebe uma aura incomum em Gwen e uma fonte de energia incomum em Riri; tentou analisá-las com Percepção Mística, mas não conseguiu classificá-las nem obter informação adicional útil.
-- Nenhum deles sabe que os outros atuam como heróis.
+- Gwen sabe que Will estuda Arqueologia, fala latim e aprendeu vários idiomas com a avó. Seu sentido-aranha já reagiu à presença dele, mas ela não sabe por quê.
+- Riri sabe que Will estuda Arqueologia, fala inglês, latim, grego e aramaico, aprendeu idiomas com a avó e demonstra interesse por tecnologia aplicada à Arqueologia.
+- Riri sabe que seus sensores detectaram uma anomalia energética associada a Will e que seu scanner apagou de forma não convencional quando ele falou em grego, mas não conhece a causa.
+- Riri traduziu aproximadamente o elogio em latim de Will como “bonita e inteligente”.
+- Will sabe que Gwen estuda Bioquímica e percebe nela uma característica incomum integrada ao próprio corpo, sem saber sua natureza.
+- Will sabe que Riri estuda Engenharia, trabalha com sistemas, materiais e energia, e possui tecnologia capaz de detectar sua assinatura mágica passiva.
+- Nenhum dos três conhece a identidade heroica dos outros.
 
 ## Relações em mudança
-- Riri descobriu que o scanner desligou sem apresentar falha técnica convencional e passou a considerar Will um problema técnico não resolvido. Também traduziu o elogio em latim que ele deixou ao sair.
-- Gwen já teve um primeiro contato civil positivo com Will e sabe seu nome.
-- Will e Gwen tiveram a primeira conversa civil.
-- Gwen sabe que Will estuda Arqueologia, fala latim e aprendeu idiomas com a avó.
-- Will sabe que Gwen estuda Bioquímica.
-- A conversa foi leve e bem recebida; Will flertou em latim e Gwen respondeu positivamente ao gesto, sem estabelecer compromisso ou relação além desse primeiro contato.
-- Riri ainda não conversou com Will nem com Gwen.
+- Will e Gwen tiveram uma primeira conversa civil leve e positiva. Will flertou em latim; Gwen respondeu bem à interação.
+- Will e Riri tiveram dois contatos civis relevantes: uma conversa no prédio e uma ida conjunta para Culver. A interação ganhou humor, curiosidade e flerte.
+- Riri considera Will simultaneamente interessante e tecnicamente suspeito.
+- Gwen e Riri ainda não estabeleceram uma relação entre si em jogo.
 
 ## Recursos e objetos relevantes
-- Will: selo de velamento hermético ativo, preparado para abafar sua assinatura mágica passiva diante de sensores e percepções compatíveis.
-- Gwen: traje da Aranha-Fantasma, RD 1, PE 10, não exposto na cena.
-- Riri: armadura Ironheart, RD 2, PE 10, não exposta na cena.
-- Will: cajado hermético, robe, capuz e máscara; Selo de Velamento ativo sobre sua assinatura mágica passiva.
+- Gwen: traje da Aranha-Fantasma, RD 1, PE 10.
+- Riri: armadura Ironheart, RD 2, PE 10.
+- Will: cajado hermético; robe, capuz e máscara sem RD.
+- Will: Selo de Velamento hermético ativo, capaz de abafar sua assinatura mágica passiva. Não esconde conjuração ativa nem impede investigação deliberada.
 
 ## Fios ativos
 - Desenvolvimento do romance entre Will, Gwen e Riri.
-- Rivalidade e interesse mútuo entre Gwen e Riri.
+- Aproximação inicial de Will com Gwen.
+- Aproximação inicial de Will com Riri.
+- Futuro desenvolvimento da relação entre Gwen e Riri.
+- Identidades secretas.
 - Vida acadêmica, família e carreira.
-- Identidades secretas e vida heroica.
+- Riri investigando a anomalia associada a Will.
+- Possível registro distante de um vigilante encapuzado com cajado após a primeira patrulha.
 - Ameaças urbanas comuns e pequenos supercriminosos.
 - Invasão alienígena futura, ainda distante.
 
-## Retomada
-- Capítulo em andamento: Capítulo 001 — Café, Teias e Ruído.
-- Última cena salva: Will concluiu uma patrulha noturna, deixou três criminosos contidos e adormecidos para a polícia e saiu sob ocultação mágica.
-- Ponto exato da próxima decisão: cena encerrada. Will está em casa após preparar com sucesso um selo de velamento para reduzir sua assinatura mágica passiva.
-
 ## Descobertas recentes
-- Riri investigou o desligamento do scanner e concluiu que não houve falha convencional de bateria, curto ou software. A causa permaneceu aberta.
-- Riri traduziu aproximadamente o elogio em latim de Will como “bonita e inteligente”.
-- Will analisou a própria energia com Percepção Mística e descobriu que possui uma assinatura mágica passiva integrada ao corpo e espírito. Não é vazamento descontrolado, mas pode ser detectada por sensores ou meios místicos sensíveis; fica mais evidente durante conjuração.
+- Will descobriu que não vaza magia de forma descontrolada; possui uma assinatura mágica passiva integrada ao corpo e espírito.
+- Essa assinatura pode ser detectada por sensores ou meios místicos suficientemente sensíveis e fica mais evidente durante conjuração.
+- Will criou com sucesso um Selo de Velamento para reduzir essa assinatura passiva.
+- Riri verificou que o desligamento do scanner não foi causado por falha convencional de bateria, curto ou software.
+
+## Retomada
+- Capítulo em andamento: nenhum.
+- Último capítulo concluído: Capítulo 001 — Café, Teias e Ruído.
+- Última cena salva: Will em casa, após concluir o Selo de Velamento.
+- Ponto de continuação: iniciar o próximo capítulo a partir da rotina normal dos protagonistas, sem encontro ou evento pré-determinado.
