@@ -83,13 +83,16 @@ Nenhum estabelecido.
 - **Ronnie Williams:** mãe.
 - **Gary Williams:** padrasto e figura paterna; vivo nesta continuidade.
 - **Pai biológico:** falecido antes de seu nascimento.
-- **Gwen Stacy:** desconhecida no início da campanha.
-- **Will Jack:** desconhecido no início da campanha.
+- **Gwen Stacy:** inicialmente desconhecida; atualmente conhecida civil, estudante de Bioquímica, vizinha de prédio e presença fisicamente confiante. A relação começou com provocação leve, curiosidade, competição social e atenção mútua.
+- **Will Jack:** inicialmente desconhecido; atualmente conhecido civil, estudante de Arqueologia e vizinho de prédio. Riri confirmou que há uma assinatura energética anômala associada a ele, embora não saiba sua origem. Também reconhece nele humor, gentileza e capacidade de notar coisas incomuns. Há curiosidade, competição e atração inicial, sem compromisso formal.
 
 ## Conhecimento Relevante
 - Conhecimento acadêmico e técnico avançado compatível com seu perfil de engenheira excepcional.
 - Conhece profundamente sua própria armadura e sistemas.
 - Não conhece inicialmente as identidades heroicas de Gwen ou Will.
+- Sabe que Will fala vários idiomas antigos e que possui uma assinatura energética anômala associada a ele, aparentemente abafada por algum fator não identificado.
+- Sabe que Will percebeu algo oculto próximo da mochila dela, mas não sabe como nem com qual precisão.
+- Sabe que Gwen estuda Bioquímica, mora no mesmo prédio e tem postura física rápida, confiante e competitiva.
 
 ## História Consolidada
 - Cresceu com Ronnie Williams e Gary Williams como figura paterna.
