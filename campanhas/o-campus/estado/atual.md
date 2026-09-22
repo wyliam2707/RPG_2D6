@@ -20,12 +20,12 @@ Nenhuma dessas percepções forneceu identidade, causa completa ou intenção.
 ## Intenções e processos
 - Gwen, Riri e Will seguem rotinas universitárias normais.
 - Os três mantêm separadas suas identidades civis e heroicas.
-- Nenhuma iniciativa nova foi resolvida após as percepções iniciais.
+- Will escolheu disfarçar o interesse, sentou-se para ler e realizou uma análise discreta usando Percepção Mística. A tentativa falhou e não produziu informação útil além das percepções já existentes.
 
 ## Conhecimento distribuído
 - Gwen sabe apenas que seu sentido-aranha reagiu na direção de Will; não sabe por quê.
 - Riri sabe apenas que seus sensores registraram uma anomalia energética associada a Will; não sabe sua natureza.
-- Will percebe uma aura incomum em Gwen e uma fonte de energia incomum em Riri; não conhece a natureza ou identidade heroica de nenhuma delas.
+- Will percebe uma aura incomum em Gwen e uma fonte de energia incomum em Riri; tentou analisá-las com Percepção Mística, mas não conseguiu classificá-las nem obter informação adicional útil.
 - Nenhum deles sabe que os outros atuam como heróis.
 
 ## Relações em mudança
@@ -47,4 +47,4 @@ Nenhuma relação foi estabelecida ainda.
 ## Retomada
 - Capítulo em andamento: Capítulo 001 — Café, Teias e Ruído.
 - Última cena salva: abertura na cafeteria.
-- Ponto exato da próxima decisão: Will percebeu as duas anomalias e ainda não decidiu como reagir.
+- Ponto exato da próxima decisão: Will está sentado lendo após uma tentativa malsucedida de analisar discretamente Gwen e Riri.
