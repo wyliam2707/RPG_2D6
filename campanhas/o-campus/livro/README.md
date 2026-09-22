@@ -3,7 +3,9 @@
 Esta pasta guarda a memória integral da campanha em capítulos literários.
 
 ## Em andamento
-Nenhum.
+- Capítulo 002 — Sob o Véu
+  - Período: manhã do dia seguinte
+  - Arquivo: capitulo-002-sob-o-veu.md
 
 ## Concluídos
 - Capítulo 001 — Café, Teias e Ruído
