@@ -11,9 +11,9 @@ Fim do dia narrado em "Sob o Véu".
 Will terminou suas atividades acadêmicas depois de se despedir de Riri. O próximo capítulo pode começar no dia seguinte, antes de qualquer nova ação voluntária de Will.
 
 ## Posição e condição
-- Gwen Stacy: em Willowdale; PV 40/40; PA 30/30; sem Estados ativos.
-- Riri Williams: em Willowdale; PV 35/35; PA 30/30; sem Estados ativos.
-- Will Jack: em Willowdale; PV 40/40; PA 30/30; sem Estados ativos; Selo de Velamento ativo.
+- Gwen Stacy: em Willowdale; PV 35/35; PA 30/30; sem Estados ativos.
+- Riri Williams: em Willowdale; PV 30/30; PA 30/30; sem Estados ativos.
+- Will Jack: em Willowdale; PV 30/30; PA 30/30; sem Estados ativos; Selo de Velamento ativo.
 
 ## Intenções e processos
 - Gwen, Riri e Will continuam suas rotinas universitárias.
