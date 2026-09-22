@@ -121,3 +121,12 @@ Riri descobriu que Will fala inglês, latim, grego e aramaico, além de algumas 
 Riri, por sua vez, falou sobre Engenharia, sistemas, materiais e energia. A conversa foi leve, com provocações amistosas e curiosidade crescente dos dois lados.
 
 Como ambos estavam indo para Culver University, seguiram juntos para o campus.
+
+
+Depois de deixar Riri no laboratório, Will foi almoçar e decidiu investigar a própria assinatura antes de permitir qualquer nova leitura tecnológica.
+
+Usando Percepção Mística sobre si mesmo, obteve uma leitura clara: ele não está "vazando" energia como uma bateria defeituosa. Sua magia, porém, deixa uma assinatura passiva e contínua integrada ao próprio corpo e espírito, resultado da linhagem hermética e de anos de prática.
+
+Essa assinatura é fraca demais para chamar atenção comum, mas pode ser percebida por meios especializados, mágicos ou tecnológicos suficientemente sensíveis. Quando Will conjura, usa fórmulas ou manipula energia, a assinatura se torna momentaneamente mais evidente.
+
+Isso explica por que o scanner de Riri detectou algo mesmo quando Will estava apenas em roupas civis.
