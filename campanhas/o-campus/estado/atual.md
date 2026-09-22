@@ -47,4 +47,4 @@ Will deixou a área sob ocultação mágica. Saiu sem ser seguido nem identifica
 ## Retomada
 - Capítulo em andamento: Capítulo 001 — Café, Teias e Ruído.
 - Última cena salva: Will concluiu uma patrulha noturna, deixou três criminosos contidos e adormecidos para a polícia e saiu sob ocultação mágica.
-- Ponto exato da próxima decisão: Will retornou para casa civilmente após a patrulha noturna, com PA 30/30.
+- Ponto exato da próxima decisão: Will e Riri seguem juntos para Culver, conversando no caminho.
