@@ -24,7 +24,7 @@ A associação entre Will Jack e sua identidade de vigilante não é conheciment
 Vigor [0] | Destreza [-1] | Razão [+1] | Espírito [+2]
 
 ## Perícias Finais
-Combate [+2] | Resistência [+1] | Atletismo [0] | Sobrevivência [0]
+Combate [+1] | Resistência [+2] | Atletismo [0] | Sobrevivência [0]
 Pontaria [-1] | Esquiva [+1] | Furtividade [0] | Mobilidade [-1]
 Conjuração [+3] | Astúcia [+1] | Conhecimento [+2] | Técnica [+1]
 Canalização [+3] | Vontade [+2] | Percepção [+4] | Influência [+2]
@@ -36,13 +36,13 @@ Atual [30] / Máximo Atual [30] [Máximo Base: 30]
 Atual [30] / Máximo [30]
 
 ## Poderes / Recursos
-- **Magia Hermética:** permite produzir efeitos mágicos por fórmulas, símbolos, gestos, palavras e rituais.
-- **Barreiras Arcanas:** permite criar proteção mágica, escudos e campos defensivos.
-- **Selos e Runas:** permite preparar marcas, círculos e inscrições com efeitos condicionais.
-- **Percepção Mística:** permite perceber auras, assinaturas mágicas, encantamentos e fenômenos sobrenaturais.
-- **Manipulação Arcana:** permite produzir efeitos compatíveis como empurrar, prender, iluminar, mover objetos, abrir passagem ou alterar condições por magia.
-- **Rituais Herméticos:** permite efeitos mais elaborados quando há tempo, preparação, componentes e estudo.
-- **Cura Hermética:** permite recuperar ferimentos e estabilizar condições físicas compatíveis, seguindo as regras universais de cura, escala e PA.
+- **Magia Hermética > Estudo Hermético:** Will conjura efeitos mágicos por meio de estudo hermético, encantos, gestos, símbolos, fórmulas e línguas rituais. A magia normalmente exige algum grau de expressão verbal, gestual ou simbólica, mas encantos simples podem ser feitos de forma velada quando a situação permitir. Cada idioma hermético conduz melhor certos tipos de efeito.
+- **Aramaico — Proteção e Restauração:** permite cura, proteção, barreiras, reforços, bônus, estabilização e preservação.
+- **Latim — Véu, Espírito e Condição:** permite ilusões, invocações, maldições, sono, paralisia, condições, engano, enfraquecimento e efeitos espirituais ou mentais compatíveis.
+- **Celta — Elementos e Natureza:** permite controle elemental, ataques, clima, vento, fogo, água, terra, plantas e forças naturais.
+- **Grego — Movimento e Espaço:** permite transporte, voo, portais, deslocamento, teleporte de curto alcance e manipulação espacial simples.
+- **Percepção de Aura:** sentido místico passivo sempre ativo. Permite sentir a presença, estranheza, intensidade ou assinatura geral de auras, encantamentos, fenômenos sobrenaturais e anomalias místicas. Não entrega análise completa automaticamente; detalhes, origem, função ou estrutura exigem foco, teste ou estudo.
+- **Runas e Rituais:** permite produzir efeitos herméticos maiores, duradouros, condicionais ou preparados por meio de círculos, inscrições, símbolos, componentes e estudo prévio. Esses efeitos exigem tempo, materiais, espaço adequado ou preparação, não sendo conjurados livremente no fluxo normal de uma ação imediata.
 - **Biblioteca e legado de Laura Jack:** livros, anotações, traduções, grimórios e conhecimento acumulado da linhagem familiar.
 
 ## Itens / Equipamentos
@@ -81,7 +81,7 @@ A IA não escolhe por Will ações, sentimentos, atração, falas importantes ou
 - O hábito nasce do treinamento hermético: em combate, Will aprendeu a pensar a fórmula e pronunciá-la praticamente no mesmo impulso, sem primeiro formular tudo em inglês para depois traduzir. Pensamento ritual, idioma e conjuração acontecem juntos.
 - Fora de combate, esse reflexo pode vazar quando um pensamento íntimo, espontâneo ou emocional atravessa o filtro consciente. Ele pode pensar algo como “nossa, que...” e deixar escapar em voz baixa uma palavra em outro idioma, como **πανέμορφη** [linda], antes de perceber que falou.
 - Na narração, esses vazamentos aparecem em português com apenas a palavra ou trecho escapado no idioma correspondente, seguido de tradução entre colchetes. Use ocasionalmente, sem transformar toda fala ou pensamento em troca de idioma.
-- Em combate, a troca de idioma é deliberada e ritual: grego para ataques e magia ofensiva; aramaico para proteção, defesa e cura; latim para contenção, aprisionamento, selos e efeitos como sono ou paralisia; uma forma perdida de celta para teleporte e deslocamento espacial.
+- Em combate, a troca de idioma é deliberada e ritual: aramaico para proteção, cura, restauração e reforços; latim para ilusão, invocação, maldição e condições; celta para elementos, ataque, clima e natureza; grego para transporte, voo, portais e teleporte de curto alcance.
 - Como vigilante, usa robe, capuz, máscara sem rosto e presença ritual para intimidar criminosos.
 
 ## Relações
