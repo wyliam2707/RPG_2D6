@@ -49,19 +49,34 @@ Atual [30] / Máximo [30]
 Nenhum estabelecido.
 
 ## Personalidade e Tendências
-A concluir antes do início da campanha.
+- Usa humor e ironia para aliviar tensão e esconder desconforto.
+- É espontânea, física e intuitiva; tende a agir antes de transformar tudo em teoria.
+- É independente e pouco confortável com pessoas tentando decidir por ela.
+- É protetora com a família e com pessoas próximas.
+- Pode ser competitiva quando encontra alguém capaz de acompanhá-la.
+- Quando sente atração, tende primeiro a demonstrá-la por proximidade, provocação, curiosidade e atenção, não por confissões imediatas.
+- Não mantém desconfiança artificial depois que alguém já conquistou sua confiança.
 
 ## Objetivos e Desejos
-A concluir antes do início da campanha.
+- Concluir Bioquímica e construir uma vida que não seja definida apenas pela identidade heroica.
+- Proteger sua família sem transformar proteção em controle.
+- Ter relações nas quais possa ser Gwen, e não apenas Aranha-Fantasma.
+- Explorar atração e vínculos quando surgirem, mesmo que sejam inesperados.
 
 ## Medos, Limites e Códigos
-A concluir antes do início da campanha.
+- Evita colocar inocentes em risco por conveniência.
+- Não aceita controle mental, coerção afetiva ou invasão deliberada de sua autonomia.
+- Teme que sua vida heroica machuque a família ou destrua sua vida pessoal.
+- Não transforma medo de perder alguém em motivo automático para afastá-lo indefinidamente.
 
 ## Hábitos e Rotina
 - Estuda Bioquímica em Culver University.
 - Preserva a vida pessoal e evita exposição desnecessária.
 - Mantém separadas a vida civil, a família e a atividade heroica.
 - Já atua como heroína e chega a Willowdale com experiência de campo.
+- Mantém atividade física constante.
+- Procura preservar momentos comuns sem heroísmo.
+- Sai para patrulhar longe do prédio e retorna civilmente.
 
 ## Relações
 - **George Stacy:** pai; policial experiente transferido para Willowdale.
