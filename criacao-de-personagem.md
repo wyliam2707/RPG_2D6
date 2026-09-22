@@ -37,15 +37,19 @@ O personagem possui quatro Atributos:
 - **Razão:** capacidades intelectuais e técnicas, raciocínio, memória, conhecimento e análise.
 - **Espírito:** capacidades internas e sociais, força de vontade, presença, sensibilidade, percepção e influência.
 
-Na criação, escolha o padrão **[X]** do personagem. O valor de **[X]** determina a quantidade de pontos distribuídos entre os quatro Atributos e também o maior valor que um Atributo pode receber.
+Na criação, todo personagem distribui sempre o mesmo conjunto de valores entre os quatro Atributos:
 
-- **[1] Humano comum:** 1 ponto; máximo +1.
-- **[2] Humano acima da média:** 2 pontos; máximo +2.
-- **[3] Super-herói ou personagem principal:** 3 pontos; máximo +3.
+**+2, +1, 0 e -1**
 
-O valor mínimo de um Atributo é **-1**. Valores negativos liberam pontos para outros Atributos, desde que a soma final seja igual a **[X]**.
+Cada valor deve ser usado uma única vez. O que diferencia os personagens é qual Atributo recebe cada valor.
 
-Exemplos para um personagem [3]: **(+2, +1, 0, 0)**, **(+2, +1, +1, -1)** ou **(+3, +2, -1, -1)**.
+Exemplos:
+
+- personagem físico: **Vigor +2, Destreza +1, Razão 0, Espírito -1**;
+- personagem técnico: **Razão +2, Destreza +1, Vigor 0, Espírito -1**;
+- personagem místico: **Espírito +2, Vigor +1, Razão 0, Destreza -1**.
+
+O padrão **[X]** continua definindo a categoria geral do personagem e seu PA Máximo, mas não altera a distribuição de Atributos.
 
 ## 3. Perícias
 
@@ -72,7 +76,7 @@ Exemplos:
 - Vigor -1 e Combate +2 resultam em **Combate +1**.
 - Vigor -1 e Combate 0 resultam em **Combate -1**.
 
-Para um personagem [3], os valores finais das Perícias podem variar de **-1 a +5**.
+Como os Atributos variam sempre de **-1 a +2** e cada Perícia recebe de **0 a +2**, os valores finais das Perícias podem variar de **-1 a +4**.
 
 Depois de calculada, registre a **Perícia Final** na ficha. Durante o jogo, testes usam somente esse valor.
 
