@@ -47,4 +47,9 @@ Will deixou a área sob ocultação mágica. Saiu sem ser seguido nem identifica
 ## Retomada
 - Capítulo em andamento: Capítulo 001 — Café, Teias e Ruído.
 - Última cena salva: Will concluiu uma patrulha noturna, deixou três criminosos contidos e adormecidos para a polícia e saiu sob ocultação mágica.
-- Ponto exato da próxima decisão: Will e Riri seguem juntos para Culver, conversando no caminho.
+- Ponto exato da próxima decisão: Will está no almoço, agora sabendo por que sensores suficientemente sensíveis podem detectar sua assinatura mágica.
+
+## Descobertas recentes
+- Riri investigou o desligamento do scanner e concluiu que não houve falha convencional de bateria, curto ou software. A causa permaneceu aberta.
+- Riri traduziu aproximadamente o elogio em latim de Will como “bonita e inteligente”.
+- Will analisou a própria energia com Percepção Mística e descobriu que possui uma assinatura mágica passiva integrada ao corpo e espírito. Não é vazamento descontrolado, mas pode ser detectada por sensores ou meios místicos sensíveis; fica mais evidente durante conjuração.
