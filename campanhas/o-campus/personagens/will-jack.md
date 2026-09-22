@@ -53,13 +53,23 @@ Atual [30] / Máximo [30]
 Nenhum estabelecido.
 
 ## Personalidade e Tendências
-A concluir antes do início da campanha.
+Estas são apenas referências de interpretação. O Narrador não pode usá-las para escolher ações voluntárias por Will.
+- Civilmente aparenta ser nerd, discreto, desajeitado e pouco ameaçador.
+- Como vigilante, assume postura mais formal, ritualística e intimidadora.
+- Possui experiência heroica e não reage como novato diante de perigo.
+- Arqueologia, magia e curiosidade pelo sobrenatural fazem parte natural de sua rotina.
 
 ## Objetivos e Desejos
-A concluir antes do início da campanha.
+Referências já estabelecidas, sem limitar escolhas futuras do jogador:
+- Concluir Arqueologia.
+- Continuar a tradição hermética de Laura Jack.
+- Construir uma nova fase da vida após a morte da avó.
+- Conciliar vida civil e atividade de vigilante.
 
 ## Medos, Limites e Códigos
-A concluir antes do início da campanha.
+Nenhum medo, limite moral ou código adicional deve ser presumido pelo Narrador sem declaração ou estabelecimento em jogo.
+
+A IA não escolhe por Will ações, sentimentos, atração, falas importantes ou outras decisões voluntárias.
 
 ## Hábitos e Rotina
 - Estuda Arqueologia em Culver University.
