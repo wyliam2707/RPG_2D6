@@ -11,7 +11,7 @@ Will deixou a área sob ocultação mágica. Saiu sem ser seguido nem identifica
 ## Posição e condição
 - Gwen Stacy: cafeteria; PV 40/40; PA 30/30; sem Estados ativos.
 - Riri Williams: cafeteria; PV 35/35; PA 30/30; sem Estados ativos.
-- Will Jack: em deslocamento após a patrulha; PV 40/40; PA 15/30; sem Estados ativos.
+- Will Jack: em deslocamento após a patrulha; PV 40/40; PA 30/30; sem Estados ativos.
 
 ## Intenções e processos
 - Gwen, Riri e Will seguem rotinas universitárias normais.
@@ -47,4 +47,4 @@ Will deixou a área sob ocultação mágica. Saiu sem ser seguido nem identifica
 ## Retomada
 - Capítulo em andamento: Capítulo 001 — Café, Teias e Ruído.
 - Última cena salva: Will concluiu uma patrulha noturna, deixou três criminosos contidos e adormecidos para a polícia e saiu sob ocultação mágica.
-- Ponto exato da próxima decisão: Will está livre para decidir para onde vai após deixar o beco.
+- Ponto exato da próxima decisão: Will retornou para casa civilmente após a patrulha noturna, com PA 30/30.
