@@ -57,3 +57,12 @@ A jovem morena continua acompanhada por uma fonte de energia densa e sofisticada
 Por alguns segundos, a sensação é quase irritante: duas respostas existem diante dele, mas nenhuma aceita virar uma frase completa.
 
 Will deixa a percepção recuar e mantém os olhos no livro.
+
+
+Sem sinal de hostilidade, Will não insiste.
+
+Ele memoriza os rostos das duas, associa cada uma à impressão que acabou de sentir e volta de verdade ao livro.
+
+Não há razão para transformar curiosidade em confronto.
+
+A cafeteria segue seu curso normal, e Will deixa que a manhã faça o mesmo.
