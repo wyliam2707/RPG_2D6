@@ -21,16 +21,16 @@ PADRÃO: [3]
 A associação entre Gwen Stacy e Aranha-Fantasma não é conhecimento público.
 
 ## Atributos
-Vigor [+1] | Destreza [+3] | Razão [0] | Espírito [-1]
+Vigor [+1] | Destreza [+2] | Razão [0] | Espírito [-1]
 
 ## Perícias Finais
 Combate [+3] | Resistência [+2] | Atletismo [+1] | Sobrevivência [+1]
-Pontaria [+3] | Esquiva [+5] | Furtividade [+4] | Mobilidade [+3]
+Pontaria [+2] | Esquiva [+4] | Furtividade [+3] | Mobilidade [+2]
 Conjuração [0] | Astúcia [+1] | Conhecimento [+2] | Técnica [0]
 Canalização [-1] | Vontade [0] | Percepção [+1] | Influência [-1]
 
 ## PV
-Atual [40] / Máximo Atual [40] [Máximo Base: 40]
+Atual [35] / Máximo Atual [35] [Máximo Base: 35]
 
 ## PA
 Atual [30] / Máximo [30]
