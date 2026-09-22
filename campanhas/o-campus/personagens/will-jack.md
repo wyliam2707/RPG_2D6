@@ -21,16 +21,16 @@ PADRÃO: [3]
 A associação entre Will Jack e sua identidade de vigilante não é conhecimento público.
 
 ## Atributos
-Vigor [+1] | Destreza [-1] | Razão [0] | Espírito [+2]
+Vigor [0] | Destreza [-1] | Razão [+1] | Espírito [+2]
 
 ## Perícias Finais
-Combate [+3] | Resistência [+2] | Atletismo [+1] | Sobrevivência [+1]
+Combate [+2] | Resistência [+1] | Atletismo [0] | Sobrevivência [0]
 Pontaria [-1] | Esquiva [+1] | Furtividade [0] | Mobilidade [-1]
-Conjuração [+2] | Astúcia [0] | Conhecimento [+1] | Técnica [0]
-Canalização [+4] | Vontade [+3] | Percepção [+2] | Influência [+2]
+Conjuração [+3] | Astúcia [+1] | Conhecimento [+2] | Técnica [+1]
+Canalização [+3] | Vontade [+2] | Percepção [+4] | Influência [+2]
 
 ## PV
-Atual [35] / Máximo Atual [35] [Máximo Base: 35]
+Atual [30] / Máximo Atual [30] [Máximo Base: 30]
 
 ## PA
 Atual [30] / Máximo [30]
