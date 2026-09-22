@@ -3,9 +3,10 @@
 Esta pasta guarda a memória integral da campanha em capítulos literários.
 
 ## Em andamento
-- Capítulo 001 — Café, Teias e Ruído
-  - Período: primeiras semanas do semestre, fim da manhã
-  - Arquivo: capitulo-001-cafe-teias-e-ruido.md
+Nenhum.
 
 ## Concluídos
-Nenhum.
+- Capítulo 001 — Café, Teias e Ruído
+  - Período: primeiras semanas do semestre
+  - Arquivo: capitulo-001-cafe-teias-e-ruido.md
+  - Encerramento: Will termina o dia em casa após criar com sucesso um Selo de Velamento para abafar sua assinatura mágica passiva.
