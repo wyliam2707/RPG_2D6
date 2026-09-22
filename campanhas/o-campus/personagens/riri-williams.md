@@ -49,18 +49,35 @@ Atual [30] / Máximo [30]
 Nenhum estabelecido.
 
 ## Personalidade e Tendências
-A concluir antes do início da campanha.
+- É analítica, direta e extremamente curiosa.
+- Gosta de entender como as coisas funcionam, principalmente quando algo desafia suas explicações.
+- É competitiva intelectualmente e pouco inclinada a fingir que não sabe quando está certa.
+- Pode ficar obstinada diante de um problema interessante.
+- Demonstra afeto mais por presença, ajuda, atenção e compartilhamento de projetos do que por grandes discursos.
+- Diante de atração inesperada, tende primeiro a analisar, racionalizar e demorar mais que Gwen para admitir o que sente.
+- Rivalidade não significa hostilidade permanente; admiração pode crescer justamente da competição.
 
 ## Objetivos e Desejos
-A concluir antes do início da campanha.
+- Tornar-se uma engenheira extraordinária sem depender da sombra de outros gênios.
+- Aperfeiçoar a armadura por mérito próprio.
+- Construir uma vida pessoal que não seja sacrificada ao trabalho.
+- Encontrar pessoas capazes de acompanhá-la intelectual e emocionalmente.
 
 ## Medos, Limites e Códigos
-A concluir antes do início da campanha.
+- Detesta ser tratada como criança, mascote ou apenas como “gênio útil”.
+- Não tolera que outra pessoa reivindique crédito pelo trabalho dela.
+- Evita colocar civis em risco apenas para testar tecnologia.
+- Pode se sentir desconfortável quando não consegue compreender ou modelar uma situação, especialmente diante de fenômenos mágicos.
+- Não usa inteligência como justificativa para desconsiderar sentimentos alheios.
 
 ## Hábitos e Rotina
 - Estuda Engenharia em Culver University.
 - Evita exposição desnecessária e preserva cuidadosamente a vida pessoal.
 - Já atua como heroína e chega a Willowdale com experiência de campo.
+- Divide a rotina entre faculdade, laboratório, manutenção da armadura e patrulhas.
+- Pode perder a noção do horário quando está concentrada em um projeto.
+- Costuma acompanhar sensores e equipamentos quase automaticamente.
+- Preserva a vida familiar com Ronnie e Gary.
 
 ## Relações
 - **Ronnie Williams:** mãe.
