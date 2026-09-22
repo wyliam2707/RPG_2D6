@@ -38,3 +38,22 @@ Nenhum alarme tocou.
 A fila continuou andando.
 
 Três desconhecidos permaneceram numa cafeteria universitária enquanto, por motivos diferentes, cada um acabava de descobrir que pelo menos uma das outras pessoas não era exatamente o que parecia.
+
+
+Will ergue os olhos apenas o suficiente para confirmar que as duas ainda estavam ali.
+
+Um relance.
+
+Depois, novamente o livro.
+
+Sob a aparência banal de um estudante concentrado, ele deixa a própria sensibilidade hermética tocar o ambiente de forma discreta, tentando separar impressão de estrutura, aura de assinatura, presença de natureza.
+
+A leitura não fecha.
+
+A jovem loira continua envolta por algo vivo, incomum e difícil de classificar. Não parece feitiço, maldição ou encantamento reconhecível. É simplesmente diferente.
+
+A jovem morena continua acompanhada por uma fonte de energia densa e sofisticada. Will percebe que ela está ali, mas não consegue dizer de que tecnologia, princípio ou estrutura aquilo depende.
+
+Por alguns segundos, a sensação é quase irritante: duas respostas existem diante dele, mas nenhuma aceita virar uma frase completa.
+
+Will deixa a percepção recuar e mantém os olhos no livro.
