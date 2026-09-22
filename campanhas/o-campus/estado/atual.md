@@ -20,7 +20,7 @@ Nenhuma dessas percepções forneceu identidade, causa completa ou intenção.
 ## Intenções e processos
 - Gwen, Riri e Will seguem rotinas universitárias normais.
 - Os três mantêm separadas suas identidades civis e heroicas.
-- Will escolheu disfarçar o interesse, sentou-se para ler e realizou uma análise discreta usando Percepção Mística. A tentativa falhou e não produziu informação útil além das percepções já existentes.
+- Will escolheu disfarçar o interesse, sentou-se para ler e realizou uma análise discreta usando Percepção Mística. A tentativa falhou e não produziu informação útil além das percepções já existentes. Sem notar hostilidade, decidiu apenas memorizar os rostos de Gwen e Riri e seguir o próprio dia.
 
 ## Conhecimento distribuído
 - Gwen sabe apenas que seu sentido-aranha reagiu na direção de Will; não sabe por quê.
@@ -47,4 +47,4 @@ Nenhuma relação foi estabelecida ainda.
 ## Retomada
 - Capítulo em andamento: Capítulo 001 — Café, Teias e Ruído.
 - Última cena salva: abertura na cafeteria.
-- Ponto exato da próxima decisão: Will está sentado lendo após uma tentativa malsucedida de analisar discretamente Gwen e Riri.
+- Ponto exato da próxima decisão: Will decidiu não provocar contato e segue a rotina universitária, tendo apenas memorizado os rostos de Gwen e Riri.
