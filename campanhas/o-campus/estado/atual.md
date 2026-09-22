@@ -29,7 +29,11 @@ Nenhuma dessas percepções forneceu identidade, causa completa ou intenção.
 - Nenhum deles sabe que os outros atuam como heróis.
 
 ## Relações em mudança
-Nenhuma relação foi estabelecida ainda.
+- Will e Gwen tiveram a primeira conversa civil.
+- Gwen sabe que Will estuda Arqueologia, fala latim e aprendeu idiomas com a avó.
+- Will sabe que Gwen estuda Bioquímica.
+- A conversa foi leve e bem recebida; Will flertou em latim e Gwen respondeu positivamente ao gesto, sem estabelecer compromisso ou relação além desse primeiro contato.
+- Riri ainda não conversou com Will nem com Gwen.
 
 ## Recursos e objetos relevantes
 - Gwen: traje da Aranha-Fantasma, RD 1, PE 10, não exposto na cena.
@@ -47,4 +51,4 @@ Nenhuma relação foi estabelecida ainda.
 ## Retomada
 - Capítulo em andamento: Capítulo 001 — Café, Teias e Ruído.
 - Última cena salva: abertura na cafeteria.
-- Ponto exato da próxima decisão: Will decidiu não provocar contato e segue a rotina universitária, tendo apenas memorizado os rostos de Gwen e Riri.
+- Ponto exato da próxima decisão: Will encerrou a conversa com Gwen em bons termos e segue normalmente o restante do dia.
