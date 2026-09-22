@@ -103,3 +103,12 @@ Will então curou o ferimento leve da vítima com Cura Hermética, usando Canali
 Antes de sair, pediu à vítima que chamasse a polícia para “as belas adormecidas”.
 
 Will deixou o local usando magia para ocultar sua presença. A execução foi apenas parcial: ele saiu sem ser seguido ou identificado diretamente, mas não eliminou toda possibilidade de um vulto encapuzado ter sido registrado à distância.
+
+
+Depois da ocorrência no beco, Will continuou a patrulha pelos telhados usando magia para se deslocar entre os prédios.
+
+Quando percebeu que já havia gasto energia suficiente por uma noite, escolheu um telhado tranquilo, sentou-se e meditou por alguns minutos.
+
+O descanso breve restaurou seus Pontos de Ampliação até o máximo.
+
+Antes de voltar para casa, Will desfez a aparência heroica longe do prédio e retornou civilmente, preservando a identidade secreta.
