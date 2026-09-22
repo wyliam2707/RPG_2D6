@@ -82,13 +82,15 @@ Nenhum estabelecido.
 - **George Stacy:** pai; policial experiente transferido para Willowdale.
 - **Helen Stacy:** mãe; viva e presente.
 - **Emily Stacy:** irmã mais nova.
-- **Riri Williams:** desconhecida no início da campanha.
-- **Will Jack:** desconhecido no início da campanha.
+- **Riri Williams:** inicialmente desconhecida; atualmente conhecida civil, estudante de Engenharia, vizinha de prédio e presença intelectualmente competitiva. A relação começou com provocação leve, curiosidade e atenção mútua.
+- **Will Jack:** inicialmente desconhecido; atualmente conhecido civil, estudante de Arqueologia e vizinho de prédio. Gwen teve conversas leves com ele na biblioteca, no apartamento e no almoço, percebeu seu humor, sua solidão discreta e o hábito de escapar para idiomas antigos. Há curiosidade e atração inicial, sem compromisso formal.
 
 ## Conhecimento Relevante
 - Conhecimento acadêmico compatível com seu curso de Bioquímica.
 - Conhece suas próprias capacidades aracnídeas e possui experiência no uso delas como vigilante.
 - Não conhece inicialmente as identidades heroicas de Riri ou Will.
+- Sabe que Will fala vários idiomas antigos e que alguns vazamentos linguísticos têm tom de elogio ou nervosismo, mesmo quando ela não compreende a frase literal.
+- Sabe que Riri carrega sensores/equipamentos no campus e trata isso como material escolar de Engenharia.
 
 ## História Consolidada
 - Integra uma família de quatro pessoas com George, Helen e Emily Stacy.
