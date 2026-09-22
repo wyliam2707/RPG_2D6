@@ -113,6 +113,6 @@ Existe uma invasão alienígena futura como grande escalada de longo prazo, sem 
 - Livro: livro/README.md
 
 ## Retomada
-- Capítulo atual: ainda não aberto.
-- Último capítulo concluído: nenhum.
-- Ponto de continuação: abrir a primeira cena na cafeteria de Culver.
+- Capítulo atual: nenhum.
+- Último capítulo concluído: Capítulo 001 — Café, Teias e Ruído.
+- Ponto de continuação: Will está em casa após criar o Selo de Velamento. O próximo capítulo deve partir da rotina normal dos protagonistas, sem encontro ou evento pré-determinado.
