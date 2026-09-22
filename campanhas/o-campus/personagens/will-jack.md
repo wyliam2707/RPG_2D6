@@ -48,6 +48,7 @@ Atual [30] / Máximo [30]
 ## Itens / Equipamentos
 - **Cajado Hermético:** cajado mágico comum usado como foco ritual e arma branca. Ajuda Will em ações de ataque e combate compatíveis, sem possuir RD, PE ou poder especial próprio.
 - **Robe, capuz e máscara sem rosto:** vestimenta ritual e identidade heroica. Não concede RD.
+- **Selo de Velamento:** pequeno sigilo hermético preparado por Will para abafar sua assinatura mágica passiva. Enquanto estiver com ele, leituras casuais tecnológicas ou místicas tendem a tratá-lo como normal. Não oculta magia ativa e não impede uma investigação deliberada competente.
 
 ## Estados Atuais
 Nenhum estabelecido.
