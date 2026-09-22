@@ -34,7 +34,7 @@ Will deixou a área sob ocultação mágica. Saiu sem ser seguido nem identifica
 ## Recursos e objetos relevantes
 - Gwen: traje da Aranha-Fantasma, RD 1, PE 10, não exposto na cena.
 - Riri: armadura Ironheart, RD 2, PE 10, não exposta na cena.
-- Will: cajado hermético, robe, capuz e máscara, não expostos na cena.
+- Will: cajado hermético, robe, capuz e máscara; Selo de Velamento ativo sobre sua assinatura mágica passiva.
 
 ## Fios ativos
 - Desenvolvimento do romance entre Will, Gwen e Riri.
@@ -47,7 +47,7 @@ Will deixou a área sob ocultação mágica. Saiu sem ser seguido nem identifica
 ## Retomada
 - Capítulo em andamento: Capítulo 001 — Café, Teias e Ruído.
 - Última cena salva: Will concluiu uma patrulha noturna, deixou três criminosos contidos e adormecidos para a polícia e saiu sob ocultação mágica.
-- Ponto exato da próxima decisão: Will está no almoço, agora sabendo por que sensores suficientemente sensíveis podem detectar sua assinatura mágica.
+- Ponto exato da próxima decisão: Will está em casa após criar com sucesso um Selo de Velamento para reduzir sua assinatura mágica passiva.
 
 ## Descobertas recentes
 - Riri investigou o desligamento do scanner e concluiu que não houve falha convencional de bateria, curto ou software. A causa permaneceu aberta.
