@@ -79,3 +79,16 @@ Quando Will comentou que havia aprendido latim com a avó e que misturava língu
 Gwen respondeu com humor e curiosidade, e os dois se despediram em bons termos.
 
 Will então seguiu o próprio dia, sem procurar prolongar o encontro.
+
+
+À noite, Will saiu para patrulhar sob sua identidade de mago hermético.
+
+Em um beco, encontrou três homens cercando um rapaz junto a uma motocicleta. Ainda oculto da atenção deles, atacou primeiro com uma rajada mágica não letal.
+
+O ataque foi um sucesso completo. A rajada causou 2 pontos de dano não letal: 1 pela escala rolada e +1 pela Razão de Will.
+
+Com o combate iniciado, Will tomou a dianteira na iniciativa.
+
+Em seguida, dedicou sua ação a um efeito de Área Curta, fazendo correntes de pedra romperem o chão para prender os três homens.
+
+O teste de Conjuração resultou em sucesso parcial. As correntes capturaram o homem já ferido e o vigia, prendendo braços e pernas contra o chão e a parede próxima. O homem que havia puxado a pistola conseguiu recuar a tempo e permaneceu livre.
