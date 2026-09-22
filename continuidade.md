@@ -95,6 +95,120 @@ No fechamento diário:
 
 O fechamento diário não exige uma revisão completa de todos os arquivos.
 
+### 2.5 Fechamento visível do dia
+
+O jogador pode acionar o fechamento diário dizendo:
+
+> **Narrador, feche o dia.**
+
+Esse comando não encerra capítulo. Ele faz a manutenção leve da passagem de um dia para o outro, registra a agenda e preserva a autonomia das personagens importantes que ficaram fora da cena principal.
+
+O fechamento diário deve ser visível para o jogador. O Narrador não deve apenas dizer que atualizou a continuidade em silêncio.
+
+#### Estrutura obrigatória
+
+Ao fechar o dia, registre:
+
+1. data encerrada, em formato `DD/MM/AAAA, dia da semana`;
+2. resumo do dia de Will ou do personagem do jogador;
+3. estado final do personagem do jogador: PV, PA, PE, posição, itens relevantes e efeitos ativos;
+4. resumo do dia de Gwen, com no mínimo 10 linhas narrativas quando ela ficou fora da cena por período relevante;
+5. resumo do dia de Riri, com no mínimo 10 linhas narrativas quando ela ficou fora da cena por período relevante;
+6. agenda ativa para o próximo dia e compromissos futuros;
+7. pendências ainda abertas;
+8. registro do novo dia: `Novo dia — DD/MM/AAAA, dia da semana`;
+9. ponto de retomada.
+
+#### Autonomia de personagens importantes
+
+Personagens importantes controladas pela IA não devem ficar congeladas fora da cena do jogador.
+
+Quando houver fechamento diário, o Narrador deve descrever o que cada uma viveu no mesmo período, respeitando o que ela poderia realmente saber, perceber ou fazer.
+
+O resumo pode incluir:
+
+- família;
+- amigos ou colegas;
+- aulas e rotina universitária;
+- trabalho, laboratório, estudo ou projetos;
+- atividade heroica, patrulha ou responsabilidades próprias;
+- alertas, sensores, notícias ou consequências que ela teria como perceber;
+- estado emocional;
+- pensamentos próprios sobre o protagonista, sobre outras personagens ou sobre acontecimentos recentes.
+
+Esse resumo não concede automaticamente conhecimento ao personagem do jogador. Ele é informação de narrador para o jogador, não conhecimento do personagem.
+
+#### Salvamento do fechamento diário
+
+Cada fechamento diário deve ser salvo em arquivo próprio dentro da campanha:
+
+`campanhas/nome-da-campanha/continuidade/dias/`
+
+Nome sugerido:
+
+`AAAA-MM-DD-dia-da-semana.md`
+
+Exemplo:
+
+`2025-09-03-quarta-feira.md`
+
+Modelo do arquivo:
+
+~~~md
+# Fechamento do Dia — DD/MM/AAAA, dia da semana
+
+## Will
+
+Resumo do dia de Will.
+
+### Estado final de Will
+
+- PV:
+- PA:
+- PE:
+- Posição:
+- Selo de Velamento:
+- Itens relevantes:
+- Pendências pessoais:
+
+## Gwen
+
+Resumo narrativo de pelo menos 10 linhas quando aplicável.
+
+## Riri
+
+Resumo narrativo de pelo menos 10 linhas quando aplicável.
+
+## Agenda
+
+- Evento ou compromisso futuro.
+- Pendência com data ou período.
+- Acontecimento previsto.
+
+## Pendências abertas
+
+- Fios ainda ativos.
+- Consequências não resolvidas.
+- Investigações em andamento.
+
+## Novo dia
+
+`Novo dia — DD/MM/AAAA, dia da semana`
+
+## Ponto de retomada
+
+Descrição objetiva de onde a campanha deve continuar.
+~~~
+
+#### Diferença entre fechamento do dia e encerramento de capítulo
+
+O fechamento diário não substitui o encerramento de capítulo.
+
+- **Fechar o dia:** atualiza calendário, agenda, autonomia das personagens e estado imediato.
+- **Encerrar capítulo:** salva ou reorganiza o livro, limpa estado, atualiza fichas, mundo, mestre, READMEs e faz ressincronização completa.
+
+O fechamento diário pode acontecer várias vezes antes de um encerramento de capítulo.
+
 ---
 
 ## 3. Encerramento de capítulo
@@ -297,6 +411,7 @@ Esses arquivos trabalham juntos e não devem duplicar suas funções.
 6. Atualizar estado quando necessário.
 7. Atualizar fichas somente se houve mudança estável.
 8. Aplicar efeitos da passagem do dia.
+9. Se acionado por “Narrador, feche o dia”, produzir fechamento visível e salvar em continuidade/dias/.
 ~~~
 
 ### Narrador, encerre o capítulo
@@ -318,4 +433,4 @@ Esses arquivos trabalham juntos e não devem duplicar suas funções.
 
 ## Regra final
 
-> **O fechamento diário preserva o relógio e os compromissos do mundo. O encerramento de capítulo preserva a saúde geral da campanha: salva, limpa, consolida, recalibra sua direção narrativa e recarrega o sistema antes de continuar.**
+> **O fechamento diário preserva o relógio, os compromissos do mundo e a autonomia das personagens fora da cena. O encerramento de capítulo preserva a saúde geral da campanha: salva, limpa, consolida, recalibra sua direção narrativa e recarrega o sistema antes de continuar.**
