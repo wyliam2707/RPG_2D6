@@ -66,3 +66,16 @@ Ele memoriza os rostos das duas, associa cada uma à impressão que acabou de se
 Não há razão para transformar curiosidade em confronto.
 
 A cafeteria segue seu curso normal, e Will deixa que a manhã faça o mesmo.
+
+
+Mais tarde, Will cruzou novamente com Gwen nos corredores de Culver.
+
+A aproximação começou casual. Will confirmou de perto que a estranheza nela parecia fazer parte do próprio corpo, não um efeito mágico externo. Gwen não percebeu que ele a observava com intenção investigativa.
+
+A conversa seguiu por Arqueologia, Bioquímica e idiomas antigos.
+
+Quando Will comentou que havia aprendido latim com a avó e que misturava línguas quando ficava nervoso, acabou deixando escapar um elogio em latim ao cabelo de Gwen. A tentativa funcionou melhor do que ele esperava.
+
+Gwen respondeu com humor e curiosidade, e os dois se despediram em bons termos.
+
+Will então seguiu o próprio dia, sem procurar prolongar o encontro.
