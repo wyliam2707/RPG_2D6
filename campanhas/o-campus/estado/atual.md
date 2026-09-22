@@ -6,41 +6,43 @@ Primeiras semanas de um novo semestre em Culver University.
 O Capítulo 004 foi concluído. Nenhum novo capítulo foi aberto.
 
 ## Data e agenda de continuidade
-**Data atual:** madrugada de 04/09/2025, quinta-feira.
+**Data atual:** manhã de 04/09/2025, quinta-feira.
 
 ### Agenda de continuidade
 04/09/2025
-- Resolver a situação imediata no Galpão 17, Distrito Industrial Leste.
-- Preservar ou esconder as provas coletadas durante a investigação Hawthorne/B-3.
-- Considerar consequência policial no Portão Leste e Túnel B-3 após a entrega dos homens presos.
+- Will está dormindo em casa após a ação noturna Hawthorne/B-3/Galpão 17 e precisa decidir como lidar com a rotina civil da manhã.
+- Rotina universitária normal de quinta-feira continua em aberto.
+- Considerar consequência policial no Portão Leste, Túnel B-3 e possivelmente Galpão 17.
+- Gwen pode ouvir comentários de George Stacy ou notar movimento policial ligado à noite anterior.
+- Riri pode revisar logs de sensores anômalos da madrugada.
+- O depósito temporário com núcleos frios e evidências precisa ser monitorado ou revisitado.
 
 Pendências sem data exata:
-- Analisar com segurança o notebook, celulares descartáveis, rádio, gravador local, GPS offline e repetidor recolhidos.
-- Analisar as três caixas tecnológicas chamadas de "núcleos frios" sem levá-las para a casa de Will, se possível.
+- Identificar o que é o Projeto Janus.
+- Analisar com segurança tablet, terminal, chips, cartões, roteador e demais evidências coletadas no Galpão 17.
+- Analisar as três caixas tecnológicas chamadas de "núcleos frios" sem abri-las de forma insegura.
 - Investigar a identidade ou função de "Aviso".
-- Proteger ou localizar testemunhas ligadas ao caso Hawthorne.
+- Proteger ou localizar testemunhas ligadas ao caso Hawthorne: Daniel Price, Marta Alves, Evan Brooks e a garota com jaqueta branca.
 - Manter o arquivo `nao_abrir_sem_copia.enc` fechado até haver método seguro.
 
 ## Cena atual
-Fim do Capítulo 004 — "Túnel B-3".
+Após a sequência do Galpão 17, Will voltou para casa por portal no fim da madrugada e foi dormir o que conseguiu.
 
-Will teleportou do Túnel B-3 para o Distrito Industrial Leste usando a rota encontrada no GPS offline da escolta. Ele está sobre o telhado baixo de uma oficina fechada, observando o Galpão 17.
-
-À frente, separado por um pátio de concreto e uma cerca metálica, está o Galpão 17. As luzes externas estão apagadas, os fundos estão parcialmente abertos e duas figuras aguardam perto de uma doca lateral alguém que deveria chegar com três caixas.
+A próxima cena começa no apartamento de Will, quando ele acordar, com a manhã de quinta-feira já em andamento e a rotina civil pressionando contra a noite heroica recém-encerrada.
 
 ## Posição e condição
-- Gwen Stacy: em Willowdale; PV 35/35; PA 30/30; sem Estados ativos.
-- Riri Williams: em Willowdale; PV 30/30; PA 30/30; sem Estados ativos.
-- Will Jack: Distrito Industrial Leste, telhado de oficina próxima ao Galpão 17; vestido como mago/vigilante; PV 30/30; PA 10/30; Armadura Arcana PE 8 ativa enquanto a cena permitir; Selo de Velamento não está ativo.
+- Gwen Stacy: em Willowdale; PV 35/35; PA 30/30; sem Estados ativos. Na madrugada, patrulhou como Aranha-Fantasma em outro lado da cidade, viu movimento policial perto de Culver, mas não sabe sobre Will, Galpão 17 ou núcleos frios.
+- Riri Williams: em Willowdale; PV 30/30; PA 30/30; sem Estados ativos. Na madrugada, seus sensores registraram ruídos anômalos e apagão localizado, mas ela ainda não conectou isso a Will nem à operação Hawthorne.
+- Will Jack: apartamento de Will, dormindo após voltar do Distrito Industrial Leste; PV 30/30; PA 15/30 ao chegar em casa, recuperável conforme tempo real de descanso na próxima cena; sem PE ativo; Selo de Velamento disponível para identidade civil.
 
 ## Intenções e processos
-- Gwen, Riri e Will continuam suas rotinas universitárias civis, mas Will está atualmente em ação noturna como vigilante.
+- Gwen, Riri e Will continuam suas rotinas universitárias civis, mas a noite anterior criou repercussões policiais e sinais anômalos ao redor de Culver e do Distrito Industrial.
 - Os três preservam suas identidades heroicas.
 - Will usa o Selo de Velamento na vida civil, mas não o usa normalmente quando sai como mago/vigilante.
 - Riri está mais curiosa sobre a assinatura energética de Will e sabe que ele também consegue perceber algo oculto próximo da mochila dela.
 - Gwen percebeu que seu sentido-aranha não reagiu a Will da mesma maneira no segundo encontro.
 - O romance central continua em aproximação inicial, sem compromisso formal entre nenhum dos três.
-- Will está seguindo a cadeia Hawthorne > Túnel B-3 > Galpão 17 para descobrir quem recebe os núcleos frios e quem ou o que é "Aviso".
+- Will interrompeu a cadeia Hawthorne > Túnel B-3 > Galpão 17 e isolou os núcleos frios e evidências em um depósito temporário selado.
 
 ## Conhecimento distribuído
 - Gwen sabe que Will estuda Arqueologia, fala diversos idiomas e tem o hábito de trocar de língua quando fica nervoso, distraído ou pensa em voz alta.
@@ -48,6 +50,7 @@ Will teleportou do Túnel B-3 para o Distrito Industrial Leste usando a rota enc
 - Gwen percebeu o tom de alguns elogios de Will mesmo sem compreender o grego ou o celta usados.
 - Gwen sabe que Will perdeu os pais quando era muito pequeno, foi criado pela avó Laura e que Laura morreu há cerca de um ano.
 - Gwen sabe que Riri mora no mesmo prédio que ela e Will, estuda Engenharia e carrega equipamentos/sensores que chama de material escolar.
+- Gwen viu aumento de movimentação policial perto de Culver durante a madrugada, mas não sabe a causa real.
 - Riri sabe que Will estuda Arqueologia, fala inglês, latim, grego, aramaico e ao menos uma forma antiga de celta.
 - Riri confirmou por leitura deliberada que existe uma assinatura energética anômala associada a Will. Ela não consegue classificá-la como tecnologia, radiação comum ou campo eletromagnético conhecido.
 - Riri percebe que a assinatura de Will parece abafada de maneira incomum.
@@ -55,6 +58,7 @@ Will teleportou do Túnel B-3 para o Distrito Industrial Leste usando a rota enc
 - Riri sabe que Will perdeu os pais quando era muito pequeno, foi criado pela avó Laura e que Laura morreu há cerca de um ano.
 - Riri sabe que Gwen mora no mesmo prédio que ela e Will, estuda Bioquímica e possui humor rápido e postura fisicamente confiante.
 - Riri traduziu o elogio anterior de Will como "bonita e inteligente" e também conseguiu traduzir "inteligente demais para o meu próprio bem".
+- Riri registrou logs de ruídos energéticos anômalos, distorções espaciais sutis e apagão localizado durante a madrugada, mas ainda não conectou esses registros a Will, ao Galpão 17 ou aos núcleos frios.
 - Will sabe que Gwen estuda Bioquímica e possui uma característica incomum integrada ao próprio corpo, sem saber sua natureza.
 - Will sabe que Riri estuda Engenharia e trabalha com sistemas, materiais e energia.
 - Will sabe que existe próxima de Riri uma fonte tecnológica de energia compacta e muito mais intensa do que o scanner de laboratório, mas não conhece exatamente o objeto nem sua função.
@@ -67,12 +71,15 @@ Will teleportou do Túnel B-3 para o Distrito Industrial Leste usando a rota enc
 - Will sabe que há um arquivo criptografado chamado `nao_abrir_sem_copia.enc`, ainda fechado.
 - Will sabe que Hawthorne era um ponto de passagem para caixas tecnológicas chamadas de "núcleos frios".
 - Will sabe que a rota da operação passava por Hawthorne, subsolo leste, corredor técnico, Túnel de Serviço B-3, Portão Leste e Galpão 17.
-- Will sabe que a retirada externa estava marcada para 00h30 no Portão Leste e a entrega final para 01h10 no Galpão 17, pela entrada dos fundos, sem luz externa.
 - Will sabe que "Aviso" coordena a retirada à distância por rádio descartável, mas ainda não sabe se é pessoa, codinome ou central.
+- Will sabe que, no Galpão 17, a voz filtrada concluiu que Hawthorne caiu e ordenou contenção, limpeza de registros e retirada.
+- Will sabe que a voz filtrada ordenou que não confrontassem alguém capaz de remover três núcleos sem transporte.
+- Will sabe que "Projeto Janus" aparece em material de controle ligado aos núcleos frios.
+- Will sabe que os núcleos frios parecem conter, preservar ou transportar algo em estado suspenso, mas não abriu nenhum deles.
 - A polícia de Willowdale sabe que houve um assalto interrompido por um vigilante desconhecido com aparência de mago encapuzado.
 - A polícia também foi chamada ao Portão Leste/Túnel B-3 por homens que se entregaram e informaram armas no local e material ilegal envolvido.
 - Braga, a vítima do assalto e vários criminosos viram a identidade de vigilante de Will, mas não sabem que ele é Will Jack.
-- A pessoa chamada ou autodenominada "Aviso" sabe que alguém interferiu no serviço de Braga e provavelmente perdeu contato com a equipe Hawthorne/B-3.
+- A pessoa chamada ou autodenominada "Aviso" sabe que alguém interferiu no serviço de Braga, que Hawthorne caiu e que a cadeia local perdeu os três núcleos frios.
 - Nenhum dos três conhece a identidade heroica dos outros.
 
 ## Relações em mudança
@@ -91,14 +98,10 @@ Will teleportou do Túnel B-3 para o Distrito Industrial Leste usando a rota enc
 - Gwen: traje da Aranha-Fantasma, RD 1, PE 10.
 - Riri: armadura Ironheart, RD 2, PE 10.
 - Will: cajado hermético; robe, capuz e máscara sem RD.
-- Will: Selo de Velamento hermético; recurso civil, não ativo agora.
+- Will: Selo de Velamento hermético; recurso civil, disponível ao retomar identidade civil.
 - Will: caderno preto obtido após a patrulha noturna; contém nomes, horários, observações e indícios sobre entregas clandestinas nos depósitos antigos da Hawthorne.
 - Will: pen drive azul obtido com o caderno; contém `lista_testemunhas.csv`, `hawthorne_entregas.pdf`, `placas_e_horarios.txt`, `fotos_deposito/` e `nao_abrir_sem_copia.enc`.
-- Will: três caixas tecnológicas chamadas de "núcleos frios", atualmente reduzidas por manipulação espacial e guardadas nos bolsos internos do robe.
-- Will: gravador local da câmera do subsolo leste da Hawthorne.
-- Will: notebook fechado, celular barato, rádio de curto alcance, crachá falso de manutenção em nome de "Evan Cole", mapa do campus, anotação operacional e repetidor de sinal recolhidos da sala técnica.
-- Will: telefones descartáveis e armas recolhidos da escolta do Túnel B-3.
-- Will: GPS offline da escolta com rota para o Galpão 17, Distrito Industrial Leste.
+- Depósito temporário selado no Distrito Industrial: três caixas tecnológicas chamadas de "núcleos frios"; pasta NF-17 / cadeia fria; folha Projeto Janus; envelope com etiquetas de remessa; lacres numerados; tablet secundário; cartões descartáveis; chips; mapa Hawthorne / Portão Leste / Galpão 17; terminal; roteador preto; tira da purga remota; gravador local da câmera do subsolo leste da Hawthorne; notebook fechado, celular barato, rádio de curto alcance, crachá falso de manutenção em nome de "Evan Cole", mapa do campus, anotação operacional e repetidor de sinal; telefones descartáveis e armas recolhidos da escolta do Túnel B-3; GPS offline da escolta.
 
 ## Fios ativos
 - Desenvolvimento do romance entre Will, Gwen e Riri.
@@ -113,11 +116,12 @@ Will teleportou do Túnel B-3 para o Distrito Industrial Leste usando a rota enc
 - Possível registro distante de um vigilante encapuzado com cajado após a primeira patrulha.
 - Novo registro policial provável de um vigilante encapuzado com cajado após o caso Braga.
 - Novo registro policial provável no Túnel B-3/Portão Leste após homens presos se entregarem.
-- Entregas clandestinas envolvendo Hawthorne, Túnel B-3, Portão Leste e Galpão 17.
+- Entregas clandestinas envolvendo Hawthorne, Túnel B-3, Portão Leste, Galpão 17 e Projeto Janus.
 - A lista de testemunhas da Hawthorne e o risco sobre Daniel Price, Marta Alves, Evan Brooks e a garota com jaqueta branca.
 - Identidade e função de "Aviso".
 - Natureza dos "núcleos frios".
 - Arquivo criptografado `nao_abrir_sem_copia.enc`.
+- Depósito temporário no Distrito Industrial precisa ser revisitado ou transformado em solução mais segura.
 - Ameaças urbanas comuns e pequenos supercriminosos.
 - Invasão alienígena futura, ainda distante.
 
@@ -131,11 +135,16 @@ Will teleportou do Túnel B-3 para o Distrito Industrial Leste usando a rota enc
 - Will interrompeu um assalto e tomou posse de evidências ligadas aos depósitos Hawthorne.
 - As entregas suspeitas envolvem caixas metálicas sem marca, van cinza de placa parcial H7K e atividade depois das 22h.
 - O caso Hawthorne parece ser mais do que crime comum: Culver está sendo usada como ponto de passagem.
-- Hawthorne era ponto local de armazenamento; o Túnel B-3 era rota de retirada; o Galpão 17 é o próximo ponto de entrega.
+- Hawthorne era ponto local de armazenamento; o Túnel B-3 era rota de retirada; o Galpão 17 era ponto de limpeza/contenção.
 - As caixas são chamadas de "núcleos frios" por operadores da rota.
+- Projeto Janus está ligado aos núcleos frios e à cadeia fria.
+- Os núcleos frios parecem conter, preservar ou transportar algo em estado suspenso.
+
+## Continuidade diária
+- Fechamento salvo: `continuidade/dias/2025-09-04-quinta-feira.md`.
 
 ## Retomada
 - Capítulo em andamento: nenhum.
 - Último capítulo concluído: Capítulo 004 — Túnel B-3.
-- Última cena salva: Will chega ao Distrito Industrial Leste e observa o Galpão 17 de um telhado próximo.
-- Ponto de continuação: madrugada de 04/09/2025, quinta-feira, diante do Galpão 17, antes de qualquer nova ação voluntária de Will.
+- Última cena salva: Will voltou para casa por portal no fim da madrugada e foi dormir após selar o depósito temporário no Distrito Industrial.
+- Ponto de continuação: manhã de 04/09/2025, quinta-feira, apartamento de Will, quando ele acordar depois de dormir o que conseguiu.
