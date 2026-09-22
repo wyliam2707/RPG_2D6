@@ -1,5 +1,11 @@
 # Livro
 
-Nenhum capítulo jogado ainda.
+Esta pasta guarda a memória integral da campanha em capítulos literários.
 
-Os acontecimentos completos serão registrados aqui em ordem cronológica após ocorrerem em jogo.
+## Em andamento
+- Capítulo 001 — Café, Teias e Ruído
+  - Período: primeiras semanas do semestre, fim da manhã
+  - Arquivo: capitulo-001-cafe-teias-e-ruido.md
+
+## Concluídos
+Nenhum.
