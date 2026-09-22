@@ -3,17 +3,17 @@
 ## Momento
 Primeiras semanas de um novo semestre em Culver University, noite.
 
-O Capítulo 001 foi concluído.
+O Capítulo 002 está em andamento.
 
 ## Cena atual
-Nenhuma cena em andamento.
+Manhã do dia seguinte.
 
-Will está em casa após preparar com sucesso um Selo de Velamento hermético para abafar sua assinatura mágica passiva.
+Will deixou o prédio e segue para Culver University com o Selo de Velamento ativo. O selo reduz sua assinatura mágica passiva sem impedir conjuração ativa ou investigação deliberada.
 
 ## Posição e condição
 - Gwen Stacy: em Willowdale; PV 40/40; PA 30/30; sem Estados ativos.
 - Riri Williams: em Willowdale; PV 35/35; PA 30/30; sem Estados ativos.
-- Will Jack: em casa; PV 40/40; PA 30/30; sem Estados ativos.
+- Will Jack: a caminho de Culver University; PV 40/40; PA 30/30; sem Estados ativos; Selo de Velamento ativo.
 
 ## Intenções e processos
 - Gwen, Riri e Will continuam suas rotinas universitárias.
@@ -62,7 +62,7 @@ Will está em casa após preparar com sucesso um Selo de Velamento hermético pa
 - Riri verificou que o desligamento do scanner não foi causado por falha convencional de bateria, curto ou software.
 
 ## Retomada
-- Capítulo em andamento: nenhum.
+- Capítulo em andamento: Capítulo 002 — Sob o Véu.
 - Último capítulo concluído: Capítulo 001 — Café, Teias e Ruído.
-- Última cena salva: Will em casa, após concluir o Selo de Velamento.
-- Ponto de continuação: iniciar o próximo capítulo a partir da rotina normal dos protagonistas, sem encontro ou evento pré-determinado.
+- Última cena salva: Will saiu cedo para Culver University com o Selo de Velamento ativo.
+- Ponto de continuação: acompanhar a manhã de Will em Culver a partir da rotina normal, sem encontro ou evento pré-determinado.
