@@ -1,22 +1,87 @@
 # Will Jack
 
+NOME: Will Jack
 CONTROLE: JOGADOR HUMANO
-IDADE: 23
-CURSO: Arqueologia, Culver University
+PADRÃO: [3]
 
-## Conceito
-Nerd de óculos, discreto, um pouco desajeitado e aparentemente inofensivo na vida civil. Como vigilante, assume a identidade visual de um mago hermético clássico: robe, capuz, máscara sem rosto e cajado usado como foco ritual e arma branca estética.
+## Descrição Física Imediata
+- Idade: 23 anos.
+- Sexo: masculino.
+- Aparência física visível: universitário de óculos, discreto, de aparência inofensiva e um pouco desajeitada.
+- Primeira impressão: nerd de Arqueologia, reservado e fácil de subestimar.
+- Curso: Arqueologia, Culver University.
 
-Quando atua de robe, fala fórmulas e passagens em latim, grego e hebraico e usa a própria presença para intimidar criminosos.
+### Identidade secreta
+- Nome: ainda não definido publicamente.
+- Idade aparente: adulto jovem.
+- Sexo: masculino.
+- Aparência física visível: robe, capuz, máscara sem rosto e cajado.
+- Primeira impressão: mago hermético ritualístico, ameaçador e difícil de interpretar.
 
-## Família
-Os pais morreram quando Will tinha cerca de 2 anos. Foi criado pela avó, Laura Jack, maga hermética de uma linhagem familiar de magia.
+A associação entre Will Jack e sua identidade de vigilante não é conhecimento público.
 
-Laura ensinou magia a Will por meio de estudo, disciplina, símbolos, línguas antigas e tradição familiar. Ela faleceu há cerca de um ano.
+## Atributos
+Vigor [+1] | Destreza [-1] | Razão [+1] | Espírito [+2]
 
-Will veio para Culver para concluir sua formação acadêmica e reorganizar a própria vida. Já possui experiência real como vigilante e não começa a campanha como novato.
+## Perícias Finais
+Combate [+3] | Resistência [+2] | Atletismo [+1] | Sobrevivência [+1]
+Pontaria [-1] | Esquiva [+1] | Furtividade [0] | Mobilidade [-1]
+Conjuração [+3] | Astúcia [+1] | Conhecimento [+2] | Técnica [+1]
+Canalização [+4] | Vontade [+3] | Percepção [+2] | Influência [+2]
 
-## Moradia
-Will possui uma pequena herança familiar e comprou a cobertura e um espaço no topo do prédio onde também moram as famílias Stacy e Williams.
+## PV
+Atual [40] / Máximo Atual [40] [Máximo Base: 40]
 
-A ficha mecânica ainda será concluída.
+## PA
+Atual [30] / Máximo [30]
+
+## Poderes / Recursos
+- **Magia Hermética:** permite produzir efeitos mágicos por fórmulas, símbolos, gestos, palavras e rituais.
+- **Barreiras Arcanas:** permite criar proteção mágica, escudos e campos defensivos.
+- **Selos e Runas:** permite preparar marcas, círculos e inscrições com efeitos condicionais.
+- **Percepção Mística:** permite perceber auras, assinaturas mágicas, encantamentos e fenômenos sobrenaturais.
+- **Manipulação Arcana:** permite produzir efeitos compatíveis como empurrar, prender, iluminar, mover objetos, abrir passagem ou alterar condições por magia.
+- **Rituais Herméticos:** permite efeitos mais elaborados quando há tempo, preparação, componentes e estudo.
+- **Cura Hermética:** permite recuperar ferimentos e estabilizar condições físicas compatíveis, seguindo as regras universais de cura, escala e PA.
+- **Biblioteca e legado de Laura Jack:** livros, anotações, traduções, grimórios e conhecimento acumulado da linhagem familiar.
+
+## Itens / Equipamentos
+- **Cajado Hermético:** cajado mágico comum usado como foco ritual e arma branca. Ajuda Will em ações de ataque e combate compatíveis, sem possuir RD, PE ou poder especial próprio.
+- **Robe, capuz e máscara sem rosto:** vestimenta ritual e identidade heroica. Não concede RD.
+
+## Estados Atuais
+Nenhum estabelecido.
+
+## Personalidade e Tendências
+A concluir antes do início da campanha.
+
+## Objetivos e Desejos
+A concluir antes do início da campanha.
+
+## Medos, Limites e Códigos
+A concluir antes do início da campanha.
+
+## Hábitos e Rotina
+- Estuda Arqueologia em Culver University.
+- Já possui experiência real como vigilante.
+- Na vida civil, apresenta-se como nerd discreto e um pouco desajeitado.
+- Em atuação heroica, fala fórmulas e passagens em latim, grego e hebraico e usa presença ritual para intimidar criminosos.
+
+## Relações
+- **Laura Jack:** avó e figura parental; falecida há cerca de um ano.
+- **Gwen Stacy:** desconhecida no início da campanha.
+- **Riri Williams:** desconhecida no início da campanha.
+
+## Conhecimento Relevante
+- Formação em magia hermética transmitida pela linhagem familiar.
+- Conhecimento de símbolos, línguas antigas, rituais e fenômenos sobrenaturais.
+- Conhecimento acadêmico compatível com Arqueologia.
+- Não conhece inicialmente as identidades heroicas de Gwen ou Riri.
+
+## História Consolidada
+- Os pais morreram quando Will tinha cerca de 2 anos.
+- Foi criado pela avó, Laura Jack, maga hermética da linhagem familiar.
+- Laura ensinou magia a Will desde cedo.
+- Laura faleceu há cerca de um ano.
+- Will veio para Culver para concluir sua formação acadêmica e reorganizar a própria vida.
+- Possui uma pequena herança familiar e comprou a cobertura e um espaço no topo do prédio onde também moram as famílias Stacy e Williams.
