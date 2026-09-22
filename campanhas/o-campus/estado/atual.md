@@ -1,42 +1,50 @@
 # Estado atual
 
 ## Momento
-Primeiras semanas de um novo semestre em Culver University, noite.
+Primeiras semanas de um novo semestre em Culver University.
 
-O Capítulo 002 está em andamento.
+O Capítulo 002 foi concluído. Nenhum novo capítulo foi aberto.
 
 ## Cena atual
-Manhã do dia seguinte.
+Fim do dia narrado em "Sob o Véu".
 
-Will deixou o prédio e segue para Culver University com o Selo de Velamento ativo. O selo reduz sua assinatura mágica passiva sem impedir conjuração ativa ou investigação deliberada.
+Will terminou suas atividades acadêmicas depois de se despedir de Riri. O próximo capítulo pode começar no dia seguinte, antes de qualquer nova ação voluntária de Will.
 
 ## Posição e condição
 - Gwen Stacy: em Willowdale; PV 40/40; PA 30/30; sem Estados ativos.
 - Riri Williams: em Willowdale; PV 35/35; PA 30/30; sem Estados ativos.
-- Will Jack: a caminho de Culver University; PV 40/40; PA 30/30; sem Estados ativos; Selo de Velamento ativo.
+- Will Jack: em Willowdale; PV 40/40; PA 30/30; sem Estados ativos; Selo de Velamento ativo.
 
 ## Intenções e processos
 - Gwen, Riri e Will continuam suas rotinas universitárias.
 - Os três preservam suas identidades heroicas.
-- Will pretende evitar novas leituras anômalas involuntárias usando o Selo de Velamento.
-- Riri continua curiosa sobre a leitura energética anômala associada a Will e sobre o desligamento inexplicável de seu scanner.
-- Gwen já reconhece Will e teve com ele uma primeira interação civil positiva.
+- Will usa o Selo de Velamento para reduzir leituras anômalas passivas.
+- Riri está mais curiosa sobre a assinatura energética de Will e agora sabe que ele também consegue perceber algo oculto nela.
+- Gwen percebeu que seu sentido-aranha não reagiu a Will da mesma maneira no segundo encontro.
+- O romance central continua em aproximação inicial, sem compromisso formal entre nenhum dos três.
 
 ## Conhecimento distribuído
-- Gwen sabe que Will estuda Arqueologia, fala latim e aprendeu vários idiomas com a avó. Seu sentido-aranha já reagiu à presença dele, mas ela não sabe por quê.
-- Riri sabe que Will estuda Arqueologia, fala inglês, latim, grego e aramaico, aprendeu idiomas com a avó e demonstra interesse por tecnologia aplicada à Arqueologia.
-- Riri sabe que seus sensores detectaram uma anomalia energética associada a Will e que seu scanner apagou de forma não convencional quando ele falou em grego, mas não conhece a causa.
-- Riri traduziu aproximadamente o elogio em latim de Will como “bonita e inteligente”.
-- Will sabe que Gwen estuda Bioquímica e percebe nela uma característica incomum integrada ao próprio corpo, sem saber sua natureza.
-- Will sabe que Riri estuda Engenharia, trabalha com sistemas, materiais e energia, e possui tecnologia capaz de detectar sua assinatura mágica passiva.
+- Gwen sabe que Will estuda Arqueologia, fala diversos idiomas e tem o hábito de trocar de língua quando fica nervoso, distraído ou pensa em voz alta.
+- Gwen sabe que seu sentido-aranha reagiu à presença de Will no primeiro encontro e não reagiu da mesma forma no encontro seguinte. Ela não sabe a causa.
+- Gwen percebeu o tom de alguns elogios de Will mesmo sem compreender o grego ou o celta usados.
+- Riri sabe que Will estuda Arqueologia, fala inglês, latim, grego, aramaico e ao menos uma forma antiga de celta.
+- Riri confirmou por leitura deliberada que existe uma assinatura energética anômala associada a Will. Ela não consegue classificá-la como tecnologia, radiação comum ou campo eletromagnético conhecido.
+- Riri percebe que a assinatura de Will parece abafada de maneira incomum.
+- Riri sabe que Will conseguiu detectar algo oculto próximo da mochila dela, mas não sabe como.
+- Riri traduziu o elogio anterior de Will como "bonita e inteligente" e também conseguiu traduzir "inteligente demais para o meu próprio bem".
+- Will sabe que Gwen estuda Bioquímica e possui uma característica incomum integrada ao próprio corpo, sem saber sua natureza.
+- Will sabe que Riri estuda Engenharia e trabalha com sistemas, materiais e energia.
+- Will sabe que existe próxima de Riri uma fonte tecnológica de energia compacta e muito mais intensa do que o scanner de laboratório, mas não conhece exatamente o objeto nem sua função.
 - Nenhum dos três conhece a identidade heroica dos outros.
 
 ## Relações em mudança
-- Will e Gwen tiveram um segundo encontro civil, desta vez na biblioteca. A conversa foi leve, divertida e mais pessoal; Will deixou escapar um elogio em celta e disse que gostaria de encontrá-la novamente pelo campus. Gwen recebeu bem a aproximação.
-- Will e Riri tiveram um novo encontro no laboratório. Riri confirmou que existe uma assinatura energética anômala associada a Will, mas não conseguiu classificá-la.
-- Will percebeu com Percepção Mística que Riri parece biologicamente normal, mas carrega ou mantém próxima uma fonte tecnológica de energia muito mais intensa do que o scanner visível.
-- Will e Riri reconheceram, em tom de brincadeira, que cada um agora possui um mistério sobre o outro: “1 a 1”.
+- Will e Gwen tiveram um segundo encontro civil, desta vez na biblioteca. A conversa foi leve, divertida e mais pessoal.
+- Will deixou escapar elogios e admitiu, involuntariamente em grego, que Gwen o deixa nervoso. Gwen não entendeu a frase literal, mas percebeu o tom.
+- Will disse que gostaria de encontrar Gwen novamente pelo campus. Ela recebeu bem a aproximação, sem marcar um encontro formal.
+- Gwen percebeu depois da despedida que gostou da companhia de Will por si só, não apenas pelo mistério ao redor dele.
+- Will e Riri tiveram um novo encontro no laboratório e reconheceram, em tom de brincadeira, que cada um agora possui um mistério sobre o outro: "1 a 1".
 - A curiosidade entre Will e Riri aumentou, acompanhada de flerte e provocações linguísticas.
+- Riri considera Will um "problema interessante".
 - Gwen e Riri ainda não estabeleceram uma relação entre si em jogo.
 
 ## Recursos e objetos relevantes
@@ -47,24 +55,26 @@ Will deixou o prédio e segue para Culver University com o Selo de Velamento ati
 
 ## Fios ativos
 - Desenvolvimento do romance entre Will, Gwen e Riri.
-- Aproximação inicial de Will com Gwen.
-- Aproximação inicial de Will com Riri.
+- Aproximação de Will com Gwen.
+- Aproximação de Will com Riri.
 - Futuro desenvolvimento da relação entre Gwen e Riri.
 - Identidades secretas.
 - Vida acadêmica, família e carreira.
 - Riri investigando a anomalia associada a Will.
+- Gwen tentando entender por que seu sentido-aranha reagiu a Will e depois deixou de reagir.
+- Will sabendo que Riri possui tecnologia oculta de alta densidade energética.
 - Possível registro distante de um vigilante encapuzado com cajado após a primeira patrulha.
 - Ameaças urbanas comuns e pequenos supercriminosos.
 - Invasão alienígena futura, ainda distante.
 
 ## Descobertas recentes
 - Will descobriu que não vaza magia de forma descontrolada; possui uma assinatura mágica passiva integrada ao corpo e espírito.
-- Essa assinatura pode ser detectada por sensores ou meios místicos suficientemente sensíveis e fica mais evidente durante conjuração.
-- Will criou com sucesso um Selo de Velamento para reduzir essa assinatura passiva.
-- Riri verificou que o desligamento do scanner não foi causado por falha convencional de bateria, curto ou software.
+- O Selo de Velamento reduz essa assinatura passiva, mas uma investigação deliberada suficientemente boa ainda pode encontrar vestígios.
+- Riri confirmou que a assinatura energética de Will é real, embora não saiba sua origem.
+- Will confirmou por Percepção Mística que Riri parece biologicamente normal e mantém próxima uma fonte tecnológica de energia incomum.
 
 ## Retomada
-- Capítulo em andamento: Capítulo 002 — Sob o Véu.
-- Último capítulo concluído: Capítulo 001 — Café, Teias e Ruído.
-- Última cena salva: Will saiu cedo para Culver University com o Selo de Velamento ativo.
-- Ponto de continuação: Will seguiu para a aula após se despedir de Riri no laboratório.
+- Capítulo em andamento: nenhum.
+- Último capítulo concluído: Capítulo 002 — Sob o Véu.
+- Última cena salva: POVs de Gwen e Riri após Will deixar cada uma delas.
+- Ponto de continuação: início do próximo dia, antes de qualquer ação voluntária de Will.
