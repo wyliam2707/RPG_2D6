@@ -7,6 +7,10 @@ Esta pasta guarda a memória integral da campanha em capítulos literários.
 Nenhum capítulo aberto no momento.
 
 ## Concluídos
+- Capítulo 004 — Túnel B-3
+  - Período: 03/09/2025, quarta-feira, avançando pela madrugada de 04/09/2025
+  - Arquivo: capitulo-004-tunel-b3.md
+  - Encerramento: Will passa um dia universitário leve com Gwen e Riri, depois investiga Hawthorne como mago. Ele neutraliza a equipe local, recolhe três caixas tecnológicas chamadas núcleos frios, descobre o Túnel B-3, intercepta a escolta da retirada de 00h30, entrega homens presos à polícia e localiza o Galpão 17 no Distrito Industrial Leste.
 - Capítulo 003 — Almoço e Hawthorne
   - Período: dia seguinte ao Capítulo 002
   - Arquivo: capitulo-003-almoco-e-hawthorne.md
