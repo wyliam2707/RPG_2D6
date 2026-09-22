@@ -32,6 +32,7 @@ Will deixou o prédio e segue para Culver University com o Selo de Velamento ati
 - Nenhum dos três conhece a identidade heroica dos outros.
 
 ## Relações em mudança
+- Will e Gwen estudaram juntos na biblioteca, trocaram piadas, falaram sobre Arqueologia e Bioquímica, e Will deixou escapar outro elogio em celta antigo. Ao se despedir, disse que gostaria de encontrá-la novamente pelo campus; Gwen recebeu bem a ideia sem estabelecer compromisso formal.
 - Will e Gwen tiveram uma primeira conversa civil leve e positiva. Will flertou em latim; Gwen respondeu bem à interação.
 - Will e Riri tiveram dois contatos civis relevantes: uma conversa no prédio e uma ida conjunta para Culver. A interação ganhou humor, curiosidade e flerte.
 - Riri considera Will simultaneamente interessante e tecnicamente suspeito.
@@ -65,4 +66,4 @@ Will deixou o prédio e segue para Culver University com o Selo de Velamento ati
 - Capítulo em andamento: Capítulo 002 — Sob o Véu.
 - Último capítulo concluído: Capítulo 001 — Café, Teias e Ruído.
 - Última cena salva: Will saiu cedo para Culver University com o Selo de Velamento ativo.
-- Ponto de continuação: acompanhar a manhã de Will em Culver a partir da rotina normal, sem encontro ou evento pré-determinado.
+- Ponto de continuação: Will deixou a biblioteca após se despedir de Gwen e segue o restante do dia em Culver.
