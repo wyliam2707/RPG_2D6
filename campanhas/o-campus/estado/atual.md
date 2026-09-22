@@ -52,3 +52,16 @@ Nenhuma dessas percepções forneceu identidade, causa completa ou intenção.
 - Capítulo em andamento: Capítulo 001 — Café, Teias e Ruído.
 - Última cena salva: abertura na cafeteria.
 - Ponto exato da próxima decisão: Will encerrou a conversa com Gwen em bons termos e segue normalmente o restante do dia.
+
+
+## Cena noturna — combate no beco
+- Will está em identidade heroica, com robe, capuz, máscara e cajado.
+- Três criminosos cercavam um civil junto a uma motocicleta.
+- Primeiro ataque: rajada mágica não letal, sucesso completo.
+- Dano correto: 2 pontos não letais (1D6 rolou 1 + Razão +1).
+- Iniciativa: Will 10; dois criminosos 8; criminoso ferido 2.
+- Will usou Manipulação Arcana com Conjuração +3 para criar correntes de pedra em Área Curta 1D6, sem gasto de PA.
+- Resultado 9: sucesso parcial.
+- Dois criminosos estão no Estado PRESO/IMOBILIZADO pelas correntes de pedra.
+- O criminoso armado com pistola permaneceu livre.
+- Próxima decisão depende da reação do criminoso armado e da continuidade da rodada.
