@@ -1,6 +1,6 @@
 # Capítulo 001 — Café, Teias e Ruído
 
-STATUS: EM ANDAMENTO
+STATUS: CONCLUÍDO
 Período: primeiras semanas do semestre, fim da manhã
 Local inicial: cafeteria de Culver University
 Perspectiva inicial: Will Jack
