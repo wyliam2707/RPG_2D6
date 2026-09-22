@@ -42,6 +42,10 @@ campanhas/
     ├── estado/
     │   ├── README.md
     │   └── atual.md
+    ├── continuidade/
+    │   ├── README.md
+    │   └── dias/
+    │       └── README.md
     ├── personagens/
     │   └── README.md
     ├── mundo/
@@ -63,6 +67,7 @@ ana-silva.md
 cidade-portuaria.md
 faccoes.md
 capitulo-001-a-chegada.md
+2025-09-03-quarta-feira.md
 ~~~
 
 Não renomeie arquivos canônicos sem atualizar todas as referências.
@@ -75,6 +80,7 @@ Classifique cada informação antes de salvar:
 |---|---|
 | Premissa, gênero, tom e controle das personagens | README da campanha |
 | Situação necessária para continuar agora | estado/atual.md |
+| Fechamento diário, calendário, agenda e autonomia fora de cena | continuidade/dias/AAAA-MM-DD-dia-da-semana.md |
 | Identidade e mudanças permanentes de personagem | personagens/nome.md |
 | Verdade estável do cenário | mundo/arquivo-tematico.md |
 | Segredo, plano ou ameaça ainda reservada | mestre/arquivo-tematico.md |
@@ -84,7 +90,7 @@ Classifique cada informação antes de salvar:
 
 Pergunta operacional:
 
-> **Esta informação descreve o passado, o presente ativo, uma identidade estável, o mundo estável ou algo reservado?**
+> **Esta informação descreve o passado, o presente ativo, uma identidade estável, o mundo estável, um fechamento diário ou algo reservado?**
 
 Se uma informação pertencer a mais de uma função, cada arquivo recebe somente a forma adequada.
 
@@ -93,6 +99,7 @@ Exemplo:
 - o livro registra a cena completa em que Ana perdeu a espada;
 - o estado atual registra que Ana está sem a espada, se isso ainda importar;
 - a ficha remove a espada dos itens possuídos, se a perda for estável;
+- o fechamento diário registra a agenda e o que personagens importantes fizeram fora da câmera naquele dia;
 - nenhum dos arquivos precisa copiar integralmente os outros.
 
 ## 4. README da campanha
@@ -117,6 +124,7 @@ Nome — controle — importância — arquivo da ficha.
 
 ## Estrutura
 - Estado atual: estado/atual.md
+- Continuidade diária: continuidade/README.md
 - Personagens: personagens/README.md
 - Mundo: mundo/README.md
 - Material reservado: mestre/README.md
@@ -145,6 +153,7 @@ O arquivo estado/README.md deve declarar:
 - atual.md é o ponto operacional de retomada;
 - somente informações ativas permanecem nele;
 - fatos históricos completos pertencem ao livro;
+- fechamentos diários pertencem a continuidade/dias/;
 - verdades permanentes devem ser consolidadas em fichas ou mundo;
 - material reservado continua separado;
 - o arquivo deve ser reescrito para permanecer compacto.
@@ -156,7 +165,7 @@ Modelo:
 
 atual.md contém o presente operacional da campanha.
 
-Abrir este arquivo ao iniciar ou retomar a sessão. Informações encerradas são preservadas no livro e removidas daqui quando não forem mais necessárias para decisões futuras.
+Abrir este arquivo ao iniciar ou retomar a sessão. Informações encerradas são preservadas no livro ou na continuidade diária e removidas daqui quando não forem mais necessárias para decisões futuras.
 ~~~
 
 ## 6. Estado atual
@@ -209,6 +218,90 @@ Remova do estado:
 - duplicações.
 
 Mantenha no estado aquilo cuja ausência poderia causar erro na próxima decisão.
+
+## 6A. Continuidade diária
+
+A pasta continuidade/ guarda fechamentos diários e manutenção leve de calendário, agenda e autonomia de personagens importantes fora da cena principal.
+
+Use:
+
+~~~text
+campanhas/nome-da-campanha/continuidade/
+├── README.md
+└── dias/
+    ├── README.md
+    └── AAAA-MM-DD-dia-da-semana.md
+~~~
+
+Exemplo:
+
+~~~text
+campanhas/o-campus/continuidade/dias/2025-09-03-quarta-feira.md
+~~~
+
+Cada fechamento diário deve conter:
+
+~~~md
+# Fechamento do Dia — DD/MM/AAAA, dia da semana
+
+## Will
+
+Resumo do dia de Will.
+
+### Estado final de Will
+
+- PV:
+- PA:
+- PE:
+- Posição:
+- Selo de Velamento:
+- Itens relevantes:
+- Pendências pessoais:
+
+## Gwen
+
+Resumo narrativo de pelo menos 10 linhas quando aplicável.
+
+## Riri
+
+Resumo narrativo de pelo menos 10 linhas quando aplicável.
+
+## Agenda
+
+- Evento ou compromisso futuro.
+- Pendência com data ou período.
+- Acontecimento previsto.
+
+## Pendências abertas
+
+- Fios ainda ativos.
+- Consequências não resolvidas.
+- Investigações em andamento.
+
+## Novo dia
+
+`Novo dia — DD/MM/AAAA, dia da semana`
+
+## Ponto de retomada
+
+Descrição objetiva de onde a campanha deve continuar.
+~~~
+
+Função da continuidade diária:
+
+- registrar a data encerrada e o novo dia;
+- preservar o que personagens importantes fizeram fora da câmera;
+- registrar família, amigos, rotina, estudo, trabalho, patrulha ou atividade própria dessas personagens;
+- manter a agenda e compromissos futuros;
+- preservar pendências que atravessam a virada de dia;
+- dar ao jogador informação de narrador sem transferi-la automaticamente ao personagem.
+
+A continuidade diária não substitui:
+
+- `livro/`, que guarda a versão literária e cronológica dos acontecimentos;
+- `estado/atual.md`, que guarda apenas o presente operacional;
+- fichas de personagem, que guardam mudanças estáveis;
+- `mestre/`, que guarda material reservado.
 
 ## 7. README de personagens
 
@@ -423,6 +516,7 @@ Salve depois de uma mudança canônica relevante, especialmente quando houver:
 - mudança de relação;
 - criação ou perda de objeto;
 - passagem significativa de tempo;
+- fechamento diário;
 - encerramento de cena, sessão ou capítulo;
 - correção explícita do jogador.
 
@@ -436,12 +530,13 @@ Depois de estabelecer uma sentença:
 2. separe fatos observáveis, pensamentos, conhecimento privado e verdade reservada;
 3. acrescente o acontecimento ao capítulo em andamento;
 4. atualize estado/atual.md com consequências ainda ativas;
-5. consolide mudanças permanentes nas fichas;
-6. consolide verdades estáveis no mundo;
-7. atualize segredos, planos e prazos no mestre;
-8. remova do estado o que deixou de ser atual;
-9. atualize os READMEs cujos índices mudaram;
-10. confira se a próxima decisão pode ser retomada sem reler tudo.
+5. salve fechamentos diários em continuidade/dias/ quando o dia for fechado;
+6. consolide mudanças permanentes nas fichas;
+7. consolide verdades estáveis no mundo;
+8. atualize segredos, planos e prazos no mestre;
+9. remova do estado o que deixou de ser atual;
+10. atualize os READMEs cujos índices mudaram;
+11. confira se a próxima decisão pode ser retomada sem reler tudo.
 
 Sempre que possível, trate o conjunto como uma única atualização coerente. Não deixe o estado apontar para um capítulo inexistente nem um índice apontar para arquivo não criado.
 
@@ -498,9 +593,10 @@ Antes de encerrar o salvamento, confirme:
 9. Alguma regra foi duplicada dentro da campanha?
 10. Os READMEs apontam para arquivos existentes?
 11. Existe um ponto exato de retomada?
-12. A campanha pode continuar sem reler o livro inteiro?
+12. Fechamentos diários foram salvos em continuidade/dias/ quando acionados?
+13. A campanha pode continuar sem reler o livro inteiro?
 ~~~
 
 ## Regra final
 
-> **Salvar é transformar acontecimentos estabelecidos em memória organizada. O livro preserva integralmente a história em ordem literária; o estado preserva o presente operacional; fichas e mundo preservam verdades estáveis; o mestre preserva material reservado; e os READMEs indicam onde cada informação deve ser encontrada.**
+> **Salvar é transformar acontecimentos estabelecidos em memória organizada. O livro preserva integralmente a história em ordem literária; o estado preserva o presente operacional; a continuidade diária preserva calendário, agenda e vida fora da câmera; fichas e mundo preservam verdades estáveis; o mestre preserva material reservado; e os READMEs indicam onde cada informação deve ser encontrada.**
