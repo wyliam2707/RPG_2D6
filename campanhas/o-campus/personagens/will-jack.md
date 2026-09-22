@@ -75,7 +75,10 @@ A IA não escolhe por Will ações, sentimentos, atração, falas importantes ou
 - Estuda Arqueologia em Culver University.
 - Já possui experiência real como vigilante.
 - Na vida civil, apresenta-se como nerd discreto e um pouco desajeitado.
-- Em atuação heroica, fala fórmulas e passagens em latim, grego e hebraico e usa presença ritual para intimidar criminosos.
+- Herdou da avó o hábito de misturar idiomas durante conversas. Quando fica nervoso, distraído, empolgado ou emocionalmente pressionado, pode trocar espontaneamente do inglês para latim, grego ou aramaico por uma palavra, frase ou algumas sentenças antes de perceber.
+- Essa troca pode atrapalhar conversas comuns quando a outra pessoa não entende o idioma, mas não impõe penalidade automática; só importa mecanicamente quando a situação realmente criar incerteza ou consequência.
+- Em combate, a troca de idioma é deliberada e ritual: grego para ataques e magia ofensiva; aramaico para proteção, defesa e cura; latim para contenção, aprisionamento, selos e efeitos como sono ou paralisia; uma forma perdida de celta para teleporte e deslocamento espacial.
+- Como vigilante, usa robe, capuz, máscara sem rosto e presença ritual para intimidar criminosos.
 
 ## Relações
 - **Laura Jack:** avó e figura parental; falecida há cerca de um ano.
