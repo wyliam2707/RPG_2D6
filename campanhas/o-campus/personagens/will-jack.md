@@ -48,7 +48,8 @@ Atual [30] / Máximo [30]
 ## Itens / Equipamentos
 - **Cajado Hermético:** cajado mágico comum usado como foco ritual e arma branca. Ajuda Will em ações de ataque e combate compatíveis, sem possuir RD, PE ou poder especial próprio.
 - **Robe, capuz e máscara sem rosto:** vestimenta ritual e identidade heroica. Não concede RD.
-- **Selo de Velamento:** pequeno sigilo hermético preparado por Will para abafar sua assinatura mágica passiva. Enquanto estiver com ele, leituras casuais tecnológicas ou místicas tendem a tratá-lo como normal. Não oculta magia ativa e não impede uma investigação deliberada competente.
+- **Selo de Velamento:** pequeno sigilo hermético preparado por Will para abafar sua assinatura mágica passiva. Enquanto estiver com ele, leituras casuais tecnológicas ou místicas tendem a tratá-lo como normal. Não oculta magia ativa e não impede uma investigação deliberada competente. É usado principalmente na vida civil; quando Will sai como mago/vigilante, normalmente o deixa inativo ou guardado, pois a presença mística faz parte da identidade ritual.
+- **Limitação do Selo de Velamento:** o selo é um abafador, não uma porta blindada. Ele reduz leitura ambiental, casual ou à distância, mas não bloqueia fluxo por contato direto. Toque físico, especialmente pele com pele ou contato firme/prolongado, pode permitir que sentidos especiais percebam lampejos da anomalia de Will. Da mesma forma, sensores tecnológicos encostados ou acoplados podem captar picos anômalos enquanto houver contato. Encerrado o contato, o selo volta a abafar a assinatura passiva sem revelar automaticamente sua origem.
 
 ## Estados Atuais
 Nenhum estabelecido.
