@@ -1,21 +1,17 @@
 # Estado atual
 
 ## Momento
-Primeiras semanas de um novo semestre em Culver University, fim da manhã.
+Primeiras semanas de um novo semestre em Culver University, noite.
 
 ## Cena atual
-Cafeteria do campus de Culver University.
+Will concluiu uma patrulha noturna após impedir um roubo em um beco. A vítima ficou segura e chamou a polícia. Três criminosos permaneceram contidos e adormecidos no local.
 
-Will, Gwen e Riri estão presentes. Os três continuam desconhecidos entre si.
-
-Gwen percebeu uma reação incomum de seu sentido-aranha orientada para Will. Riri registrou em seus sensores uma assinatura energética anômala associada a ele. Will percebeu uma aura incomum em Gwen e uma fonte de energia concentrada e sofisticada em Riri.
-
-Nenhuma dessas percepções forneceu identidade, causa completa ou intenção.
+Will deixou a área sob ocultação mágica. Saiu sem ser seguido nem identificado diretamente, embora possa existir registro incompleto de um vulto encapuzado.
 
 ## Posição e condição
 - Gwen Stacy: cafeteria; PV 40/40; PA 30/30; sem Estados ativos.
 - Riri Williams: cafeteria; PV 35/35; PA 30/30; sem Estados ativos.
-- Will Jack: cafeteria; PV 40/40; PA 30/30; sem Estados ativos.
+- Will Jack: em deslocamento após a patrulha; PV 40/40; PA 15/30; sem Estados ativos.
 
 ## Intenções e processos
 - Gwen, Riri e Will seguem rotinas universitárias normais.
@@ -50,18 +46,5 @@ Nenhuma dessas percepções forneceu identidade, causa completa ou intenção.
 
 ## Retomada
 - Capítulo em andamento: Capítulo 001 — Café, Teias e Ruído.
-- Última cena salva: abertura na cafeteria.
-- Ponto exato da próxima decisão: Will encerrou a conversa com Gwen em bons termos e segue normalmente o restante do dia.
-
-
-## Cena noturna — combate no beco
-- Will está em identidade heroica, com robe, capuz, máscara e cajado.
-- Três criminosos cercavam um civil junto a uma motocicleta.
-- Primeiro ataque: rajada mágica não letal, sucesso completo.
-- Dano correto: 2 pontos não letais (1D6 rolou 1 + Razão +1).
-- Iniciativa: Will 10; dois criminosos 8; criminoso ferido 2.
-- Will usou Manipulação Arcana com Conjuração +3 para criar correntes de pedra em Área Curta 1D6, sem gasto de PA.
-- Resultado 9: sucesso parcial.
-- Dois criminosos estão no Estado PRESO/IMOBILIZADO pelas correntes de pedra.
-- O criminoso armado com pistola permaneceu livre.
-- Próxima decisão depende da reação do criminoso armado e da continuidade da rodada.
+- Última cena salva: Will concluiu uma patrulha noturna, deixou três criminosos contidos e adormecidos para a polícia e saiu sob ocultação mágica.
+- Ponto exato da próxima decisão: Will está livre para decidir para onde vai após deixar o beco.
