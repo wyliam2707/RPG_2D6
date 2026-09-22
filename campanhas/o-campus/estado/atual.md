@@ -1,45 +1,56 @@
 # Estado atual
 
 ## Momento
-Primeiras semanas de um novo semestre em Culver University. A campanha ainda está em preparação e nenhuma cena foi jogada.
+Primeiras semanas de um novo semestre em Culver University. A campanha está ativa, mas a primeira cena ainda não começou.
 
 ## Cena atual
-Ainda não iniciada.
+Local de abertura: cafeteria do campus de Culver University.
 
-Ponto de abertura aprovado: cafeteria do campus, durante as primeiras semanas do semestre. O encontro não possui resultado pré-escrito.
+A cena deve começar em situação cotidiana e parar na primeira escolha real de Will.
 
 ## Posição e condição
-- Gwen Stacy: em Willowdale; PV 40/40; PA 30/30; sem Estados ativos estabelecidos.
-- Riri Williams: em Willowdale; ficha mecânica ainda em criação.
-- Will Jack: em Willowdale; ficha mecânica ainda em criação.
+- Gwen Stacy: no campus; PV 40/40; PA 30/30; sem Estados ativos.
+- Riri Williams: no campus; PV 35/35; PA 30/30; sem Estados ativos.
+- Will Jack: no campus; PV 40/40; PA 30/30; sem Estados ativos.
 
 ## Intenções e processos
-- Concluir as fichas dos três protagonistas.
-- Iniciar a campanha a partir da rotina universitária.
-- Preservar a separação entre identidades civis e heroicas.
+- Gwen, Riri e Will seguem rotinas universitárias normais.
+- Os três mantêm separadas suas identidades civis e heroicas.
+- A campanha deve permitir que a aproximação entre eles comece organicamente a partir da convivência e das oportunidades já preparadas.
 
 ## Conhecimento distribuído
 - Gwen, Riri e Will começam como desconhecidos entre si, civilmente e como vigilantes.
 - Nenhum deles sabe que os outros dois também atuam como heróis.
 - Todos já possuem experiência heroica anterior à chegada a Willowdale.
+- Gwen conhece apenas suas próprias capacidades e experiência.
+- Riri conhece apenas sua própria identidade heroica e tecnologia.
+- Will conhece apenas sua própria tradição mágica e experiência.
 
 ## Relações em mudança
 Nenhuma relação entre os três foi estabelecida em jogo ainda.
 
 ## Recursos e objetos relevantes
-- Gwen possui o traje da Aranha-Fantasma: RD 1 e PE 10, recuperado integralmente a cada dia.
-- Recursos de Riri e Will ainda serão consolidados em suas fichas.
+- Gwen: traje da Aranha-Fantasma, RD 1, PE 10.
+- Riri: armadura Ironheart, RD 2, PE 10.
+- Will: cajado hermético; robe, capuz e máscara sem RD.
 
 ## Fios ativos
 - Desenvolvimento do romance entre Will, Gwen e Riri.
 - Rivalidade e interesse mútuo entre Gwen e Riri.
-- Equilíbrio entre vida acadêmica, familiar e heroica.
-- Identidades secretas.
-- Famílias presentes e potencialmente resistentes à relação.
-- Ameaças urbanas comuns e pequenos supercriminosos surgem organicamente.
+- Vida acadêmica, família e carreira.
+- Identidades secretas e vida heroica.
+- Ameaças urbanas comuns e pequenos supercriminosos.
 - Invasão alienígena futura, ainda distante.
+
+## Primeira oportunidade perceptível
+Na cafeteria, sem determinar reação:
+- o sentido-aranha de Gwen pode reagir de forma incomum na direção de Will;
+- sensores de Riri podem registrar uma anomalia associada a ele;
+- Will pode perceber uma aura incomum em Gwen e uma fonte de energia incomum em Riri.
+
+Essas percepções fornecem informação, não obrigam aproximação, confiança ou ação específica.
 
 ## Retomada
 - Capítulo em andamento: nenhum.
 - Última cena salva: nenhuma.
-- Próximo passo: concluir as fichas mecânicas de Riri e Will e completar as informações pessoais necessárias das personagens controladas por IA antes da primeira cena.
+- Próximo passo: abrir o primeiro capítulo e iniciar a cena na cafeteria.
