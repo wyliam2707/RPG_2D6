@@ -21,16 +21,16 @@ PADRÃO: [3]
 A associação entre Riri Williams e Ironheart não é conhecimento público.
 
 ## Atributos
-Vigor [0] | Destreza [+1] | Razão [+3] | Espírito [-1]
+Vigor [0] | Destreza [+1] | Razão [+2] | Espírito [-1]
 
 ## Perícias Finais
 Combate [0] | Resistência [+1] | Atletismo [+1] | Sobrevivência [+1]
 Pontaria [+3] | Esquiva [+2] | Furtividade [+1] | Mobilidade [+1]
-Conjuração [+3] | Astúcia [+4] | Conhecimento [+4] | Técnica [+4]
+Conjuração [+2] | Astúcia [+3] | Conhecimento [+3] | Técnica [+3]
 Canalização [-1] | Vontade [0] | Percepção [+1] | Influência [-1]
 
 ## PV
-Atual [35] / Máximo Atual [35] [Máximo Base: 35]
+Atual [30] / Máximo Atual [30] [Máximo Base: 30]
 
 ## PA
 Atual [30] / Máximo [30]
