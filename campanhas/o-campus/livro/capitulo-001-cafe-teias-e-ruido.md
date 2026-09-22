@@ -92,3 +92,14 @@ Com o combate iniciado, Will tomou a dianteira na iniciativa.
 Em seguida, dedicou sua ação a um efeito de Área Curta, fazendo correntes de pedra romperem o chão para prender os três homens.
 
 O teste de Conjuração resultou em sucesso parcial. As correntes capturaram o homem já ferido e o vigia, prendendo braços e pernas contra o chão e a parede próxima. O homem que havia puxado a pistola conseguiu recuar a tempo e permaneceu livre.
+
+
+À noite, Will saiu para patrulhar como vigilante.
+
+Em um beco, encontrou três criminosos tentando roubar um rapaz e sua motocicleta. Usando magia hermética, atacou de forma não letal, prendeu dois deles com correntes de pedra e inutilizou a arma do terceiro aquecendo o metal até ele soltá-la. Após algumas tentativas frustradas de contenção, conseguiu prender também o fugitivo.
+
+Will então curou o ferimento leve da vítima com Cura Hermética, usando Canalização, e colocou os três criminosos para dormir com um efeito de sono em área.
+
+Antes de sair, pediu à vítima que chamasse a polícia para “as belas adormecidas”.
+
+Will deixou o local usando magia para ocultar sua presença. A execução foi apenas parcial: ele saiu sem ser seguido ou identificado diretamente, mas não eliminou toda possibilidade de um vulto encapuzado ter sido registrado à distância.
