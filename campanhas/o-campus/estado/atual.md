@@ -25,6 +25,8 @@ Will deixou a área sob ocultação mágica. Saiu sem ser seguido nem identifica
 - Nenhum deles sabe que os outros atuam como heróis.
 
 ## Relações em mudança
+- Riri descobriu que o scanner desligou sem apresentar falha técnica convencional e passou a considerar Will um problema técnico não resolvido. Também traduziu o elogio em latim que ele deixou ao sair.
+- Gwen já teve um primeiro contato civil positivo com Will e sabe seu nome.
 - Will e Gwen tiveram a primeira conversa civil.
 - Gwen sabe que Will estuda Arqueologia, fala latim e aprendeu idiomas com a avó.
 - Will sabe que Gwen estuda Bioquímica.
@@ -32,6 +34,7 @@ Will deixou a área sob ocultação mágica. Saiu sem ser seguido nem identifica
 - Riri ainda não conversou com Will nem com Gwen.
 
 ## Recursos e objetos relevantes
+- Will: selo de velamento hermético ativo, preparado para abafar sua assinatura mágica passiva diante de sensores e percepções compatíveis.
 - Gwen: traje da Aranha-Fantasma, RD 1, PE 10, não exposto na cena.
 - Riri: armadura Ironheart, RD 2, PE 10, não exposta na cena.
 - Will: cajado hermético, robe, capuz e máscara; Selo de Velamento ativo sobre sua assinatura mágica passiva.
@@ -47,7 +50,7 @@ Will deixou a área sob ocultação mágica. Saiu sem ser seguido nem identifica
 ## Retomada
 - Capítulo em andamento: Capítulo 001 — Café, Teias e Ruído.
 - Última cena salva: Will concluiu uma patrulha noturna, deixou três criminosos contidos e adormecidos para a polícia e saiu sob ocultação mágica.
-- Ponto exato da próxima decisão: Will está em casa após criar com sucesso um Selo de Velamento para reduzir sua assinatura mágica passiva.
+- Ponto exato da próxima decisão: cena encerrada. Will está em casa após preparar com sucesso um selo de velamento para reduzir sua assinatura mágica passiva.
 
 ## Descobertas recentes
 - Riri investigou o desligamento do scanner e concluiu que não houve falha convencional de bateria, curto ou software. A causa permaneceu aberta.
