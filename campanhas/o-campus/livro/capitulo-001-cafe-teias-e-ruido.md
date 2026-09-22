@@ -112,3 +112,12 @@ Quando percebeu que já havia gasto energia suficiente por uma noite, escolheu u
 O descanso breve restaurou seus Pontos de Ampliação até o máximo.
 
 Antes de voltar para casa, Will desfez a aparência heroica longe do prédio e retornou civilmente, preservando a identidade secreta.
+
+
+Na manhã seguinte, Will encontrou Riri no elevador. A conversa começou pela leitura anômala que os sensores dela haviam registrado e rapidamente desviou para idiomas, Arqueologia e Engenharia.
+
+Riri descobriu que Will fala inglês, latim, grego e aramaico, além de algumas palavras em outras línguas, hábito herdado da avó. Will demonstrou entusiasmo genuíno por Arqueologia e comentou como tecnologia moderna ajuda a estudar o passado.
+
+Riri, por sua vez, falou sobre Engenharia, sistemas, materiais e energia. A conversa foi leve, com provocações amistosas e curiosidade crescente dos dois lados.
+
+Como ambos estavam indo para Culver University, seguiram juntos para o campus.
