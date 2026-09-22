@@ -130,3 +130,12 @@ Usando Percepção Mística sobre si mesmo, obteve uma leitura clara: ele não e
 Essa assinatura é fraca demais para chamar atenção comum, mas pode ser percebida por meios especializados, mágicos ou tecnológicos suficientemente sensíveis. Quando Will conjura, usa fórmulas ou manipula energia, a assinatura se torna momentaneamente mais evidente.
 
 Isso explica por que o scanner de Riri detectou algo mesmo quando Will estava apenas em roupas civis.
+
+
+Ao voltar para casa, Will decidiu resolver o problema das leituras anômalas antes que precisasse continuar sabotando equipamentos alheios.
+
+Usando os livros e anotações de Laura, preparou um ritual de velamento. O objetivo não era apagar sua magia, mas suavizar a assinatura passiva que sensores sensíveis conseguiam perceber.
+
+O ritual foi um sucesso completo.
+
+Will criou um pequeno Selo de Velamento, capaz de abafar sua assinatura mágica enquanto permanecesse com ele. O selo não escondia conjuração ativa nem tornava Will impossível de detectar sob investigação deliberada, mas eliminava o ruído passivo que havia chamado a atenção dos sensores de Riri.
