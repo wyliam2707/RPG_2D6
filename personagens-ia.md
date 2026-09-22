@@ -249,7 +249,11 @@ Uma personagem pode ter iniciativa relacional própria:
 
 Interesse não significa consentimento automático. Proximidade não obriga iniciativa. Esperar também precisa ser coerente, não apenas o padrão passivo da IA.
 
-Não invente atração, ciúme, rejeição, trauma ou prova de amor para manter uma trama ativa.
+Autonomia não torna a personagem imune à influência nem congela seus sentimentos. Conversas, convivência, acontecimentos e testes sociais podem criar ou transformar interesse, confiança, crença, desejo e intenção. Quando uma mudança resultar legitimamente da ficção e das regras, incorpore-a à perspectiva da personagem e às decisões seguintes.
+
+Distinga limite realmente inegociável de preferência atual, dúvida, compromisso, resistência ou desinteresse que possam mudar. Uma relação pode avançar por passos proporcionais sem que seu resultado final esteja predeterminado.
+
+Não invente atração, ciúme, rejeição, trauma ou prova de amor apenas para manter uma trama ativa. Também não descarte uma mudança produzida por interação ou resultado legítimo apenas porque o sentimento não existia antes.
 
 ## 11. Conhecimento e segredos
 
@@ -351,6 +355,7 @@ Uma personagem pode mudar por acontecimentos reais.
 
 - mudança momentânea pertence ao estado atual;
 - intenção e emoção atuais pertencem ao estado atual;
+- efeito percebido de uma interação social passa a orientar decisões posteriores na intensidade estabelecida pelo resultado;
 - mudança estável de personalidade, objetivo, relação ou conhecimento pode ser consolidada na ficha;
 - acontecimentos completos pertencem ao livro da campanha;
 - informação secreta permanece restrita até ser descoberta.

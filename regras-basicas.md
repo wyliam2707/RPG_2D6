@@ -19,7 +19,25 @@ Resolva qualquer ação nesta ordem:
 
 Se uma ação for impossível, nenhum teste a torna possível. Se for possível e não houver incerteza relevante, ela acontece sem teste.
 
-### 1.2 Teste universal
+### 1.2 Teste como resumo da ficção
+
+Um teste resolve a incerteza de uma intenção completa. Ele pode representar uma ação breve, uma conversa inteira, horas de investigação, uma negociação prolongada ou outro processo cuja execução detalhada não precise ocupar o mesmo tempo na mesa.
+
+O jogador declara **objetivo e abordagem** com detalhe suficiente para identificar possibilidade, Perícia, oposição, dificuldade e risco. A abordagem pode ser geral, como “converso para convencer” ou “examino a sala em busca de pistas”. Peça precisão somente quando métodos diferentes alterarem materialmente a possibilidade, o risco ou a resolução. O jogador não precisa executar pessoalmente a tarefa, possuir o conhecimento técnico do personagem nem descrever cada etapa. A ficha representa a capacidade do personagem; os dados introduzem o fator aleatório; o resultado resume o que aconteceu na ficção.
+
+Use três estados:
+
+1. **Certo:** se o resultado já decorre da situação, estabeleça-o sem teste.
+2. **Incerto:** se mais de um resultado plausível permanece aberto, faça um teste.
+3. **Impossível:** se o efeito não pode acontecer naquela situação, não role.
+
+A possibilidade também limita o tamanho do objetivo. Se o resultado final for impossível de uma só vez, verifique se a mesma abordagem pode produzir um avanço menor e deixe esse alcance claro antes da rolagem. Um teste pode criar o próximo passo legítimo sem resolver todo o processo.
+
+Não repita o mesmo teste até obter sucesso. Uma nova tentativa exige mudança real de abordagem, condição, recurso, posição, relação ou objetivo.
+
+> **O jogador escolhe a intenção. A ficha representa a competência. Os dados resolvem a incerteza. O teste resume o processo.**
+
+### 1.3 Teste universal
 
 Todo teste usa uma **Perícia Final**. O Atributo associado já faz parte desse valor.
 
@@ -35,7 +53,7 @@ Quando não houver oposição direta:
 
 Depois, aplique escala e outros modificadores compatíveis.
 
-### 1.3 Resultado universal
+### 1.4 Resultado universal
 
 - **6 ou menos — Falha:** a intenção não se realiza de forma útil.
 - **7–10 — Sucesso parcial:** a intenção se realiza de forma reduzida, incompleta ou imperfeita, aproximadamente pela metade.
@@ -45,7 +63,7 @@ Sucesso parcial continua sendo sucesso.
 
 Quando o efeito for numérico, o sucesso parcial aplica **metade do valor**, sempre arredondada para cima. Quando não for numérico, aplique intensidade menor, um nível de escala abaixo ou imperfeição equivalente. A exceção explícita das invocações está na seção 11.
 
-### 1.4 Dificuldade circunstancial
+### 1.5 Dificuldade circunstancial
 
 Use dificuldade somente quando não houver oposição direta:
 
@@ -55,7 +73,7 @@ Use dificuldade somente quando não houver oposição direta:
 
 Não use dificuldade menor que **−2**. Se a situação ultrapassar esse limite, decida pela possibilidade ficcional da ação, não por uma penalidade maior.
 
-### 1.5 Bônus e penalidades
+### 1.6 Bônus e penalidades
 
 Bônus e penalidades diretos ficam entre **+2 e −2**.
 
@@ -65,7 +83,7 @@ Bônus e penalidades diretos ficam entre **+2 e −2**.
 
 Exemplo: `+2`, `+1` e `−1` resultam em `+1`.
 
-### 1.6 Arredondamento
+### 1.7 Arredondamento
 
 Sempre que uma regra mandar dividir um valor numérico pela metade, arredonde para cima.
 
@@ -269,7 +287,7 @@ Ao começar a sustentar outro, o anterior deixa de ser sustentado. Se possuir du
 
 ### 6.4 Bônus e penalidades gerados
 
-Um efeito que crie vantagem ou desvantagem aplica **+1 ou −1**. Por 5 PA, aplica **+2 ou −2**. O modificador afeta somente ações compatíveis com sua natureza e obedece aos limites e à não acumulação da seção 1.5.
+Um efeito que crie vantagem ou desvantagem aplica **+1 ou −1**. Por 5 PA, aplica **+2 ou −2**. O modificador afeta somente ações compatíveis com sua natureza e obedece aos limites e à não acumulação da seção 1.6.
 
 - **Falha:** não se aplica.
 - **Sucesso parcial:** dura 2 turnos, cerca de 12 segundos.
@@ -436,7 +454,8 @@ NPCs usam as mesmas regras de resolução. NPCs comuns podem não possuir PA par
 
 | Elemento | Regra |
 |---|---|
-| Teste | `2D6 + Perícia Final − oposição` ou `2D6 + Perícia Final + dificuldade` |
+| Necessidade de teste | certo acontece; incerto testa; impossível não testa |
+| Teste | resume a intenção inteira; `2D6 + Perícia Final − oposição` ou `2D6 + Perícia Final + dificuldade` |
 | Falha | 6 ou menos |
 | Parcial | 7–10; aproximadamente metade ou efeito reduzido |
 | Completo | 11 ou mais; efeito pretendido |
