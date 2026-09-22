@@ -113,6 +113,6 @@ Existe uma invasão alienígena futura como grande escalada de longo prazo, sem 
 - Livro: livro/README.md
 
 ## Retomada
-- Capítulo atual: nenhum.
+- Capítulo atual: Capítulo 002 — Sob o Véu.
 - Último capítulo concluído: Capítulo 001 — Café, Teias e Ruído.
-- Ponto de continuação: Will está em casa após criar o Selo de Velamento. O próximo capítulo deve partir da rotina normal dos protagonistas, sem encontro ou evento pré-determinado.
+- Ponto de continuação: Will segue para Culver University pela manhã com o Selo de Velamento ativo.
