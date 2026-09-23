@@ -114,5 +114,5 @@ Existe uma invasão alienígena futura como grande escalada de longo prazo, sem 
 
 ## Retomada
 - Capítulo atual: nenhum aberto.
-- Último capítulo concluído: Capítulo 002 — Sob o Véu.
-- Ponto de continuação: início do próximo dia, antes de qualquer ação voluntária de Will.
+- Último capítulo concluído: Capítulo 005 — Stonehenge, Chuva e Máscaras.
+- Ponto de continuação: 06/09/2025, sábado, início da tarde. Will, Gwen e Riri acabaram de prolongar um almoço público perto do prédio. O plano é cada um passar no próprio apartamento, pegar equipamentos de forma civilmente explicável e sair como “trabalho em grupo” para verificar Limiar e Sombra no depósito temporário.
