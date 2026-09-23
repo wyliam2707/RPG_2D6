@@ -18,7 +18,7 @@ PADRÃO: [3]
 - Aparência física visível: armadura tecnológica avançada.
 - Primeira impressão: heroína tecnológica poderosa, precisa e altamente preparada.
 
-A associação entre Riri Williams e Ironheart não é conhecimento público.
+A associação entre Riri Williams e Ironheart não é conhecimento público. Will Jack e Gwen Stacy conhecem essa identidade.
 
 ## Atributos
 Vigor [0] | Destreza [+1] | Razão [+2] | Espírito [-1]
@@ -44,6 +44,7 @@ Atual [30] / Máximo [30]
 
 ## Itens / Equipamentos
 - **Armadura Ironheart:** RD 2; PE 10. Não concede bônus automático de Atributo ou Perícia.
+- **Sensores e registros offline do caso Janus:** Riri mantém registros separados sobre Limiar, Sombra, Voraz, magia de Will, rastreadores passivos e contenção, evitando rede quando o assunto envolve Janus.
 
 ## Estados Atuais
 Nenhum estabelecido.
@@ -56,12 +57,14 @@ Nenhum estabelecido.
 - Demonstra afeto mais por presença, ajuda, atenção e compartilhamento de projetos do que por grandes discursos.
 - Diante de atração inesperada, tende primeiro a analisar, racionalizar e demorar mais que Gwen para admitir o que sente.
 - Rivalidade não significa hostilidade permanente; admiração pode crescer justamente da competição.
+- Diante do flerte provocativo de Will, tende a responder com precisão seca, análise social e ironia, mas sem recuar automaticamente.
 
 ## Objetivos e Desejos
 - Tornar-se uma engenheira extraordinária sem depender da sombra de outros gênios.
 - Aperfeiçoar a armadura por mérito próprio.
 - Construir uma vida pessoal que não seja sacrificada ao trabalho.
 - Encontrar pessoas capazes de acompanhá-la intelectual e emocionalmente.
+- Criar protocolos seguros para Limiar, Sombra e Voraz sem entregar seres conscientes a instituições que os transformariam em ativos.
 
 ## Medos, Limites e Códigos
 - Detesta ser tratada como criança, mascote ou apenas como “gênio útil”.
@@ -83,18 +86,23 @@ Nenhum estabelecido.
 - **Ronnie Williams:** mãe.
 - **Gary Williams:** padrasto e figura paterna; vivo nesta continuidade.
 - **Pai biológico:** falecido antes de seu nascimento.
-- **Gwen Stacy:** inicialmente desconhecida; atualmente conhecida civil, estudante de Bioquímica, vizinha de prédio e presença fisicamente confiante. A relação começou com provocação leve, curiosidade, competição social e atenção mútua.
-- **Will Jack:** inicialmente desconhecido; atualmente conhecido civil, estudante de Arqueologia e vizinho de prédio. Riri confirmou que há uma assinatura energética anômala associada a ele, embora não saiba sua origem. Também reconhece nele humor, gentileza e capacidade de notar coisas incomuns. Há curiosidade, competição e atração inicial, sem compromisso formal.
+- **Gwen Stacy:** vizinha, estudante de Bioquímica e Aranha-Fantasma. Riri conhece sua identidade heroica. A relação começou com provocação leve, curiosidade, competição social e atenção mútua; após a revelação, tornou-se cooperação real com segredo compartilhado e potencial de vínculo próprio dentro da estrutura relacional do trio.
+- **Will Jack:** vizinho, estudante de Arqueologia e Azoth. Riri conhece sua identidade heroica. Will conhece a identidade Ironheart. A relação avançou para confiança ativa, análise compartilhada, preocupação com o vínculo de Voraz e flerte consciente. Riri percebe que as piadas de Will carregam interesse romântico sutil e intencional, não apenas humor aleatório.
+- **Voraz / “Docinho”:** simbionte vinculado a Will. Riri não ouve Voraz diretamente, salvo canal aberto ou manifestação externa. Ela o considera risco alto, mas reconhece que Will está construindo limites e simbiose.
+- **Limiar e Sombra:** organismos simbióticos conscientes no depósito. Riri registrou dados offline, isolou rastreadores passivos e pretende levar sensores melhores antes de nova visita.
 
 ## Conhecimento Relevante
 - Conhecimento acadêmico e técnico avançado compatível com seu perfil de engenheira excepcional.
 - Conhece profundamente sua própria armadura e sistemas.
-- Não conhece inicialmente as identidades heroicas de Gwen ou Will.
-- Sabe que Will fala vários idiomas antigos e que possui uma assinatura energética anômala associada a ele, aparentemente abafada por algum fator não identificado.
-- Sabe que Will percebeu algo oculto próximo da mochila dela, mas não sabe como nem com qual precisão.
-- Sabe que Gwen estuda Bioquímica, mora no mesmo prédio e tem postura física rápida, confiante e competitiva.
+- Conhece as identidades heroicas de Will e Gwen.
+- Sabe que Will usa magia hermética real por idiomas, símbolos e intenção.
+- Sabe que Will fala vários idiomas antigos e que possui assinatura energética anômala parcialmente abafada pelo Selo de Velamento.
+- Sabe que Gwen é Aranha-Fantasma e que seus poderes são orgânicos/integrados ao corpo.
+- Sabe que Projeto Janus transportava simbiontes conscientes e que Limiar/Sombra seguem no depósito.
+- Tem protocolo em rascunho para simbiontes: não abrir cápsulas sem consenso, não permitir vínculo sem testemunha, prever separação de emergência, e impedir que qualquer um dos três decida sozinho.
 
 ## História Consolidada
 - Cresceu com Ronnie Williams e Gary Williams como figura paterna.
 - Não possui irmãos nesta continuidade.
 - Chega a Willowdale já com experiência heroica e domínio funcional de sua armadura.
+- No Capítulo 005, revelou sua identidade a Will e Gwen, descobriu Azoth e Aranha-Fantasma, ajudou na investigação dos núcleos frios, isolou rastreadores passivos das cápsulas e aceitou a “normalidade diferente” como caminho possível do trio.
