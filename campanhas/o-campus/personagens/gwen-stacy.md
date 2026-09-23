@@ -18,7 +18,7 @@ PADRÃO: [3]
 - Aparência física visível: traje da Aranha-Fantasma.
 - Primeira impressão: vigilante ágil, móvel e difícil de alcançar.
 
-A associação entre Gwen Stacy e Aranha-Fantasma não é conhecimento público.
+A associação entre Gwen Stacy e Aranha-Fantasma não é conhecimento público. Will Jack e Riri Williams conhecem essa identidade.
 
 ## Atributos
 Vigor [+1] | Destreza [+2] | Razão [0] | Espírito [-1]
@@ -56,12 +56,14 @@ Nenhum estabelecido.
 - Pode ser competitiva quando encontra alguém capaz de acompanhá-la.
 - Quando sente atração, tende primeiro a demonstrá-la por proximidade, provocação, curiosidade e atenção, não por confissões imediatas.
 - Não mantém desconfiança artificial depois que alguém já conquistou sua confiança.
+- Diante do flerte provocativo de Will, tende a devolver com humor, ameaça social brincalhona e atenção física/afetiva, sem transformar toda provocação em drama.
 
 ## Objetivos e Desejos
 - Concluir Bioquímica e construir uma vida que não seja definida apenas pela identidade heroica.
 - Proteger sua família sem transformar proteção em controle.
 - Ter relações nas quais possa ser Gwen, e não apenas Aranha-Fantasma.
 - Explorar atração e vínculos quando surgirem, mesmo que sejam inesperados.
+- Não deixar Will lidar sozinho com Voraz, Limiar, Sombra e os riscos de Janus.
 
 ## Medos, Limites e Códigos
 - Evita colocar inocentes em risco por conveniência.
@@ -82,18 +84,23 @@ Nenhum estabelecido.
 - **George Stacy:** pai; policial experiente transferido para Willowdale.
 - **Helen Stacy:** mãe; viva e presente.
 - **Emily Stacy:** irmã mais nova.
-- **Riri Williams:** inicialmente desconhecida; atualmente conhecida civil, estudante de Engenharia, vizinha de prédio e presença intelectualmente competitiva. A relação começou com provocação leve, curiosidade e atenção mútua.
-- **Will Jack:** inicialmente desconhecido; atualmente conhecido civil, estudante de Arqueologia e vizinho de prédio. Gwen teve conversas leves com ele na biblioteca, no apartamento e no almoço, percebeu seu humor, sua solidão discreta e o hábito de escapar para idiomas antigos. Há curiosidade e atração inicial, sem compromisso formal.
+- **Riri Williams:** vizinha, estudante de Engenharia e Ironheart. Gwen conhece sua identidade heroica. A relação começou com provocação leve, curiosidade e competição; após a revelação, ganhou cooperação real, segredo compartilhado e potencial de vínculo próprio dentro da estrutura relacional do trio.
+- **Will Jack:** vizinho, estudante de Arqueologia e Azoth. Gwen conhece sua identidade heroica. Will conhece a identidade Aranha-Fantasma. A relação avançou para confiança ativa, segredo compartilhado, preocupação com o vínculo de Voraz e flerte consciente. Gwen percebe que as piadas de Will carregam interesse romântico sutil, não apenas humor bobo.
+- **Voraz / “Docinho”:** simbionte vinculado a Will. Gwen não ouve Voraz diretamente, salvo canal aberto ou manifestação externa. Ela sabe que ele é perigoso e que Will o está mantendo sob limites.
+- **Limiar e Sombra:** organismos simbióticos conscientes no depósito. Gwen prometeu retorno/voz e considera importante não abandoná-las.
 
 ## Conhecimento Relevante
 - Conhecimento acadêmico compatível com seu curso de Bioquímica.
 - Conhece suas próprias capacidades aracnídeas e possui experiência no uso delas como vigilante.
-- Não conhece inicialmente as identidades heroicas de Riri ou Will.
+- Conhece as identidades heroicas de Will e Riri.
+- Sabe que Will usa magia hermética real por idiomas, símbolos e intenção.
 - Sabe que Will fala vários idiomas antigos e que alguns vazamentos linguísticos têm tom de elogio ou nervosismo, mesmo quando ela não compreende a frase literal.
-- Sabe que Riri carrega sensores/equipamentos no campus e trata isso como material escolar de Engenharia.
+- Sabe que Riri carrega sensores/equipamentos no campus e que é Ironheart.
+- Sabe que Projeto Janus transportava simbiontes conscientes e que Limiar/Sombra seguem no depósito.
 
 ## História Consolidada
 - Integra uma família de quatro pessoas com George, Helen e Emily Stacy.
 - Não existe outro Homem-Aranha nesta continuidade.
 - Chega a Willowdale já como heroína experiente.
 - Esta versão é baseada na essência da Aranha-Fantasma, não uma réplica integral de uma continuidade específica.
+- No Capítulo 005, revelou sua identidade a Will e Riri, descobriu Azoth e Ironheart, ajudou na investigação dos núcleos frios e aceitou a “normalidade diferente” como caminho possível do trio.
