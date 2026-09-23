@@ -5,40 +5,26 @@ Primeiras semanas de um novo semestre em Culver University.
 
 O **Capítulo 005 — Stonehenge, Chuva e Máscaras** foi concluído.
 
+A continuidade avançou para a noite de 05/09/2025, com Will, Gwen e Riri no depósito temporário selado do Distrito Industrial, analisando as evidências do Projeto Janus e os três núcleos frios.
+
 ## Data e agenda de continuidade
-**Data atual:** fim da tarde de 05/09/2025, sexta-feira.
+**Data atual:** noite de 05/09/2025, sexta-feira.
 
-### Próxima cena
-Will, Gwen e Riri estão na Culver após as aulas da tarde. Will esperou pelas duas antes de ir embora e propôs:
+### Cena atual
+Will/Azoth, Gwen/Aranha-Fantasma e Riri/Ironheart estão no depósito temporário selado no Distrito Industrial.
 
-1. ir primeiro ao apartamento de Will;
-2. de lá, seguir para o local onde ele deixou o material encontrado na noite anterior;
-3. verificar o depósito temporário selado e os núcleos frios sem abri-los de forma insegura.
+A análise dos três núcleos frios revelou que eles não eram baterias nem bombas, mas cápsulas contendo organismos simbióticos conscientes, vivos, de origem desconhecida.
+
+Estado da cena:
+1. Cápsula 1 está vazia, marcada `DOCINHO`; a entidade Voraz foi retirada por Will e está fundida ao braço dele sob contenção rúnica.
+2. Cápsula 2 contém Limiar, estabilizada e comunicativa.
+3. Cápsula 3 contém Sombra, estabilizada, assustada e consciente.
+4. Gwen e Riri sugeriram que, naquela noite, o objetivo deve ser resgate e contenção, não fusão imediata.
 
 ## Posição e condição
-- **Will Jack / Azoth:** corredor/saída da Culver; PV 30/30; PA 30/30; Selo de Velamento equipado; identidade Azoth revelada a Gwen e Riri.
-- **Gwen Stacy / Aranha-Fantasma:** com Will e Riri na Culver; PV 35/35; PA 30/30; sem Estados ativos; identidade Aranha-Fantasma revelada a Will e Riri.
-- **Riri Williams / Ironheart:** com Will e Gwen na Culver; PV 30/30; PA 30/30; sem Estados ativos; identidade Ironheart revelada a Will e Gwen; sensores registraram múltiplas manifestações mágicas.
-
-## Resumo do capítulo 005
-A manhã começou com vídeos do incêndio da noite anterior: chuva impossível dentro de um prédio, Aranha-Fantasma resgatando uma vítima e boatos sobre o mago encapuzado.
-
-Will analisou os vídeos tecnicamente, usando tijolos da fachada como referência para estimar postura, proporções e movimento da Aranha-Fantasma. Depois conferiu de relance com Gwen. A piada virou o “Stonehenge” do grupo: o mistério era se Will foi pego fazendo a conta ou se deixou que percebessem.
-
-A conversa sobre chuva levou a ritos célticos/druídicos e a um livro da biblioteca sobre ritos hídricos. Na biblioteca, Will testou Riri com fagulhas mágicas discretas deixadas em livros. O sensor experimental dela reagiu aos livros marcados e não reagiu ao livro falso sem fagulha.
-
-Will retirou o Selo de Velamento do pescoço. Riri detectou a assinatura mais forte com seus sensores. Gwen sentiu a mesma nota impossível que havia percebido em Azoth no incêndio.
-
-A conversa foi transferida para uma sala fechada e depois para o apartamento de Will por teleporte em grego. Lá, as três identidades foram reveladas:
-- Will é Azoth e aprendeu magia com a avó Laura.
-- Gwen é a Aranha-Fantasma.
-- Riri é Ironheart.
-
-Will demonstrou magia celta com uma pequena chuva no teto do apartamento por cerca de dez segundos e depois evaporou a poça com outra frase em celta. Riri registrou os dados, odiou a física ofendida e começou a modelar magia como operação simbólico-linguística. Gwen achou a demonstração bonita e útil.
-
-Como os três haviam pulado o almoço, Will preparou sanduíches simples. Depois levou Gwen e Riri de volta ao campus por um ponto cego a cerca de 150 m da entrada da Culver, atrás de um motel abandonado. Usou latim para reduzir a saliência perceptiva do trio durante a saída.
-
-Depois das aulas, Will esperou Gwen e Riri e explicou que precisava levá-las ao lugar onde deixou o material ligado ao Projeto Janus.
+- **Will Jack / Azoth:** depósito temporário selado; PV 30/30; PA 15/30; robe/máscara/cajado; Selo de Velamento equipado sob a roupa; identidade Azoth revelada a Gwen e Riri; Voraz fundido ao braço sob contenção rúnica.
+- **Gwen Stacy / Aranha-Fantasma:** no depósito com Will e Riri; PV 35/35; PA 30/30; traje ativo; identidade Aranha-Fantasma revelada a Will e Riri; preocupada com o risco simbiótico em Will.
+- **Riri Williams / Ironheart:** no depósito com Will e Gwen; PV 30/30; PA 30/30; armadura ativa; sensores ligados; identidade Ironheart revelada a Will e Gwen; mantendo registros separados de Limiar, Sombra e Voraz.
 
 ## Conhecimento consolidado entre o trio
 - Will sabe que Gwen é Aranha-Fantasma.
@@ -50,14 +36,17 @@ Depois das aulas, Will esperou Gwen e Riri e explicou que precisava levá-las ao
 - Os três sabem que todos estavam desconfiando uns dos outros antes da revelação.
 - Os três sabem que Will usa o Selo de Velamento para abafar sua assinatura mágica passiva.
 - Os três sabem que o selo não bloqueia magia ativa, contato direto forte nem sensores muito sensíveis.
+- Os três sabem que Projeto Janus transportava seres vivos conscientes em cápsulas frias.
+- Os três sabem que entregar os organismos a Janus, governo, laboratório, SHIELD ou qualquer instituição comum pode resultar em cobaia, arma, ativo militar ou aplicação antiética.
 
 ## Magia de Will — regras vistas em cena
-- **Grego:** magia de espaço, deslocamento e retorno para casa. Usado para teleportar Will, Gwen e Riri da biblioteca para o apartamento.
+- **Grego:** magia de espaço, deslocamento, retorno para casa e manipulação geométrica. Usado para teleportar Will, Gwen e Riri e para atravessar a mão pela cápsula de Voraz sem abrir fisicamente a caixa.
 - **Celta:** magia de natureza, água, chuva, evaporação e comandos sobre elementos naturais. Usado para demonstrar chuva pequena no apartamento e evaporar a poça.
-- **Latim:** véu, atenção, percepção e baixa saliência. Usado para fazer pessoas não fixarem atenção no trio ao retornar ao campus.
+- **Latim:** véu, atenção, percepção, baixa saliência e ponte de comunicação segura. Usado para fazer pessoas não fixarem atenção no trio ao retornar ao campus e para estabelecer comunicação com os organismos nas cápsulas.
+- **Hebraico:** cura, preservação, ponte da vida e estabilização. Usado para estabilizar Limiar e Sombra sem abrir as cápsulas.
 - **Selo de Velamento:** colar usado no pescoço que abafa a assinatura mágica passiva de Will. Não deixa invisível e não apaga magia ativa.
 
-## Projeto Janus e núcleos frios
+## Projeto Janus e evidências no depósito
 Will/Azoth mantém isolados em um depósito temporário selado no Distrito Industrial:
 - três caixas tecnológicas chamadas de “núcleos frios”;
 - pasta NF-17 / cadeia fria;
@@ -83,29 +72,101 @@ Will/Azoth mantém isolados em um depósito temporário selado no Distrito Indus
 - GPS offline da escolta;
 - nota de Riri com protocolo de redução de dano para o roteador G17.
 
-Riri já analisou parte do material comum no Observatório Whitcomb como Ironheart, antes de saber que Azoth era Will. Gwen ainda não viu esse material.
+Riri já analisou parte do material comum no Observatório Whitcomb como Ironheart, antes de saber que Azoth era Will. Gwen viu os núcleos no depósito durante a noite de 05/09.
 
-## Pendências imediatas
-- Levar Gwen e Riri ao apartamento de Will.
-- Ir do apartamento ao depósito temporário selado.
-- Mostrar as evidências do Projeto Janus a Gwen e Riri.
-- Analisar os núcleos frios sem abrir.
-- Confirmar se há rastreadores passivos nos contêineres.
-- Verificar assinatura tecnológica, mística, biológica ou outro tipo de risco nos núcleos frios.
-- Decidir se o roteador G17 será usado como isca controlada.
-- Investigar `Aviso`, `Aviso Relay` e o rastro `Kessler / 9th`.
-- Definir limites de sigilo e cooperação entre Azoth, Aranha-Fantasma e Ironheart.
+## Organismos simbióticos conscientes
+Classificação provisória de Riri: organismos simbióticos conscientes, padrão Klyntar-like, origem não confirmada.
+
+Riscos gerais:
+- vínculo com hospedeiro;
+- influência emocional;
+- amplificação de impulsos;
+- possibilidade de controle parcial;
+- vulnerabilidade provável a som intenso e calor extremo;
+- risco extremo de abuso institucional.
+
+### Cápsula 1 — Voraz / “Docinho”
+- Autodesignação: **Voraz**.
+- Apelido usado por Will: **Docinho**.
+- Importante: “Docinho” não é o nome verdadeiro. É provocação de Will, um apelido íntimo/perigoso de quem teve coragem de enfiar a mão na boca da fera.
+- Cápsula física: vazia, marcada `DOCINHO` por fora.
+- Estado atual: Voraz está fundido ao braço de Will sob contenção rúnica.
+- Natureza: fome, orgulho, agressividade, inteligência, desejo de corpo, intensidade, desafio e limite forte.
+- Risco: se escapasse sem limite, procuraria corpo forte/faminto por vitória, podendo escalar para multiplicação de conflito e guerra.
+- Acordo provisório com Will:
+  - não tomar ninguém;
+  - não seguir a mente de Will sem permissão;
+  - não morder Gwen, Riri, Limiar ou Sombra;
+  - não romper contenção;
+  - quando Will disser parar, ele para.
+- Conceito correto: Will não prendeu Voraz como nova caixa. Will se fundiu a ele para dar contato, corpo, calor e saída da jaula, impedindo apenas a tomada de controle.
+
+### Cápsula 2 — Limiar
+- Nome escolhido: **Limiar**.
+- Cápsula marcada `LIMIAR`.
+- Estado: ainda contida, consciente, estabilizada, comunicativa em fragmentos.
+- Reagiu bem a cura/estabilização hebraica.
+- Busca vínculo por escolha, limite, escuta e preservação de identidade.
+- Não quer ser arma.
+- Distingue simbiose de tomada.
+- Risco principal: deterioração de memória/identidade se permanecer indefinidamente no frio; abuso se entregue a instituições.
+
+### Cápsula 3 — Sombra
+- Nome escolhido: **Sombra**.
+- Cápsula marcada `SOMBRA`.
+- Estado: ainda contida, consciente, estabilizada, muito assustada.
+- Trauma associado a luz, vidro e mãos.
+- Busca abrigo, calma, voz baixa, limite e preservação de identidade.
+- Não quer ser arma nem ferramenta.
+- Risco principal: pânico, colapso, submissão por medo ou retração profunda se pressionada.
+
+## Eventos recentes no depósito
+1. Will analisou os núcleos frios e descobriu que continham seres vivos/conscientes.
+2. Will fez projeção/progressão de consciência na cápsula 1 e identificou fome, dor, memória de laboratório e risco de hospedeiro.
+3. Will comunicou-se com Limiar, estabilizou a consciência dela e registrou nome.
+4. Will comunicou-se com Sombra, estabilizou a consciência dela com energia suave e registrou nome.
+5. Will comunicou-se em particular com Voraz, estabeleceu regras e apelidou a cápsula de Docinho.
+6. Will atravessou a mão pela cápsula de Voraz usando magia grega e se fundiu ao simbionte, contendo-o no braço.
+7. Gwen e Riri reagiram com preocupação, mas reconheceram que o maior risco agora está sob o controle direto de Will.
+8. O trio discutiu as duas cápsulas restantes e concluiu provisoriamente: hoje, resgate e contenção, não fusão.
+
+## Conceitos de bastidor consolidados para o narrador
+Estes pontos guiam a narração futura, mas não devem vazar como fala explícita de personagem sem o jogador pedir:
+
+- Voraz é perigoso, mal-humorado, faminto e orgulhoso, mas não burro.
+- Voraz não é mascote nem “bonzinho”.
+- “Docinho” é provocação de Will, não identidade real.
+- Will não é prisão para Voraz. Will é limite; talvez, com tempo, possa virar casa.
+- A fusão é resgate arriscado, não domesticação instantânea.
+- Voraz entende que Will foi quem abriu a jaula e deu contato físico, condição essencial para um simbionte existir com hospedeiro.
+- O futuro de Voraz deve evoluir gradualmente: resgate → limite → convivência → hábito → pertencimento → proteção.
+- Correções e metáforas do jogador em bastidor não devem ser colocadas diretamente na fala de Gwen, Riri, Will ou Voraz sem pedido explícito.
+- Quando o usuário fizer correção conceitual, guardar como direção de bastidor, não como fala de personagem.
 
 ## Relações em mudança
-- O trio passou de suspeitas cruzadas para revelação mútua.
-- A confiança ainda é frágil, mas real o bastante para cooperação.
-- Gwen está irritada, aliviada e curiosa; percebe que Will viu o contorno da verdade, mas também respeitou consentimento e limites.
-- Riri está tecnicamente fascinada e irritada; quer modelar magia, entender o selo e comparar dados.
-- Will deixou de fingir normalidade diante delas e agora pretende envolvê-las no caso Janus.
-- O romance central permanece em aproximação inicial, agora com as identidades secretas expostas entre os três.
+- O trio passou de suspeitas cruzadas para revelação mútua e cooperação real.
+- Gwen está preocupada com Will por causa de Voraz, mas ainda presente e ativa na decisão.
+- Riri está alarmada pelo risco técnico, mas reconhece que entregar os organismos a instituições seria moralmente perigoso.
+- Will assumiu risco pessoal enorme ao fundir-se com Voraz.
+- Gwen e Riri sabem que Will não quer decidir sozinho o destino de Limiar e Sombra.
+- Romance central permanece em aproximação inicial, agora atravessado por confiança, risco e responsabilidade compartilhada.
+
+## Pendências imediatas
+- Perguntar a Limiar e Sombra o que aceitam fazer agora.
+- Definir como transportar Limiar e Sombra sem romper contenção.
+- Confirmar se as cápsulas possuem rastreadores passivos.
+- Criar contenção mágica/tecnológica melhor para Limiar e Sombra.
+- Criar protocolo de emergência para Voraz: contenção, separação, som/calor e palavra de parada.
+- Impedir Janus de recuperar as cápsulas ou rastrear o depósito.
+- Investigar `Aviso`, `Aviso Relay` e o rastro `Kessler / 9th`.
+- Decidir se o roteador G17 será usado como isca controlada.
+- Definir local seguro para guardar evidências e cápsulas.
+- Definir limites de sigilo, cooperação e responsabilidade entre Azoth, Aranha-Fantasma e Ironheart.
 
 ## Fios ativos
 - Projeto Janus, núcleos frios, cadeia fria e natureza da carga.
+- Destino de Limiar e Sombra.
+- Vínculo entre Will e Voraz.
 - `Aviso` / `Aviso Relay` e o rastro `Kessler / 9th`.
 - Uso potencial do roteador G17 como isca.
 - Testemunhas ligadas à Hawthorne: Daniel Price, Marta Alves, Evan Brooks e a garota com jaqueta branca.
