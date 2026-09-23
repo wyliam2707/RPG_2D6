@@ -80,8 +80,6 @@ Tapete, paredes, livros, cheiro de casa fechada e café antigo.
 
 A resposta era horrível porque funcionava.
 
-— Em grego é um feito — explicou Will. — E volta para casa.
-
 Riri entendeu que Azoth não havia blefado no observatório. Gwen entendeu que o mago da chuva e o estudante de Arqueologia ocupavam o mesmo corpo.
 
 Então as máscaras caíram.
@@ -146,10 +144,198 @@ Riri entendia a parte tecnológica.
 
 Gwen percebia perigo antes de a maioria das pessoas terminar de formular arrependimento.
 
-A tarde terminou ali, no corredor da Culver, com três estudantes decidindo voltar para o apartamento de Will antes de visitar um depósito selado no Distrito Industrial.
+A tarde terminou no apartamento de Will, com café, troca de roupas e outro tipo de máscara.
 
-Não eram exatamente uma equipe.
+Will vestiu o robe de Azoth. Ao tirar a camisa, deixou à mostra o corpo treinado, tatuagens, runas e diagramas funcionais que desmontavam a imagem de nerd inofensivo com brutal eficiência silenciosa. Gwen percebeu o contraste. Riri olhou como quem vê circuito vivo e odeia não poder pedir uma chave de fenda ritual.
 
-Ainda.
+Elas também se prepararam. Gwen virou Aranha-Fantasma. Riri ativou Ironheart.
 
-Mas já era tarde demais para fingir que eram apenas três pessoas voltando da aula.
+Azoth olhou as duas de verdade: em Gwen, a aura orgânica de poder integrada ao corpo, reflexo, aderência, teia e instinto. Em Riri, a constelação técnica da armadura, sensores, energia compacta e mente afiada costurada à máquina.
+
+Depois veio o depósito.
+
+O lugar estava selado, escuro e quieto demais para ser inocente. Três núcleos frios esperavam junto das evidências de Janus: pasta NF-17, lacres, etiquetas, tablet, chips, mapa Hawthorne, terminal, roteador G17 e notas de uma operação que cheirava menos a transporte e mais a contenção.
+
+Riri decidiu que o roteador ficaria por último. Ele era o objeto com maior chance de gritar para fora.
+
+Azoth leu a primeira cápsula.
+
+Não era bateria. Não era bomba.
+
+Havia algo vivo dentro.
+
+Will sondou mais fundo. Por quase três minutos, o corpo dele ficou frio, sem respiração aparente, enquanto Gwen e Riri seguravam o pânico por disciplina e raiva futura. Quando voltou, trouxe memória fragmentada: luz branca, vidro, metal, frio, vozes sem rosto, fome, dor, vontade de sair.
+
+As três cápsulas não eram iguais.
+
+A primeira era fome ativa.
+
+A segunda, retração comunicativa.
+
+A terceira, medo profundo.
+
+Eles começaram pela segunda.
+
+Will criou uma ponte latina de voz segura. A criatura respondeu em fragmentos. Não era arma por natureza. Queria corpo, voz, calor, limite e escolha. Sem contato, perdia memória, nome e vontade no frio.
+
+Will a estabilizou com hebraico, preservando consciência sem abrir a cápsula. Ela escolheu um nome.
+
+Limiar.
+
+A terceira exigiu voz mais baixa. Ela tinha medo de vidro, luz e mãos. Will prometeu não abrir, não tocar, não forçar. Enviou pouca energia, parando quando ela pediu. A criatura aceitou um nome que doía e protegia ao mesmo tempo.
+
+Sombra.
+
+Então restou a primeira.
+
+Ela era fome com dentes.
+
+Chamava fraqueza de erro, corpo de direito, limite de insulto. Queria correr, lutar, rir, sangrar, vencer. Não buscava qualquer hospedeiro. Buscava força e fome parecida.
+
+Will a chamou de Voraz.
+
+E escreveu do lado de fora da cápsula outra coisa.
+
+Docinho.
+
+Gwen e Riri jamais tiveram tempo de processar se aquilo era coragem, provocação ou tendência suicida. Will estabeleceu regras. Não tomar ninguém. Não seguir mente sem permissão. Não morder Gwen, Riri, Limiar ou Sombra. Não romper contenção. Parar quando Will mandasse parar.
+
+Depois atravessou a mão pela cápsula com magia grega.
+
+Voraz entrou pelo braço.
+
+A sombra líquida subiu pela pele, mordeu a carne, encontrou runas, latim, hebraico, grego e uma vontade que não cedia volante. Will não o prendeu como nova caixa. Deu corpo, calor, mundo e limite.
+
+Gwen não gostou.
+
+Riri gostou menos.
+
+Mas entenderam a matemática cruel: se alguém abrisse Voraz sem limite, haveria guerra.
+
+O trio decidiu que, naquela noite, Limiar e Sombra seriam resgatadas pela contenção, não por fusão. Will abriu um canal de compreensão em área para que todos pudessem conversar. Limiar aceitou permanecer fechada se houvesse voz e promessa de retorno. Sombra aceitou se não houvesse luz, mãos ou pressão. Voraz, ainda atravessado no braço de Will, opinou com a sinceridade desagradável de uma faca: ficar era morrer devagar; Janus voltaria.
+
+Riri isolou rastreadores passivos sem removê-los. Will reforçou o depósito com selos discretos. A cápsula vazia de Voraz e peças externas foram usadas para plantar uma pista falsa do outro lado da cidade, em um pátio industrial abandonado. Nada perto de escola, hospital, campus ou prédio residencial.
+
+Quando voltaram ao apartamento de Will, já era quase meia-noite.
+
+Azoth virou Will outra vez. Robe fora. Manga comprida. Mesa ruim.
+
+A comida era pão, queijo, mortadela, bolachas, suco de caixinha e creme de amendoim. O tipo de jantar que não deveria receber testemunhas heroicas, mas recebeu duas. Will ergueu o suco e chamou aquilo de primeiro encontro estranho: comida ruim, invasão simbionte, mas companhia boa.
+
+Gwen e Riri riram o bastante para a noite lembrar que ainda era jovem.
+
+Will disse que preferia as duas assim: sem armadura completa, sem análise de risco e contenção simbionte de madrugada. Gwen traduziu como gostar delas normais. Riri aceitou, com ressalvas contra a palavra normal.
+
+Quando elas foram embora, Will ainda brincou que tinha outro braço.
+
+Gwen e Riri recusaram a ideia com unanimidade jurídica.
+
+A porta fechou.
+
+O apartamento ficou quieto.
+
+Quieto o bastante para Will conversar com Voraz.
+
+A primeira conversa real entre os dois aconteceu entre cozinha, cobertura e vento.
+
+Will perguntou em que nível de fusão Voraz funcionava. Pele, sangue, vontade, respondeu a criatura. Will então ofereceu algo raro: acesso suficiente para compreender intenção, sem entregar o volante e sem dominar a mente do simbionte. Um acordo de cavalheiros, sem comer a mente do colega de quarto.
+
+Voraz viu que Will não queria poder porque já o tinha. Viu medo não dos inimigos, mas do que o próprio Will poderia se tornar sem regras. Sono, chão e cura não eram coleiras para os outros. Eram limites para ele mesmo.
+
+Will revelou por que escolhera Voraz.
+
+Quando mais novo, também quis poder. Muito poder. Poder para nunca ter nada tirado dele.
+
+Voraz entendeu a fome.
+
+Na cobertura do prédio, Will ensinou a lição que magia e jaula não haviam ensinado ao simbionte: poder sem regra é trilha de volta para o vidro. Guerra chama caçadores. Caçadores chamam exércitos. Exércitos chamam jaulas melhores.
+
+Poder prende garganta, mas não mantém escolha.
+
+Poder prende corpo, mas não faz Gwen e Riri voltarem porque querem.
+
+Voraz odiou a conclusão.
+
+Escolheu mesmo assim: liberdade com limites. Por enquanto.
+
+Então Will correu e pulou do prédio.
+
+Magia grega dobrou ângulos. O vento virou chão. Voraz abriu membranas, reforçou músculos, mordeu o ar sem tomar o controle. Não foi voo de Ironheart nem teia de Gwen. Foi queda domesticada por magia e dentes.
+
+Will se moveu como não fazia desde que chegara à cidade: não o nerd discreto, não o vigilante cerimonial, mas o mago de vinte e poucos anos criado com magia como ar, capaz de pensar em quatro idiomas ao mesmo tempo e desejar tudo sem tomar tudo.
+
+Voraz sentiu essa fome.
+
+Não posse.
+
+Mundo.
+
+Quando voltaram para casa, Voraz recolheu-se ao braço. Will consertou a cadeira e a mesa que a demonstração havia marcado, tomou banho e foi dormir.
+
+Antes do sono, Voraz pediu outra dança.
+
+Will prometeu amanhã, se nenhum móvel fosse quebrado.
+
+Na manhã de sábado, nenhum móvel havia morrido.
+
+Era um bom começo.
+
+Will acordou com Voraz no braço, quieto, orgulhoso demais para admitir que dormir sem vidro era melhor. Tomou café, avisou que ainda havia aula pela manhã e lembrou o simbionte: conversas privadas continuariam privadas. Nada de comentar pensamentos, sentimentos ou desejos dele com Gwen e Riri.
+
+Voraz considerou mentiras mal feitas uma dor física, mas aceitou.
+
+No térreo, Will esperou as duas.
+
+Gwen apareceu com mochila e olhos atentos demais para uma manhã comum. Riri surgiu com café como equipamento de sobrevivência. Perguntaram se o braço se comportara. Will respondeu que sim.
+
+Então tentou um experimento radical: conversar sobre faculdade.
+
+A caminho da Culver, reclamaram de aula de sábado, professores, grade curricular e civilização acadêmica. Por dentro, Voraz chamou a aula de ritual lento no qual humanos se sentam em fileiras para serem atacados por palavras.
+
+A definição era ofensivamente precisa.
+
+A manhã passou.
+
+No fim das aulas, Will convidou Gwen e Riri para almoçar. Ele pagaria. Um primeiro encontro civil, já que o primeiro encontro profissional havia sido num depósito industrial com cápsulas conscientes, rastreadores e contenção simbiótica.
+
+Elas riram.
+
+Isso importou.
+
+O restaurante escolhido ficava perto do prédio onde moravam. Mesa na rua, dia bonito, visível o bastante para parecer exatamente o que era: três universitários almoçando num sábado.
+
+Will não quis uma alcova escura. Não via motivo para se esconder com elas. Disse que, para alguns alunos, seria mais fácil acreditar que ele era um mago do que acreditar que almoçara com Gwen Stacy e Riri Williams.
+
+A provocação fez o que devia fazer. Não era piada solta. Era flerte com faca fina, uma confissão camuflada: tenho interesse em vocês, e não finjam que não sabem disso.
+
+Gwen devolveu com sorriso perigoso. Riri com precisão cirúrgica. Nenhuma recuou.
+
+O almoço se estendeu. Comida de verdade, sobremesa de chocolate, conversa quase normal, professores, trabalhos, cafés ruins, estudantes que fazem perguntas no fim da aula. Voraz aprendeu que chocolate talvez explicasse por que humanos não mordiam inimigos o tempo todo.
+
+Depois, a tarde começou a tocar a mesa.
+
+Limiar e Sombra ainda esperavam.
+
+Will propôs irem vê-las mais tarde, sem abrir cápsulas, sem decidir por elas, apenas conversar, verificar estado e entender opções.
+
+Gwen concordou porque haviam prometido voltar.
+
+Riri levaria sensores melhores, offline, sem rede.
+
+Mas havia uma questão civil antes do heroísmo: não parecia bom que as duas subissem à cobertura de Will e sumissem por horas. George Stacy era policial. Ronnie Williams não precisava ser policial para perguntar pior. A solução foi simples: cada uma passaria no próprio apartamento, Will pegaria seu material, todos desceriam como estudantes indo fazer trabalho em grupo.
+
+Trabalho em grupo.
+
+Pela primeira vez, a mentira socialmente aceita era quase verdade.
+
+Will ainda cutucou a reputação do nerd de Arqueologia, a culpa que infelizmente não tinha e a possibilidade de vizinhos escreverem ficção melhor que a realidade. Gwen e Riri entenderam a intenção por baixo da piada. O jogo seguia vivo.
+
+Então, ali, antes de voltarem ao prédio e às cápsulas, o capítulo encontrou seu corte natural.
+
+As máscaras haviam caído.
+
+A chuva havia explicado o impossível.
+
+Stonehenge ainda era piada.
+
+E a normalidade diferente do trio, contra qualquer bom senso, continuava de pé.
