@@ -3,26 +3,29 @@
 ## Momento
 Primeiras semanas de um novo semestre em Culver University.
 
-O **Capítulo 005 — Stonehenge, Chuva e Máscaras** foi concluído.
+O **Capítulo 005 — Stonehenge, Chuva e Máscaras** foi encerrado.
 
-A noite de 05/09/2025 foi fechada. Will, Gwen e Riri investigaram o depósito temporário selado, descobriram os organismos simbióticos conscientes do Projeto Janus, estabilizaram Limiar e Sombra, e Will se fundiu a Voraz sob contenção rúnica.
+O trio central já conhece as identidades secretas uns dos outros. Will/Azoth, Gwen/Aranha-Fantasma e Riri/Ironheart atuam agora com cooperação consciente, mas ainda tentando preservar vida civil, faculdade, famílias e a normalidade diferente que começaram a construir.
 
 ## Data e agenda de continuidade
-**Data atual:** madrugada/início de 06/09/2025, sábado, após o fechamento da noite anterior.
+**Data atual:** 06/09/2025, sábado, início da tarde.
 
-### Próxima cena
-A próxima cena deve começar após descanso ou na manhã de sábado, antes de qualquer nova ação voluntária de Will.
+### Cena atual
+Após aulas de sábado pela manhã, Will, Gwen e Riri almoçaram juntos em um restaurante perto do prédio onde moram. O almoço foi público, civil e deliberadamente normal, com flerte sutil de Will por meio de piadas que carregavam subtexto: ele tem interesse nas duas e não quer fingir que elas não sabem.
 
-Direção imediata:
-1. preservar a “normalidade diferente” do trio;
-2. retomar vida universitária/cotidiana antes de mergulhar de novo em Janus;
-3. manter Voraz como presença interna em Will, não como voz audível para Gwen/Riri;
-4. voltar ao depósito depois, quando fizer sentido, para verificar Limiar e Sombra.
+O trio decidiu que à tarde irá verificar Limiar e Sombra no depósito temporário. Antes disso, cada um passará pelo próprio apartamento para pegar materiais. A cobertura de Will não será usada como ponto visível de sumiço prolongado das duas, para evitar explicações sociais complicadas para famílias, vizinhos e conhecidos.
+
+### Ponto de retomada
+Os três estão saindo do restaurante/caminhando de volta para o prédio. O plano imediato é:
+1. cada um pegar seus próprios equipamentos no apartamento;
+2. descer de forma civilmente explicável;
+3. apresentar a saída como “trabalho em grupo”;
+4. ir ao depósito verificar Limiar e Sombra sem abrir cápsulas e sem decidir por elas.
 
 ## Posição e condição
-- **Will Jack / Azoth:** apartamento de Will; PV 30/30; PA operacional ao fim da noite 5/30, recuperável com descanso; Selo de Velamento disponível; identidade Azoth revelada a Gwen e Riri; Voraz fundido ao braço sob contenção rúnica; marca escura/orgânica no antebraço, ocultável com manga comprida.
-- **Gwen Stacy / Aranha-Fantasma:** voltou para sua casa/apartamento no mesmo prédio; PV 35/35; PA 30/30; identidade Aranha-Fantasma revelada a Will e Riri; preocupada com Will e com o destino de Limiar/Sombra, mas aceitou a normalidade diferente por enquanto.
-- **Riri Williams / Ironheart:** voltou para sua casa/apartamento no mesmo prédio; PV 30/30; PA 30/30; identidade Ironheart revelada a Will e Gwen; sensores e registros offline sobre Limiar, Sombra e Voraz; preocupada com protocolo e contenção.
+- **Will Jack / Azoth:** próximo ao prédio onde mora, após o almoço; PV 30/30; PA 20/30 após descanso; Selo de Velamento equipado; Voraz fundido ao braço sob acordo de simbiose; marca ocultável com manga comprida; identidade Azoth revelada a Gwen e Riri.
+- **Gwen Stacy / Aranha-Fantasma:** com Will e Riri; PV 35/35; PA 30/30; identidade Aranha-Fantasma revelada a Will e Riri; preocupada com Will e com Limiar/Sombra, mas engajada na normalidade diferente e no jogo de provocação romântica.
+- **Riri Williams / Ironheart:** com Will e Gwen; PV 30/30; PA 30/30; identidade Ironheart revelada a Will e Gwen; pretende buscar sensores/equipamentos melhores, offline e sem rede, antes de voltar ao depósito.
 
 ## Conhecimento consolidado entre o trio
 - Will sabe que Gwen é Aranha-Fantasma.
@@ -33,12 +36,12 @@ Direção imediata:
 - Riri sabe que Gwen é Aranha-Fantasma.
 - Os três sabem que Will usa o Selo de Velamento para abafar sua assinatura mágica passiva.
 - Os três sabem que Projeto Janus transportava seres vivos conscientes em cápsulas frias.
-- Os três sabem que entregar os organismos a Janus, governo, laboratório ou qualquer instituição comum pode resultar em cobaia, arma, ativo militar ou aplicação antiética.
+- Os três sabem que entregar os organismos a Janus, governo, laboratório ou instituição comum pode resultar em cobaia, arma, ativo militar ou aplicação antiética.
 - Gwen e Riri sabem que Will assumiu o maior risco ao fundir-se com Voraz.
 - Gwen e Riri sabem que Limiar e Sombra ficaram no depósito reforçado, não abandonadas.
 
 ## Magia de Will — regras vistas em cena
-- **Grego:** magia de espaço, deslocamento, retorno para casa e manipulação geométrica.
+- **Grego:** magia de espaço, deslocamento, retorno para casa, teleporte curto, voo por geometria/ângulos e manipulação espacial simples.
 - **Celta:** magia de natureza, água, chuva, evaporação e comandos sobre elementos naturais.
 - **Latim:** véu, atenção, percepção, baixa saliência, ponte de comunicação segura e compreensão compartilhada.
 - **Hebraico:** cura, preservação, ponte da vida e estabilização.
@@ -56,24 +59,24 @@ Riscos gerais:
 - risco extremo de abuso institucional.
 
 ### Regra de comunicação simbiótica
-A partir da correção consolidada:
-- cada simbionte fala somente com seu próprio hospedeiro/vínculo;
-- Voraz fala internamente apenas com Will;
-- Gwen e Riri não ouvem Voraz, salvo se Will abrir canal, Voraz manifestar forma externa/cabeça/boca, usar algum meio físico, ou outra regra/efeito claro permitir;
-- o mesmo princípio vale para Limiar, Sombra e futuros simbiontes;
-- exceções anteriores são explicadas pelo canal de compreensão/ponte coletiva ainda ativo naquela cena.
+- Cada simbionte fala somente com seu próprio hospedeiro/vínculo.
+- Voraz fala internamente apenas com Will.
+- Gwen e Riri não ouvem Voraz, salvo se Will abrir canal, Voraz manifestar forma externa/cabeça/boca, usar algum meio físico, ou outra regra/efeito claro permitir.
+- O mesmo princípio vale para Limiar, Sombra e futuros simbiontes.
+- Exceções anteriores são explicadas por canal de compreensão/ponte coletiva ativo naquela cena.
 
-### Cápsula 1 — Voraz / “Docinho”
+### Voraz / “Docinho”
 - Autodesignação: **Voraz**.
 - Apelido usado por Will: **Docinho**.
-- “Docinho” não é o nome verdadeiro. É provocação de Will, um apelido íntimo/perigoso de quem teve coragem de enfiar a mão na boca da fera.
-- Cápsula física: vazia, marcada `DOCINHO`; casca/peças usadas como pista falsa em pátio industrial abandonado do outro lado da cidade.
-- Estado atual: Voraz está fundido ao braço de Will sob contenção rúnica.
-- Marca: tinta viva/sombra orgânica no antebraço de Will; não sobe além das runas; acompanha movimento com atraso mínimo; oculta com manga comprida.
-- Acordo provisório com Will: não tomar ninguém, não seguir a mente de Will sem permissão, não morder Gwen/Riri/Limiar/Sombra, não romper contenção, e parar quando Will disser parar.
-- Conceito correto: Will não prendeu Voraz como nova caixa. Will se fundiu a ele para dar contato, corpo, calor e saída da jaula, impedindo apenas a tomada de controle.
+- “Docinho” não é o nome verdadeiro. É provocação de Will, apelido íntimo/perigoso de quem teve coragem de enfiar a mão na boca da fera.
+- Estado: fundido ao braço de Will, com marca de sombra/tinta viva no antebraço.
+- Acordo atual com Will: liberdade com limites; sem volante; sem comer mente do colega de quarto; sem revelar conversas privadas de Will; perto de Gwen e Riri deve ficar recolhido no braço salvo ameaça real ou autorização; se houver ameaça, Will pode abrir a porta da dança.
+- Conceito correto: Will não prendeu Voraz como nova caixa. Will deu corpo, calor, contato e saída da jaula, impedindo tomada de controle.
+- A relação começou a mudar de contenção para simbiose consciente: Will conduz, Voraz empurra; Will escolhe direção/parada, Voraz oferece força, proteção, movimento e adaptação física.
+- Voraz já demonstrou: garras, manopla, filamentos de alcance, absorção de impacto, camuflagem parcial da marca, cura bruta e membranas para planar/voar em conjunto com magia grega.
+- Voraz experimentou chocolate e aprovou.
 
-### Cápsula 2 — Limiar
+### Limiar
 - Nome escolhido: **Limiar**.
 - Cápsula marcada `LIMIAR`.
 - Estado: contida no depósito, consciente, estabilizada, comunicativa.
@@ -81,7 +84,7 @@ A partir da correção consolidada:
 - Busca vínculo por escolha, limite, escuta e preservação de identidade.
 - Não quer ser arma.
 
-### Cápsula 3 — Sombra
+### Sombra
 - Nome escolhido: **Sombra**.
 - Cápsula marcada `SOMBRA`.
 - Estado: contida no depósito, consciente, estabilizada, muito assustada.
@@ -94,47 +97,35 @@ A partir da correção consolidada:
 - Limiar e Sombra continuam fechadas em suas cápsulas reais.
 - Riri detectou dois rastreadores/sinais passivos nas cápsulas ocupadas e os isolou sem remover.
 - Will reforçou o depósito com selo hermético discreto de baixa saliência e isolamento.
-- A pista falsa foi plantada com casca/peças externas do outro lado da cidade, em pátio industrial abandonado, longe de hospital, escola, campus e prédios residenciais.
+- A pista falsa foi plantada com casca/peças externas da cápsula vazia de Voraz e elementos externos no outro lado da cidade, em pátio industrial abandonado, longe de hospital, escola, campus e prédios residenciais.
 - Objetivo da pista falsa: sugerir transporte/fuga apressada e afastar Janus das cápsulas reais.
-
-## Eventos recentes consolidados
-1. Will analisou os núcleos frios e descobriu que continham seres vivos/conscientes.
-2. Will comunicou-se com Limiar, estabilizou a consciência dela e registrou nome.
-3. Will comunicou-se com Sombra, estabilizou a consciência dela com energia suave e registrou nome.
-4. Will comunicou-se em particular com Voraz, estabeleceu regras e apelidou a cápsula de Docinho.
-5. Will se fundiu a Voraz, mantendo controle do corpo e contenção rúnica.
-6. O trio decidiu: resgate/contenção, não fusão imediata para Limiar e Sombra.
-7. Will abriu canal de compreensão em área com 10 PA; Limiar e Sombra aceitaram não ser abandonadas e permanecerem fechadas por enquanto.
-8. Riri isolou rastreadores passivos, Will reforçou o depósito, e o trio plantou pista falsa do outro lado da cidade.
-9. O trio voltou ao apartamento de Will, comeu comida improvisada de madrugada e fechou a noite em tom de “normalidade diferente”.
-10. Gwen e Riri foram embora. Will ficou sozinho no apartamento com Voraz silencioso no braço.
 
 ## Relações em mudança
 - O trio passou de suspeitas cruzadas para revelação mútua e cooperação real.
-- Gwen está preocupada com Will por causa de Voraz, mas segue presente e ativa.
-- Riri está alarmada pelo risco técnico, mas reconhece que entregar os organismos a instituições seria moralmente perigoso.
-- Will assumiu risco pessoal enorme ao fundir-se com Voraz.
-- Gwen e Riri sabem que Will não quer decidir sozinho o destino de Limiar e Sombra.
-- A noite terminou com intimidade cotidiana: comida ruim, piadas, cansaço e a formulação “nossa normalidade diferente”.
-- Romance central permanece em aproximação inicial, agora atravessado por confiança, risco, humor e responsabilidade compartilhada.
+- A relação central está em fase inicial de flerte consciente: Will usa piadas com subtexto para indicar interesse por Gwen e Riri sem forçar declaração pesada.
+- Essas piadas não são alívio cômico solto: funcionam como cortejo sutil, teste de limites, normalização pública e provocação social consciente.
+- Gwen devolve provocações com humor físico/social e atenção emocional.
+- Riri devolve provocações com precisão, análise e ironia controlada.
+- Gwen e Riri ainda não assumiram compromisso formal, mas não recuaram do jogo.
+- O almoço público perto do prédio ajudou a marcar que Will não quer esconder as duas em uma alcova escura nem reduzir a relação ao contexto heroico.
+- Gwen e Riri também começam a se reconhecer como parte da mesma equação relacional, não apenas rivais paralelas.
 
 ## Conceitos de bastidor para o narrador
 - Voraz é perigoso, mal-humorado, faminto e orgulhoso, mas não burro.
 - Voraz não é mascote nem “bonzinho”.
 - “Docinho” é provocação de Will, não identidade real.
-- Will não é prisão para Voraz. Will é limite; talvez, com tempo, possa virar casa.
-- A fusão é resgate arriscado, não domesticação instantânea.
+- A fusão é resgate arriscado e início de convivência, não domesticação instantânea.
 - O futuro de Voraz deve evoluir gradualmente: resgate → limite → convivência → hábito → pertencimento → proteção.
 - Correções e metáforas do jogador em bastidor não devem ser colocadas diretamente na fala de Gwen, Riri, Will ou Voraz sem pedido explícito.
-- O foco da campanha continua sendo o romance/convivência Will-Gwen-Riri, com Janus/simbiontes como camada heroica.
+- O foco da campanha continua sendo romance/convivência Will-Gwen-Riri; Janus e simbiontes são camada heroica, não substituição do eixo romântico.
+- Piadas/flertes de Will devem ter intenção narrativa. Evitar transformá-las em piadas bestas sem subtexto.
 
 ## Pendências imediatas
-- Começar 06/09 com rotina/normalidade diferente, sem pular direto para laboratório ou conspiração se o jogador não pedir.
-- Confirmar recuperação de Will após descanso e observar efeitos iniciais do vínculo com Voraz.
-- Criar protocolo de emergência para Voraz: palavra de parada, separação, som/calor e contenção.
+- Buscar equipamentos nos apartamentos sem gerar suspeita social.
 - Voltar ao depósito para verificar Limiar e Sombra.
+- Conversar com Limiar e Sombra sobre opções de médio prazo.
 - Criar contenção mágica/tecnológica melhor para Limiar e Sombra.
-- Perguntar novamente a Limiar e Sombra o que aceitam fazer no médio prazo.
+- Criar protocolo de emergência para Voraz: palavra de parada, separação, som/calor e contenção.
 - Monitorar se Janus segue a pista falsa.
 - Investigar `Aviso`, `Aviso Relay` e o rastro `Kessler / 9th`.
 - Decidir se o roteador G17 será usado como isca controlada.
@@ -150,4 +141,4 @@ A partir da correção consolidada:
 - Arquivo criptografado `nao_abrir_sem_copia.enc`.
 - Repercussão pública do mago encapuzado, da chuva impossível e da Aranha-Fantasma no incêndio.
 - Ajuste de confiança e limites entre Will/Azoth, Gwen/Aranha-Fantasma e Riri/Ironheart.
-- Vida acadêmica e rotina civil agora atravessadas por cooperação heroica.
+- Vida acadêmica e rotina civil atravessadas por cooperação heroica.
