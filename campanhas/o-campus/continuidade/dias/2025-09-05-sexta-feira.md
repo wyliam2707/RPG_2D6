@@ -3,7 +3,7 @@
 ## Estado do dia
 Dia iniciado após o incêndio da noite anterior e a aparição pública de Azoth e Aranha-Fantasma. A manhã foi dominada por vídeos ruins, boatos sobre o “mago do banheiro”, chuva impossível dentro de prédio e especulações sobre a Aranha-Fantasma.
 
-O dia terminou no depósito temporário selado do Distrito Industrial, com Will, Gwen e Riri diante das consequências do Projeto Janus: três cápsulas contendo organismos simbióticos conscientes, todos vivos, todos diferentes, todos perigosos de formas distintas.
+O dia terminou com Will, Gwen e Riri carregando três verdades novas: as identidades secretas do trio foram reveladas, o Projeto Janus transportava organismos simbióticos conscientes, e Voraz agora está fundido ao braço de Will sob contenção rúnica.
 
 ## Manhã — vídeos, Stonehenge e suspeitas
 Will, Gwen e Riri caminharam juntos para a Culver e viram vídeos do incêndio.
@@ -12,7 +12,7 @@ Will analisou a Aranha-Fantasma no vídeo de forma técnica: postura, ângulo de
 
 Da análise surgiram as piadas e tensões sobre medidas. Will estimou medidas da Aranha-Fantasma e depois conferiu de relance com Gwen. A situação virou o “Stonehenge” do grupo: o mistério não era só o cálculo, mas se Will foi pego fazendo ou deixou que percebessem.
 
-Will pensou que as peças estavam cada vez mais difíceis de ignorar:
+Will percebeu que as peças estavam cada vez mais difíceis de ignorar:
 - medidas batiam com Gwen;
 - aura orgânica/integrada de Gwen batia com a sensação da Aranha-Fantasma;
 - comportamento de Gwen diante dos vídeos também batia.
@@ -44,7 +44,7 @@ Os três foram para uma sala de estudo fechada. Will recolocou o selo, explicou 
 Riri e Gwen aceitaram com condições: sem truque contra elas, parar se qualquer uma pedisse, e não decidir por elas o que era seguro.
 
 ## Teleporte para o apartamento de Will
-Will deu as mãos a Gwen e Riri, falou a frase em grego e levou as duas para seu apartamento.
+Will deu as mãos a Gwen e Riri, falou uma frase em grego e levou as duas para seu apartamento.
 
 Resultado narrativo:
 - Riri confirmou que não era transporte convencional e que seus sensores registraram algo impossível de classificar pelos modelos comuns.
@@ -343,8 +343,125 @@ Gwen resumiu a posição provisória:
 - hoje, resgate;
 - não fusão.
 
+## Canal de compreensão e decisão provisória
+Will decidiu abrir um canal de compreensão para que Gwen e Riri pudessem falar diretamente com Limiar e Sombra.
+
+Encanto usado:
+- “Em meu reino, que se faça a compreensão.”
+
+Custo: 10 PA. PA 15 → 5.
+Teste: 3D6 mantendo os dois melhores `[5,4,3] + Conjuração 3 = 12`, sucesso completo.
+
+Efeito:
+- compreensão compartilhada em área;
+- não invadiu mente;
+- alinhou intenção, sentido, emoção e palavra o bastante para permitir conversa;
+- Sombra recebeu o canal de forma mais suave, sem sobrecarga.
+
+Gwen e Riri explicaram às duas que o depósito não era seguro, que Janus poderia voltar, que elas não seriam abertas naquela noite e que o objetivo era evitar recaptura ou deterioração.
+
+Voraz, ainda pelo contexto do canal aberto, deu opinião: ficar seria morrer devagar; Janus voltaria; mover fechado era melhor que esperar preso. A opinião foi útil, embora mal-humorada.
+
+Limiar aceitou ser movida fechada. Sombra aceitou com condições:
+- sem abrir;
+- sem luz forte;
+- parar quando ela pedir.
+
+Depois, discutiu-se o destino imediato. Will sugeriu que talvez o próprio depósito fosse o melhor lugar provisório, desde que reforçado, e que as caixas/cascas abertas ou peças externas fossem jogadas do outro lado da cidade para criar pista falsa.
+
+Riri considerou a ideia boa: manter Limiar e Sombra no depósito, isolar rastreadores e plantar cascas ou peças falsas em local abandonado para sugerir fuga/transporte para outro ponto.
+
+Gwen reforçou que a pista falsa não deveria levar a civis, prédios residenciais, hospital, escola ou campus.
+
+## Reforço do depósito e pista falsa
+O trio decidiu executar o plano naquela noite, pois Will ainda queria comer antes do fim da noite.
+
+Riri fez varredura de rastreadores nas cápsulas ocupadas.
+
+Teste de Técnica de Riri: `2D6 [5,4] + Técnica 3 = 12`, sucesso completo.
+
+Resultado:
+- foram encontrados sinais passivos em Limiar e Sombra;
+- sinais não transmitiam ativamente, mas poderiam acordar com pulso certo;
+- Riri isolou os sinais sem removê-los, para não denunciar alteração.
+
+Will reforçou o depósito com selos discretos, mais trava do que muralha.
+
+Teste de Conjuração sem PA: `2D6 [6,3] + Conjuração 3 = 12`, sucesso completo.
+
+Resultado:
+- depósito ficou mais difícil de notar e rastrear;
+- camada hermética discreta reforçou silêncio, isolamento e baixa saliência;
+- Limiar e Sombra permaneceram fechadas e estáveis.
+
+A cápsula vazia de Voraz e peças externas falsas foram preparadas como isca. Riri deixou assinatura suficiente para parecer transporte apressado. Will acrescentou uma trilha mística torta, como pegadas de alguém que queria parecer cuidadoso e falhou.
+
+Gwen levou parte do material pelo alto. Riri cobriu sensores. Will abriu deslocamento curto para largar cascas e peças num pátio industrial abandonado do outro lado da cidade.
+
+Nada ficou perto de escola, prédio residencial, hospital ou campus.
+
+Ao final:
+- isca plantada;
+- cápsulas reais isoladas;
+- depósito reforçado;
+- Limiar e Sombra aceitaram esperar, desde que esperar não virasse abandono;
+- Gwen prometeu que a voz voltaria;
+- Riri registrou as condições de Sombra.
+
+## Retorno ao apartamento de Will
+Com tudo organizado, Will silenciou Voraz/“Docinho” e voltou com Gwen e Riri para o apartamento por teleporte.
+
+Importante: a regra de comunicação dos simbiontes foi consolidada.
+
+A partir de agora:
+- cada simbionte fala somente com seu próprio hospedeiro/vínculo;
+- Voraz fala internamente apenas com Will;
+- Gwen e Riri não ouvem Voraz, salvo se Will abrir canal, Voraz manifestar forma externa/cabeça/boca, usar algum meio físico, ou outra regra/efeito claro permitir;
+- o mesmo princípio vale para Limiar, Sombra e futuros simbiontes;
+- exceções anteriores são explicadas pelo canal de compreensão/ponte coletiva ainda ativo naquela cena.
+
+No apartamento, Will retirou o robe e se olhou no espelho.
+
+Mudanças observadas:
+- no antebraço onde Voraz entrou há uma marca escura, orgânica, como tinta viva sob a pele;
+- a marca não passa do limite das runas;
+- quando Will mexe os dedos, a marca acompanha com atraso mínimo, como se algo dentro estivesse aprendendo o corpo;
+- as runas ao redor parecem mais nítidas/acordadas;
+- nada subiu para o peito;
+- nada chegou ao pescoço;
+- os olhos continuam os de Will;
+- quando Will respira fundo, a sombra pulsa como se respirasse junto.
+
+Voraz ficou calado. Não ausente. Calado.
+
+Will propôs trocar de roupa e “voltar a ser o nerd da Arqueologia por algumas horas”. Riri recomendou manga comprida para esconder a marca.
+
+Horário visto no celular: 23:47, sexta-feira, 05/09/2025.
+
+## Comida de madrugada e normalidade diferente
+Will votou por comer o que havia na geladeira: pão, bolachas, suco de caixinha, queijo, mortadela e creme de amendoim.
+
+A refeição virou piada de primeiro encontro estranho, comida ruim, invasão simbionte e boa companhia.
+
+Will tentou uma cantada dizendo que preferia Gwen e Riri daquele jeito: na casa dele de madrugada, com menos análise de risco, menos contenção simbionte e menos armadura. Gwen e Riri entenderam como elogio à versão mais comum delas, sem traje, sem armadura e sem máscara.
+
+Will reclamou internamente que Voraz/Docinho não ajudava na versão de noite agradável. A partir da correção de regra, Voraz respondeu apenas para Will, não para Gwen e Riri.
+
+O trio comeu, cansado, com humor e exaustão. Depois Will sugeriu que cada uma fosse para sua casa, porque no dia seguinte haveria faculdade e aquela linha tênue de normalidade.
+
+Will corrigiu a ideia:
+- não normalidade falsa;
+- a normalidade deles;
+- apenas diferente.
+
+Gwen e Riri aceitaram a formulação: “nossa normalidade diferente”. Riri resumiu o plano: faculdade primeiro, fim do mundo depois. Gwen pediu que Will não adotasse mais criaturas famintas antes do almoço.
+
+Will respondeu, brincando, que ainda tinha outro braço. Gwen e Riri reagiram com um “não” imediato. Riri registrou o espírito da resposta: o segundo braço de Will não é vaga de estacionamento simbiótico.
+
+Gwen e Riri foram embora para seus apartamentos/casas no mesmo prédio. A porta se fechou. O apartamento de Will ficou quieto pela primeira vez em horas.
+
 ## Conceitos de bastidor consolidados para continuidade
-Estes conceitos devem guiar a narração futura, mas não devem vazar como fala explícita de personagem sem o jogador pedir:
+Estes conceitos guiam a narração futura, mas não devem vazar como fala explícita de personagem sem o jogador pedir:
 
 - Voraz é o nome verdadeiro/autodesignação da entidade da cápsula 1.
 - “Docinho” é apelido provocativo de Will, não identidade real.
@@ -354,24 +471,30 @@ Estes conceitos devem guiar a narração futura, mas não devem vazar como fala 
 - Voraz entende custo, ameaça, acordo e pertencimento inicial.
 - Voraz ainda não é leal nem domesticado, mas sabe que Will foi quem abriu a jaula.
 - Correções/metáforas feitas pelo jogador em bastidor não devem ser colocadas diretamente na boca de Gwen, Riri, Will ou Voraz.
+- Simbiontes falam internamente apenas com seus hospedeiros/vínculos, salvo canal, forma externa ou meio físico estabelecido.
+- O foco da campanha continua sendo o romance/convivência Will-Gwen-Riri, com o fio Janus/simbiontes como camada heroica, não substituto do cotidiano universitário.
 
 ## Estado ao fechar a noite
-- Local: depósito temporário selado, Distrito Industrial.
-- Data/período: noite de 05/09/2025, sexta-feira.
-- Will/Azoth: PV 30/30, PA 15/30, robe/máscara/cajado, Selo de Velamento equipado sob a roupa, Voraz fundido ao braço sob contenção rúnica.
-- Gwen/Aranha-Fantasma: PV 35/35, PA 30/30, traje ativo, alerta e preocupada com o vínculo de Will.
-- Riri/Ironheart: PV 30/30, PA 30/30, armadura ativa, sensores ligados, registros separados para Limiar, Sombra e Voraz.
-- Cápsula 1: vazia, marcada `DOCINHO`; entidade Voraz fundida a Will.
-- Cápsula 2: ocupada por Limiar, marcada `LIMIAR`, consciente, estabilizada, comunicativa.
-- Cápsula 3: ocupada por Sombra, marcada `SOMBRA`, consciente, estabilizada, assustada, precisa de cuidado.
+- Local final: apartamento de Will.
+- Data/período: fim da noite de 05/09/2025, aproximando-se da madrugada de 06/09/2025.
+- Will: em casa, roupa civil/manga comprida recomendada, Voraz fundido ao braço sob contenção rúnica, marca escura no antebraço.
+- Gwen: voltou para sua casa/apartamento, sem traje ativo em cena.
+- Riri: voltou para sua casa/apartamento, armadura guardada/desativada fora de cena.
+- Cápsula 1: vazia, marcada `DOCINHO`; peças/casca usadas como pista falsa em pátio industrial abandonado do outro lado da cidade.
+- Voraz: fundido a Will, contido, fala apenas com Will por vínculo interno, salvo exceção estabelecida.
+- Cápsula 2: ocupada por Limiar, marcada `LIMIAR`, consciente, estabilizada, comunicativa, no depósito reforçado.
+- Cápsula 3: ocupada por Sombra, marcada `SOMBRA`, consciente, estabilizada, assustada, no depósito reforçado.
+- Depósito: reforçado por selo hermético discreto; rastreadores passivos nas cápsulas reais isolados por Riri; baixa saliência e isolamento aumentados.
+- PA de Will ao final operacional antes de descanso: 5/30.
 
-## Pendências imediatas
-- Definir como transportar Limiar e Sombra sem romper contenção.
-- Confirmar se as cápsulas possuem rastreadores passivos.
+## Pendências imediatas para 06/09
+- Retomar vida universitária no sábado, preservando a “normalidade diferente”.
+- Confirmar descanso/recuperação de Will após noite pesada e vínculo com Voraz.
+- Criar protocolo de emergência para Voraz: palavra de parada, separação, som/calor, contenção e limites de fala/manifestações.
+- Voltar ao depósito para verificar Limiar e Sombra.
 - Criar contenção mágica/tecnológica melhor para Limiar e Sombra.
-- Criar protocolo de emergência para Voraz: contenção, separação, som/calor e palavra de parada.
-- Perguntar a Limiar e Sombra o que aceitam fazer agora.
-- Impedir Janus de recuperar as cápsulas ou rastrear o depósito.
+- Decidir se e quando explicar opções futuras de vínculo a Limiar e Sombra.
+- Monitorar se Janus segue a pista falsa.
 - Investigar `Aviso`, `Aviso Relay` e `Kessler / 9th`.
 - Decidir se o roteador G17 será usado como isca controlada.
-- Definir local seguro para guardar evidências e cápsulas.
+- Definir limites de sigilo, cooperação e responsabilidade entre Will/Azoth, Gwen/Aranha-Fantasma e Riri/Ironheart.
