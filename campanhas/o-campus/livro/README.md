@@ -7,6 +7,10 @@ Esta pasta guarda a memória integral da campanha em capítulos literários.
 Nenhum capítulo aberto no momento.
 
 ## Concluídos
+- Capítulo 005 — Stonehenge, Chuva e Máscaras
+  - Período: 05/09/2025, sexta-feira, avançando até o início da tarde de 06/09/2025
+  - Arquivo: capitulo-005-stonehenge-chuva-e-mascaras.md
+  - Encerramento: Will, Gwen e Riri desmontam as suspeitas sobre o incêndio e revelam as identidades Azoth, Aranha-Fantasma e Ironheart. O trio investiga os núcleos frios do Projeto Janus, descobre Limiar, Sombra e Voraz, estabiliza as duas primeiras cápsulas e Will se funde a Voraz sob regras de simbiose. A noite termina com a ideia de “normalidade diferente”; no sábado, o trio sustenta essa normalidade com aula, almoço público e o plano de visitar Limiar e Sombra à tarde.
 - Capítulo 004 — Túnel B-3
   - Período: 03/09/2025, quarta-feira, avançando pela madrugada de 04/09/2025
   - Arquivo: capitulo-004-tunel-b3.md
