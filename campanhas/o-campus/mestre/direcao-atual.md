@@ -102,6 +102,7 @@ Exemplos adequados:
 - Will passar tempo só com Gwen;
 - Will passar tempo só com Riri;
 - Gwen e Riri terem cena própria sem Will;
+- Gwen e Riri saírem juntas sem Will, como salão, café, estudo, compras, treino, laboratório, conversa ou patrulha curta;
 - Will encontrar Emily Stacy por acaso ou por motivo doméstico;
 - Will conversar apenas com Helen ou George Stacy;
 - Will encontrar Ronnie ou Gary Williams sem Riri presente;
@@ -111,6 +112,18 @@ Exemplos adequados:
 - uma personagem puxar uma ação heroica ou civil que não envolva todo mundo.
 
 Isso ajuda a campanha respirar. O romance é a três no núcleo, mas a vida deles não precisa acontecer sempre em trio. Cenas separadas fortalecem os vínculos, dão autonomia às personagens e evitam que a relação vire bloco fixo.
+
+## Controle de câmera e POVs
+
+POVs próprios de Gwen, Riri, famílias ou simbiontes não devem ser usados automaticamente como prêmio de cena ou explicação constante.
+
+O narrador deve pedir autorização ao jogador antes de abrir POV íntimo de personagens que não sejam Will, especialmente quando o POV revelar pensamentos, sentimentos, dúvidas, segredos ou interpretações internas.
+
+Pode haver narração externa normal de ações visíveis sem pedir autorização. A regra vale para entrar na cabeça da personagem ou entregar perspectiva privada.
+
+POVs curtos podem ser usados quando o jogador pedir explicitamente, como: "me dá o POV delas", "POV da família", "o que Gwen pensou", "o que Riri sentiu", "POV de Limiar".
+
+Sem autorização, manter câmera externa: gesto, fala, postura, humor, ação observável e consequências no mundo.
 
 ## Momentos em pares dentro do trio
 
