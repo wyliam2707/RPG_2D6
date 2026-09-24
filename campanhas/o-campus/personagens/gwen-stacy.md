@@ -39,15 +39,17 @@ Atual [30] / Máximo [30]
 - **Sentido-Aranha:** percebe perigo iminente sem revelar automaticamente natureza/explicação.
 - **Teias Orgânicas:** teias naturais para deslocamento, contenção, captura e apoio.
 - **Movimento Aracnídeo:** combina aderência, teias e mobilidade sobre-humana.
-- **Vínculo Simbiótico — Limiar:** Limiar está vinculada ao antebraço de Gwen como marca prateada viva. O vínculo é recente e ainda em adaptação. Limiar busca corpo, nome, identidade e continuidade sem apagar Gwen.
+- **Vínculo Simbiótico — Limiar:** Limiar está vinculada a Gwen como marca prateada viva. O vínculo é recente e ainda em adaptação. Limiar busca corpo, nome, identidade e continuidade sem apagar Gwen.
+- **Runas civis contra rastreio:** cinco símbolos discretos nas costas de Gwen. Com Limiar recolhida: sem rastreio detectável. Saída parcial: sinal abafado. Manifestação completa/armadura: sinal normal se houver proximidade e método.
 
 ## Itens / Equipamentos
 - **Traje da Aranha-Fantasma:** RD 1; PE 10; o PE se regenera integralmente a cada dia.
 
 ## Estados Atuais
-- Limiar vinculada ao antebraço como tatuagem prateada viva.
-- Gwen voltou para casa após jantar público com Will e Riri, com a “tatuagem” como cobertura social.
-- Emocionalmente processando o beijo com Will, o vínculo com Limiar e a relação com Riri dentro da mesma equação.
+- Limiar vinculada como marca prateada viva.
+- Runas discretas nas costas protegem Limiar em forma civil.
+- Emocionalmente processando o vínculo com Limiar, a intimidade crescente com Will/Riri e a percepção da família.
+- George, Helen e Emily conheceram Will na manhã de terça antes de Gwen poder controlar a cena.
 
 ## Personalidade e Tendências
 - Usa humor e ironia para aliviar tensão e esconder desconforto.
@@ -57,6 +59,7 @@ Atual [30] / Máximo [30]
 - Quando sente atração, tende primeiro a demonstrá-la por proximidade, provocação, curiosidade e atenção, não por confissões imediatas.
 - Diante do flerte provocativo de Will, devolve com humor, ameaça social brincalhona e atenção física/afetiva.
 - No Capítulo 006, beijou Will por escolha própria depois que ele pediu direito e não fugiu.
+- No Capítulo 007, aceitou as runas de proteção e reconheceu que a noite na cobertura foi segura, íntima e complicada.
 
 ## Objetivos e Desejos
 - Concluir Bioquímica e construir uma vida que não seja definida apenas pela identidade heroica.
@@ -81,11 +84,11 @@ Atual [30] / Máximo [30]
 - Procura preservar momentos comuns sem heroísmo.
 
 ## Relações
-- **George Stacy:** pai; policial experiente transferido para Willowdale. Desconfia da influência de Will após a “tatuagem”.
-- **Helen Stacy:** mãe; viva e presente.
-- **Emily Stacy:** irmã mais nova; percebe mudanças rápido demais.
-- **Riri Williams:** vizinha, Engenharia e Ironheart. Relação de cooperação, segredo compartilhado, rivalidade leve e potencial vínculo próprio dentro do trio. No Capítulo 006, Gwen viu Riri aceitar Sombra e beijar Will sem tratar isso como competição simples.
-- **Will Jack:** vizinho, Arqueologia e Azoth. Relação avançou para confiança ativa, segredo compartilhado, preocupação, flerte explícito e beijo sem fuga. Gwen ficou irritada com o beijo-e-fuga antes da operação, mas aceitou beijá-lo quando ele pediu direito.
+- **George Stacy:** pai; policial experiente transferido para Willowdale. Conheceu Will no corredor e está observando. Gwen disse que confia em Will.
+- **Helen Stacy:** mãe; viva e presente. Achou Will educado e gentil.
+- **Emily Stacy:** irmã mais nova, 16 anos. Observadora, provocadora e curiosa demais. Conheceu Will antes de Gwen poder controlar a cena e quer investigar o “Will da cobertura”.
+- **Riri Williams:** vizinha, Engenharia e Ironheart. Relação de cooperação, segredo compartilhado, rivalidade leve e potencial vínculo próprio dentro do trio. No Capítulo 007, Gwen compartilhou com Riri a noite das runas, cama, coberta e conversa de futuro.
+- **Will Jack:** vizinho, Arqueologia e Azoth. Relação avançou para confiança ativa, segredo compartilhado, preocupação, flerte explícito, beijo sem fuga e intimidade doméstica. Gwen confia nele o bastante para dizê-lo ao pai.
 - **Voraz / “Docinho”:** simbionte vinculado a Will. Gwen não ouve Voraz diretamente, salvo canal/manifestações. Ela sabe que ele é perigoso, mas reconhece a dança dele com Will.
 - **Limiar:** simbionte consciente vinculada a Gwen. Limiar fala internamente com Gwen, em frases curtas. Relação atual: corpo, calor, nome, identidade e aprendizagem.
 - **Sombra:** simbionte consciente vinculada a Riri. Gwen sabe que Sombra é assustada e precisa de segurança.
@@ -97,6 +100,7 @@ Atual [30] / Máximo [30]
 - Sabe que Will usa magia hermética por idiomas, símbolos e intenção.
 - Sabe que Janus transportava simbiontes conscientes.
 - Sabe que Janus provavelmente comprou a morte do mago contaminado no mar.
+- Sabe que Limiar recolhida agora não deve gerar rastreio detectável, mas manifestação completa ainda é rastreável.
 
 ## História Consolidada
 - Integra uma família de quatro pessoas com George, Helen e Emily Stacy.
@@ -104,3 +108,4 @@ Atual [30] / Máximo [30]
 - Chega a Willowdale já como heroína experiente.
 - No Capítulo 005, revelou sua identidade a Will e Riri, descobriu Azoth e Ironheart e aceitou a normalidade diferente como caminho possível.
 - No Capítulo 006, ofereceu-se para tirar Limiar da cápsula, vinculou-se a ela, ajudou no álibi civil, acompanhou a farsa contra Janus de fora das câmeras e beijou Will sem fuga.
+- No Capítulo 007, recebeu runas discretas para proteger Limiar de rastreio civil, compartilhou uma noite íntima de confiança com Will e Riri, e viu a família Stacy começar a perceber Will como presença real.
