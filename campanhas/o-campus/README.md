@@ -106,6 +106,7 @@ Existe uma invasão alienígena futura como grande escalada de longo prazo, sem 
 
 ## Estrutura
 - Estado atual: estado/atual.md
+- Continuidade diária: continuidade/README.md
 - Personagens: personagens/README.md
 - Mundo: mundo/README.md
 - Material reservado: mestre/README.md
@@ -114,5 +115,5 @@ Existe uma invasão alienígena futura como grande escalada de longo prazo, sem 
 
 ## Retomada
 - Capítulo atual: nenhum aberto.
-- Último capítulo concluído: Capítulo 008 — Padrões de Família.
-- Ponto de continuação: 09/09/2025, terça-feira de manhã, avançando para aulas/almoço. Will encontrou Riri após o primeiro contato com Emily, Helen e George Stacy e contou tudo. Riri avaliou o encontro como arriscado, mas bom, e alertou Will sobre o risco futuro de encontrar Ronnie e Gary Williams. O trio segue em rotina civil com famílias cada vez mais atentas.
+- Último capítulo concluído: Capítulo 009 — Jantar no Terraço.
+- Ponto de continuação: 11/09/2025, quinta-feira de manhã. Will acorda na cobertura depois do jantar no terraço, da massagem consensual com Gwen e Riri, dos beijos no corredor e da corrida com Voraz em uma floresta remota. Gwen e Riri acordam em suas casas com as famílias já percebendo que a noite anterior foi importante. O romance está consolidado em privado como “devagar, mas não parado”, ainda sem anúncio público formal. A retomada recomendada é rotina civil/universitária, famílias observando, vínculo próprio Gwen-Riri recebendo espaço e heroísmo comum sem Janus dominar.
