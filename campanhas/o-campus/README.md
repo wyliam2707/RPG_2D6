@@ -114,5 +114,5 @@ Existe uma invasão alienígena futura como grande escalada de longo prazo, sem 
 
 ## Retomada
 - Capítulo atual: nenhum aberto.
-- Último capítulo concluído: Capítulo 007 — Marcas de Casa.
-- Ponto de continuação: 09/09/2025, terça-feira de manhã, avançando para almoço. Will voltou da rua com compras e conheceu Emily, Helen e George Stacy no corredor. Gwen saiu de casa sabendo que a família conheceu Will e que Emily virou um problema ativo. Limiar e Sombra agora têm runas discretas contra rastreio civil; forma completa ainda é rastreável.
+- Último capítulo concluído: Capítulo 008 — Padrões de Família.
+- Ponto de continuação: 09/09/2025, terça-feira de manhã, avançando para aulas/almoço. Will encontrou Riri após o primeiro contato com Emily, Helen e George Stacy e contou tudo. Riri avaliou o encontro como arriscado, mas bom, e alertou Will sobre o risco futuro de encontrar Ronnie e Gary Williams. O trio segue em rotina civil com famílias cada vez mais atentas.
