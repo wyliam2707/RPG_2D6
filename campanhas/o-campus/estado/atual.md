@@ -1,38 +1,68 @@
 # Estado atual
 
 ## Momento
-Primeiras semanas de um novo semestre em Culver University.
+**Data atual:** 11/09/2025, quinta-feira, manhã.
 
-O **Capítulo 008 — Padrões de Família** foi encerrado.
+O **Capítulo 009 — Jantar no Terraço** foi encerrado.
 
-O trio central já conhece as identidades secretas uns dos outros. Will/Azoth, Gwen/Aranha-Fantasma e Riri/Ironheart atuam com cooperação consciente, atravessada por três vínculos simbióticos e por uma aproximação romântica que já saiu do subtexto. A vida civil e familiar começa a notar os rastros, e os “chefes finais domésticos” entraram no tabuleiro.
+A campanha retoma após uma quarta-feira de rotina civil, romance e consolidação doméstica. Não houve novo ataque de Janus nem patrulha relevante. O foco atual é a manhã seguinte ao jantar no terraço, com Will, Gwen e Riri voltando à vida universitária enquanto famílias e simbiontes já registraram que a noite anterior foi importante.
 
-## Data e agenda de continuidade
-**Data atual:** 09/09/2025, terça-feira, manhã avançando para almoço.
+## Cena atual
+Will acorda na cobertura depois do jantar no terraço, da massagem, dos beijos no corredor, de acompanhar Gwen e Riri até casa e de gastar energia com Voraz em uma floresta remota.
 
-### Cena atual
-Depois de conhecer Emily, Helen e George Stacy no corredor, Will desceu para encontrar Riri antes das aulas. Ele contou a história completa do encontro: Emily, o “Will da cobertura”, o “do sofá”, Helen, George, a avó linguista, o latim escapando, a piada sobre maldição galesa e a despedida em celta.
+Gwen acorda na casa Stacy após voltar sorrindo, ser sondada por Emily/Helen/George e processar que o beijo de Will em Riri não a excluiu.
 
-Riri avaliou que o primeiro contato com a família Stacy foi socialmente arriscado, mas bom: Helen provavelmente gostou, Emily certamente gostou como fonte de caos, e George continua avaliando se Will é problema. Will lembrou que encontrar Ronnie e Gary Williams no prédio também é uma possibilidade. Riri o alertou para não repetir padrões de elogio, especialmente “beleza de família”, mas Will observou que padrões verdadeiros também são padrões.
-
-### Ponto de retomada
-Retomar em 09/09/2025, terça-feira, manhã indo para aulas/almoço. Situação imediata:
-1. Capítulo 008 encerrado com Will e Riri a caminho do campus.
-2. Gwen está no campus ou a caminho, já sabendo que Emily virou variável ativa.
-3. Riri sabe do primeiro contato de Will com a família Stacy e antecipa o risco de Will conhecer Ronnie/Gary.
-4. Limiar e Sombra têm runas discretas contra rastreio civil.
-5. Will está em modo vida civil: estudante, compras guardadas, chocolate prometido a Voraz e chefes finais domésticos no horizonte.
+Riri acorda na casa Williams após voltar calma, ser observada por Ronnie/Gary e processar que a noite com Will e Gwen foi difícil de categorizar, mas honesta.
 
 ## Posição e condição
-- **Will Jack / Azoth:** a caminho do campus com Riri, terça de manhã; PV 30/30; PA recuperado por descanso, salvo gasto futuro; Voraz fundido ao braço; runas de isolamento/silêncio adicionadas ao próprio conjunto; conheceu Emily, Helen e George Stacy.
-- **Gwen Stacy / Aranha-Fantasma:** indo para o campus; PV 35/35; PA 30/30; Limiar vinculada; recebeu cinco runas discretas nas costas para bloquear rastreio enquanto Limiar estiver recolhida; família percebe aproximação com Will.
-- **Riri Williams / Ironheart:** a caminho do campus com Will; PV 30/30; PA 30/30; Sombra vinculada; recebeu cinco runas discretas em diagonal na lateral/costas/ombro para bloquear rastreio enquanto Sombra estiver recolhida; sabe que sua família pode ser o próximo contato social de Will.
+- **Will Jack / Azoth:** cobertura, quinta de manhã; PV 30/30; PA recuperado por descanso, salvo gasto futuro; Voraz fundido ao braço; Selo de Velamento e runas de isolamento civil ativos na rotina. Corpo cansado de forma saudável após corrida com Voraz, sem dano relevante.
+- **Gwen Stacy / Aranha-Fantasma:** casa Stacy, quinta de manhã; PV 35/35; PA 30/30; Limiar vinculada e recolhida; runas civis nas costas ativas enquanto Limiar permanece interna.
+- **Riri Williams / Ironheart:** casa Williams, quinta de manhã; PV 30/30; PA 30/30; Sombra vinculada e recolhida; runas civis na lateral/costas/ombro ativas enquanto Sombra permanece interna.
+
+## Relação central atual
+O relacionamento Will-Gwen-Riri deixou de ser apenas tensão e passou a ser vivido em privado como namoro íntimo, ainda sem anúncio público formal.
+
+A regra emocional atual é: **devagar, mas não parado**.
+
+Pontos importantes:
+- Will, Gwen e Riri concordaram que a relação deve avançar com conforto para todos, sem forçar nome público cedo demais e sem fingir que nada existe.
+- Gwen e Riri reconheceram que precisa existir vínculo próprio entre elas, não apenas duas relações paralelas com Will.
+- Gwen não se sentiu excluída ao ver Will beijar Riri.
+- Riri não se sentiu acessório da relação Will-Gwen.
+- Os simbiontes foram incluídos na lógica de cuidado: bando não força bando.
+
+## Famílias
+### Família Stacy
+- **Emily Stacy:** adotou Will como figura de caos doméstico e o chama, na prática, de “Mago do Rodo” / arqueólogo élfico. Curiosa, divertida e socialmente perigosa. Não sabe segredos heroicos.
+- **Helen Stacy:** percebe que Will faz Gwen sorrir e tende a ver a aproximação com simpatia cautelosa.
+- **George Stacy:** observa horários, postura e efeitos em Gwen. Não bloqueou, mas segue cauteloso.
+
+### Família Williams
+- **Ronnie Williams:** já conheceu Will. Primeira impressão: educado, estranho, sincero e atento a Riri como pessoa inteira. Percebeu que Riri voltou calma após o jantar.
+- **Gary Williams:** usa humor para aliviar, chama Will de vizinho perigoso em tom doméstico e observa sem hostilidade.
+
+## Simbiontes conscientes
+### Voraz / “Docinho”
+- Fundido ao braço de Will.
+- Gosta de chocolate com nozes; recebeu chocolate prometido.
+- Após o jantar, correu com Will em uma floresta remota, rasgando troncos mortos e gastando energia sem risco a civis.
+- Interpreta o trio como bando em formação. Reage bem a cuidado, regras claras e pertencimento.
+
+### Limiar
+- Vinculada a Gwen.
+- Reagiu bem à noite de cuidado: casa, toque bom, sem ameaça.
+- Continua buscando identidade, nome, corpo e continuidade sem apagar Gwen.
+
+### Sombra
+- Vinculada a Riri.
+- Reagiu bem a aviso prévio, previsibilidade e permissão de parar durante a massagem.
+- Conceito atual importante: porta aberta, sem empurrar.
 
 ## Conhecimento consolidado entre o trio
 - O trio sabe que Janus aparentemente comprou a morte do mago contaminado no mar, mas que ainda pode haver rastreio residual.
-- Voraz, Limiar e Sombra lembram de frio, vidro, luz branca, som, roupas de contenção, Janus e uma voz/sistema chamado **Aviso** ou **Aviso Relay**.
 - A marca de Janus funciona como rastro/farol quando o simbionte está exposto.
-- As runas de Will feriram a marca de Voraz e deram base para criar proteção civil para Limiar e Sombra.
+- Runas civis reduzem rastreio quando simbiontes estão recolhidos, mas manifestação completa ainda pode ser detectada por Janus se houver proximidade, oportunidade e método.
+- Will, Gwen e Riri não devem caçar Janus agora. A prioridade é vida civil, segurança dos vínculos, famílias e heroísmo comum quando surgir.
 
 ## Regra de rastreio simbiótico civil
 Runas discretas foram criadas para Voraz/Will, Limiar/Gwen e Sombra/Riri.
@@ -44,80 +74,28 @@ Funcionamento correto:
 
 Isso serve para vida civil e deslocamento discreto, não para combate aberto.
 
-## Organismos simbióticos conscientes
-### Voraz / “Docinho”
-- Fundido ao braço de Will.
-- Continua perigoso, mas cada vez mais orientado por regras de bando/ninho.
-- Gosta de chocolate com nozes; recebeu duas barras grandes após promessa de Will.
-- Reconhece que as runas criam “muro para fora, porta para dentro”.
-
-### Limiar
-- Vinculada a Gwen.
-- Desejo central: identidade, nome, corpo, não sumir.
-- Agora protegida por runas discretas nas costas de Gwen enquanto recolhida.
-- Fala curta, ainda aprendendo: “família caça”, “marca boa”, “quieto bom”.
-
-### Sombra
-- Vinculada a Riri.
-- Desejo central: segurança, não ser usada, não virar ferramenta.
-- Agora protegida por runas discretas na lateral/costas/ombro de Riri enquanto recolhida.
-- Responde bem a aviso prévio, porta fechada e permissão de parar.
-
-## Relações em mudança
-- O trio discutiu que não é “problema”, mas um relacionamento entre pessoas com padrões de normalidade incomum.
-- Regras relacionais combinadas: sem beijo e fuga; sem quase morrer sozinho para resolver tudo; dizer quando estiver perdido; ninguém decide pelos outros; hóspedes observam, não pilotam.
-- Will reconheceu que gosta das duas e que tem mais experiência com magia do que relacionamentos.
-- Gwen e Riri reconheceram que também não possuem manual: Gwen faz piada quando se perde; Riri transforma em análise.
-- A noite das runas na cobertura virou mistura de estudo, intimidade, confiança e álibi doméstico.
-- A família Stacy já percebe Will como presença real. A família Williams é o próximo risco social provável.
-
-## Famílias
-### Família Stacy
-- **George Stacy:** conheceu Will no corredor. Observa com cautela, mas ouviu Gwen dizer que ela confia em Will.
-- **Helen Stacy:** achou Will educado, gentil e um pouco sozinho.
-- **Emily Stacy:** 16 anos, irmã mais nova de Gwen; conheceu Will antes de Gwen poder controlar a cena. Rápida, curiosa, socialmente perigosa. Chamou Will de “Will da cobertura”, “o do sofá”, nerd poliglota e estranho interessante. Quer investigar.
-
-### Família Williams
-- **Ronnie Williams:** mãe de Riri. Bonita, perceptiva e muito boa em detectar padrão. Riri alerta que Ronnie percebe bajulação e não precisa de distintivo para interrogar.
-- **Gary Williams:** padrasto e figura paterna de Riri. Tenta aliviar, mas também observa.
-- Riri orientou Will: se encontrar Ronnie/Gary, ser natural, gentil, não perfeito demais, não repetir padrões óbvios de elogio, não falar de sofá, runas ou línguas mortas.
-
-## Magia de Will — regras vistas em cena
-- **Latim/Grego/Aramaico/Celta:** vazam em momentos emocionais ou distraídos por hábito herdado de Laura.
-- Laura Jack foi apresentada socialmente como linguista excêntrica que misturava línguas antigas.
-- Will explicou aos Stacy que cresceu ouvindo latim, grego, aramaico e celta antes do inglês.
-- As runas usadas contra rastreio combinam: contra possessão, contra rastreamento de alma, contra domínio mental, isolamento e silêncio.
-
 ## Estado público / Janus
 - A superfície pública continua confusa sobre o monstro do porto.
-- Rumores de vídeos apagados, bloqueio na marina, embarcação sumida e possível explosão no mar.
 - Sem ligação pública com Will, Gwen ou Riri.
-- O trio não deve provocar Janus agora; prioridade é vida civil e segurança dos vínculos.
-
-## Conceitos de bastidor para o narrador
-- Quando o jogador sinalizar erro, parar e perguntar qual é o erro. Não corrigir no chute.
-- Não transformar instruções de bastidor do jogador em fala de NPC.
-- Não avançar ações técnicas sem o jogador declarar execução.
-- Respostas sobre ideias devem ser curtas quando o usuário pedir análise breve.
-- Manter cenas de família em tom leve, doméstico e com tensão social, não melodrama.
-- Emily deve ser caos doméstico, observadora e engraçada, sem saber segredos heroicos.
-- Riri é analítica e pode alertar Will sobre padrões sociais, especialmente perto de Ronnie.
-
-## Pendências imediatas
-- Almoço de terça: possível conversa com Gwen e Riri sobre Emily ter conhecido Will.
-- Possível encontro futuro com Ronnie e Gary Williams.
-- Continuar rotina acadêmica normal.
-- Monitorar se Janus deixa rastros novos.
-- Decidir quando/como investigar Aviso Relay, Kessler / 9th e arquivo criptografado.
-- Continuar desenvolvimento do relacionamento sem transformar tudo em crise.
+- Nenhum novo sinal ativo de Janus foi detectado durante a quarta-feira.
+- O trio deve evitar deixar Janus dominar a rotina da campanha.
 
 ## Fios ativos
+- Romance Will-Gwen-Riri agora vivido em privado como namoro íntimo.
+- Vínculo próprio Gwen-Riri precisa continuar recebendo espaço real.
+- Famílias Stacy e Williams observam a aproximação.
+- Retorno gradual à rotina heroica/patrulhas, sem caçar Janus.
 - Projeto Janus e resposta real à perda das cápsulas.
 - Aviso / Aviso Relay.
+- Kessler / 9th e arquivo criptografado.
 - Vínculo Will-Voraz e regras de bando.
 - Vínculo Gwen-Limiar e identidade preservada.
 - Vínculo Riri-Sombra e segurança sem uso.
-- Romance Will-Gwen-Riri e efeitos nas famílias.
-- Emily Stacy como variável doméstica ativa.
-- Possível primeiro contato futuro de Will com Ronnie e Gary Williams.
 - Vida acadêmica e rotina civil atravessadas por cooperação heroica.
+
+## Retomada
+**Capítulo atual:** nenhum aberto.
+
+**Último capítulo concluído:** Capítulo 009 — Jantar no Terraço.
+
+**Ponto exato de continuação:** 11/09/2025, quinta-feira de manhã. Retomar com Will acordando na cobertura ou com a rotina matinal do prédio/campus. O tom recomendado é cotidiano universitário com romance em consolidação, famílias observando e heroísmo comum em segundo plano, sem Janus dominar a cena.
