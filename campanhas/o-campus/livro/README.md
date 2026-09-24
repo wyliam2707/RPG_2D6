@@ -7,6 +7,10 @@ Esta pasta guarda a memória integral da campanha em capítulos literários.
 Nenhum capítulo aberto no momento.
 
 ## Concluídos
+- Capítulo 009 — Jantar no Terraço
+  - Período: 09/09/2025, terça-feira, almoço e noite; 10/09/2025, quarta-feira, rotina civil até a noite
+  - Arquivo: capitulo-009-jantar-no-terraco.md
+  - Encerramento: após um dia de rotina civil e conversas sobre verdades simples, Will, Gwen e Riri consolidam em privado o namoro “devagar, mas não parado”. Will conhece Ronnie Williams sem hostilidade, vira o “Mago do Rodo” para Emily, prepara um jantar no terraço com lasanha de Laura Jack, massagem consensual com roupas e cuidado adaptado a Gwen/Riri. A noite termina com beijos no corredor, retorno das duas para suas famílias e Will gastando energia com Voraz em uma floresta remota. O romance deixa de ser apenas tensão e passa a existir como rotina possível.
 - Capítulo 008 — Padrões de Família
   - Período: 09/09/2025, terça-feira de manhã
   - Arquivo: capitulo-008-padroes-de-familia.md
