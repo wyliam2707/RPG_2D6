@@ -114,5 +114,5 @@ Existe uma invasão alienígena futura como grande escalada de longo prazo, sem 
 
 ## Retomada
 - Capítulo atual: nenhum aberto.
-- Último capítulo concluído: Capítulo 005 — Stonehenge, Chuva e Máscaras.
-- Ponto de continuação: 06/09/2025, sábado, início da tarde. Will, Gwen e Riri acabaram de prolongar um almoço público perto do prédio. O plano é cada um passar no próprio apartamento, pegar equipamentos de forma civilmente explicável e sair como “trabalho em grupo” para verificar Limiar e Sombra no depósito temporário.
+- Último capítulo concluído: Capítulo 006 — Tango da Morte.
+- Ponto de continuação: 07/09/2025, domingo à noite, ou manhã seguinte. Will, Gwen e Riri sobreviveram à farsa marítima contra Janus. Limiar está vinculada a Gwen, Sombra a Riri, Voraz permanece com Will. Janus aparentemente comprou a morte do mago contaminado no mar. O trio terminou a noite com jantar público e beijos sem fuga; a próxima cena deve lidar com descanso, famílias, faculdade e a conversa ainda pendente sobre o que esses beijos significam.
