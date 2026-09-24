@@ -51,6 +51,7 @@ Atual [30] / Máximo [30]
 - Runas discretas na lateral/costas/ombro protegem Sombra em forma civil.
 - Emocionalmente processando o beijo com Will, o vínculo com Sombra, a equação relacional com Gwen e a noite íntima na cobertura.
 - Ronnie e Gary percebem que Riri voltou diferente e passa muito tempo com Will/Gwen.
+- Encontrou Will na manhã de terça após ele conhecer a família Stacy e o alertou sobre o risco social de encontrar Ronnie/Gary.
 
 ## Personalidade e Tendências
 - É analítica, direta e extremamente curiosa.
@@ -61,6 +62,7 @@ Atual [30] / Máximo [30]
 - Diante do flerte provocativo de Will, responde com precisão seca, análise social e ironia, mas sem recuar automaticamente.
 - No Capítulo 006, beijou Will por escolha própria depois que ele pediu direito e não fugiu.
 - No Capítulo 007, aceitou as runas de proteção e reconheceu que não estava arrependida.
+- No Capítulo 008, avaliou o primeiro encontro de Will com a família Stacy e ficou alerta ao perceber que Ronnie/Gary podem ser os próximos.
 
 ## Objetivos e Desejos
 - Tornar-se uma engenheira extraordinária sem depender da sombra de outros gênios.
@@ -88,11 +90,11 @@ Atual [30] / Máximo [30]
 - Preserva a vida familiar com Ronnie e Gary.
 
 ## Relações
-- **Ronnie Williams:** mãe; percebe mudanças em Riri antes que haja explicação completa. Sabe que Riri passa bastante tempo com Will/Gwen e está observando.
+- **Ronnie Williams:** mãe; bonita, perceptiva, percebe mudanças em Riri antes que haja explicação completa. Riri sabe que Ronnie percebe bajulação e padrões sociais com facilidade.
 - **Gary Williams:** padrasto e figura paterna; vivo nesta continuidade. Tenta aliviar, mas também observa.
 - **Pai biológico:** falecido antes de seu nascimento.
 - **Gwen Stacy:** vizinha, Bioquímica e Aranha-Fantasma. Relação de cooperação, segredo compartilhado, rivalidade leve e potencial vínculo próprio dentro do trio. No Capítulo 007, Riri compartilhou com Gwen a noite das runas, cama, coberta e conversa de futuro.
-- **Will Jack:** vizinho, Arqueologia e Azoth. Relação avançou para confiança ativa, análise compartilhada, preocupação, flerte explícito, beijo sem fuga e intimidade doméstica. Riri reconhece que pedir funcionou melhor que fugir.
+- **Will Jack:** vizinho, Arqueologia e Azoth. Relação avançou para confiança ativa, análise compartilhada, preocupação, flerte explícito, beijo sem fuga e intimidade doméstica. Riri reconhece que pedir funcionou melhor que fugir. No Capítulo 008, ela o orientou sobre como não repetir padrões óbvios ao lidar com sua família.
 - **Voraz / “Docinho”:** simbionte vinculado a Will. Riri não ouve Voraz diretamente, salvo canal/manifestações. Ela o considera risco alto, mas reconhece que ele e Will construíram limites reais.
 - **Limiar:** simbionte consciente vinculada a Gwen.
 - **Sombra:** simbionte consciente vinculada a Riri. Sombra fala internamente com Riri, em frases curtas. Relação atual: abrigo, distância, voz baixa, confiança e aprendizagem.
@@ -107,6 +109,7 @@ Atual [30] / Máximo [30]
 - Sabe que Janus provavelmente comprou a morte do mago contaminado no mar.
 - Sabe montar álibi digital/social sem parecer limpo demais.
 - Sabe que Sombra recolhida agora não deve gerar rastreio detectável, mas manifestação completa ainda é rastreável.
+- Sabe que Will conheceu Emily, Helen e George Stacy e que Emily virou variável doméstica ativa.
 
 ## História Consolidada
 - Cresceu com Ronnie Williams e Gary Williams como figura paterna.
@@ -115,3 +118,4 @@ Atual [30] / Máximo [30]
 - No Capítulo 005, revelou sua identidade a Will e Gwen, descobriu Azoth e Aranha-Fantasma e aceitou a normalidade diferente como caminho possível.
 - No Capítulo 006, escolheu tirar Sombra da cápsula sem tratá-la como ferramenta, montou o álibi digital/social da farsa contra Janus, monitorou a operação de fora das câmeras e beijou Will sem fuga.
 - No Capítulo 007, recebeu runas discretas para proteger Sombra de rastreio civil, compartilhou uma noite íntima de confiança com Will e Gwen, e voltou para casa admitindo para Sombra que não estava arrependida.
+- No Capítulo 008, ouviu de Will o relato completo do encontro com a família Stacy e antecipou que a família Williams pode ser o próximo teste doméstico.
