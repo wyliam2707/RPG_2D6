@@ -7,6 +7,10 @@ Esta pasta guarda a memória integral da campanha em capítulos literários.
 Nenhum capítulo aberto no momento.
 
 ## Concluídos
+- Capítulo 006 — Tango da Morte
+  - Período: 06/09/2025, sábado à tarde, até 07/09/2025, domingo à noite
+  - Arquivo: capitulo-006-tango-da-morte.md
+  - Encerramento: Will, Gwen e Riri libertam Limiar e Sombra das cápsulas frias, criando vínculos com Gwen e Riri. O trio monta uma mentira suja para Janus: Will/Voraz fingem contaminação, fuga, roubo de barco e morte no mar por um ritual de colapso. Janus compra a perda do hospedeiro e das cápsulas, enquanto o domingo civil é sustentado por álibi de estudo, filme e jantar público. Ao fim, Will beija Gwen e Riri sem fuga, e os três encerram a noite com o romance avançando de subtexto para gesto explícito.
 - Capítulo 005 — Stonehenge, Chuva e Máscaras
   - Período: 05/09/2025, sexta-feira, avançando até o início da tarde de 06/09/2025
   - Arquivo: capitulo-005-stonehenge-chuva-e-mascaras.md
