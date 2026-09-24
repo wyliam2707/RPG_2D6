@@ -37,6 +37,25 @@ Esses sete devem ser tratados como vida simbiótica instrumentalizada: consciên
 
 A pergunta diante deles não é "quem vai salvar/adotar?". A pergunta correta é: como impedir que Janus continue usando essas armas?
 
+## Produção de armaduras e armas simbióticas
+
+Janus está produzindo armaduras e armas feitas com material simbiótico extraído dos sete espécimes apagados.
+
+Os sete espécimes funcionam como fonte regenerativa de matéria simbiótica. A organização remove porções de material, mantém os organismos vivos e aguarda regeneração para repetir o ciclo. O resultado é matéria simbiótica sem consciência preservada, usada como componente de armaduras, armas, revestimentos, interfaces biológicas e unidades de combate.
+
+Isso torna a base principal de Janus menos parecida com um depósito de criaturas resgatáveis e mais parecida com uma linha de produção cruel: os espécimes apagados são mantidos como origem viva de material bélico.
+
+A produção não deve ser narrada como manual técnico. Em cena, basta estabelecer os efeitos narrativos:
+
+- armaduras biológicas com material simbiótico;
+- armas que reagem como tecido vivo;
+- soldados ou unidades usando revestimento orgânico;
+- equipamentos que se regeneram parcialmente;
+- sinais de que o material veio de espécimes já apagados;
+- impossibilidade prática de transformar esses fragmentos em novos parceiros conscientes.
+
+A destruição da base principal deve encerrar a capacidade de Janus de continuar multiplicando esse material bélico.
+
 ## Objetivo de arco ligado a Janus
 
 O objetivo maior contra Janus é destruir a base principal do projeto e eliminar os sete espécimes usados na produção das armas biológicas.
@@ -72,7 +91,8 @@ Frentes prováveis:
 - revisar a cadeia Hawthorne, Galpão 17 e porto;
 - investigar Aviso / Aviso Relay;
 - manter Kessler / 9th e o arquivo criptografado como fios de bastidor;
-- preservar ou mover a produção ligada aos sete espécimes já apagados.
+- preservar ou mover a produção ligada aos sete espécimes já apagados;
+- acelerar a segurança da linha de armaduras e armas simbióticas após a perda dos últimos três espécimes conscientes.
 
 ## Rastreamento simbiótico
 
@@ -100,7 +120,8 @@ Formas adequadas de reaparecer sem dominar a campanha:
 - tecnologia reaparecendo em crime urbano sem revelar tudo;
 - menção indireta a Kessler / 9th;
 - consequência distante da perda dos ativos;
-- indício de arma biológica sem transformar a cena em adoção simbiótica.
+- indício de arma biológica sem transformar a cena em adoção simbiótica;
+- criminoso, agente ou protótipo usando peça de armadura simbiótica sem revelar de imediato a base principal.
 
 Evite colocar Janus contra o trio sem uma pista legítima construída antes.
 
