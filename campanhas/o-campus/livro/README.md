@@ -7,6 +7,10 @@ Esta pasta guarda a memória integral da campanha em capítulos literários.
 Nenhum capítulo aberto no momento.
 
 ## Concluídos
+- Capítulo 008 — Padrões de Família
+  - Período: 09/09/2025, terça-feira de manhã
+  - Arquivo: capitulo-008-padroes-de-familia.md
+  - Encerramento: depois de conhecer Emily, Helen e George Stacy no corredor, Will encontra Riri a caminho do campus e conta a história inteira. Riri avalia que o primeiro contato com a família Stacy foi arriscado, mas bom. A conversa vira para a possibilidade de Will encontrar Ronnie e Gary Williams no prédio. Riri o alerta contra repetir padrões de elogio, mas Will observa que padrões verdadeiros também existem. O capítulo fecha com os chefes finais domésticos entrando de vez no tabuleiro civil.
 - Capítulo 007 — Marcas de Casa
   - Período: 08/09/2025, segunda-feira, até a manhã de 09/09/2025, terça-feira
   - Arquivo: capitulo-007-marcas-de-casa.md
