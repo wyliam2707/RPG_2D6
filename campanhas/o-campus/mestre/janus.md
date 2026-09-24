@@ -19,6 +19,32 @@ Janus recebeu e provavelmente aceitou a mentira principal: o mago contaminado mo
 
 Isso significa que Janus não está atualmente caçando Will, Gwen e Riri como alvos identificados. A organização não possui ligação limpa com o trio.
 
+## Estrutura dos espécimes
+
+O Projeto Janus trabalhou com **10 espécimes simbióticos**.
+
+Os últimos 3 foram salvos antes do apagamento completo da consciência:
+
+- **Espécime 8 — Voraz:** vinculado a Will.
+- **Espécime 9 — Limiar:** vinculado a Gwen.
+- **Espécime 10 — Sombra:** vinculado a Riri.
+
+Voraz, Limiar e Sombra não são raros por natureza. Eles foram resgatados enquanto ainda havia consciência, vontade, resposta própria e possibilidade de vínculo.
+
+Os outros 7 espécimes já passaram do ponto de retorno. Eles foram usados por Janus para produzir armas biológicas. Não são novos parceiros, mascotes, futuros membros do grupo ou simbiontes adotáveis.
+
+Esses sete devem ser tratados como vida simbiótica instrumentalizada: consciência apagada, identidade destruída ou reduzida a função. Podem existir como massas simbióticas, núcleos vivos, drones orgânicos, unidades de combate, armamentos biológicos, interfaces experimentais ou componentes de produção.
+
+A pergunta diante deles não é "quem vai salvar/adotar?". A pergunta correta é: como impedir que Janus continue usando essas armas?
+
+## Objetivo de arco ligado a Janus
+
+O objetivo maior contra Janus é destruir a base principal do projeto e eliminar os sete espécimes usados na produção das armas biológicas.
+
+Isso não deve virar zoológico simbiótico nem coleção de novos vínculos. Voraz, Limiar e Sombra são o núcleo simbiótico da campanha porque foram salvos antes do apagamento. Os outros sete representam o que Janus fez quando teve tempo de transformar consciência em máquina.
+
+A destruição dessas armas pode ser moralmente pesada, mas deve ser apresentada como consequência do que Janus já fez, não como recusa cruel de salvar alguém facilmente recuperável.
+
 ## Interpretação interna provável
 
 Janus trata o caso como perda operacional grave, mas não como roubo heroico confirmado.
@@ -45,7 +71,8 @@ Frentes prováveis:
 - confirmar se as cápsulas de Limiar e Sombra realmente se perderam;
 - revisar a cadeia Hawthorne, Galpão 17 e porto;
 - investigar Aviso / Aviso Relay;
-- manter Kessler / 9th e o arquivo criptografado como fios de bastidor.
+- manter Kessler / 9th e o arquivo criptografado como fios de bastidor;
+- preservar ou mover a produção ligada aos sete espécimes já apagados.
 
 ## Rastreamento simbiótico
 
@@ -72,7 +99,8 @@ Formas adequadas de reaparecer sem dominar a campanha:
 - sinal estranho ligado a Aviso Relay;
 - tecnologia reaparecendo em crime urbano sem revelar tudo;
 - menção indireta a Kessler / 9th;
-- consequência distante da perda dos ativos.
+- consequência distante da perda dos ativos;
+- indício de arma biológica sem transformar a cena em adoção simbiótica.
 
 Evite colocar Janus contra o trio sem uma pista legítima construída antes.
 
@@ -85,3 +113,5 @@ A bússola de O Campus mantém como foco principal o romance Will-Gwen-Riri, cot
 Resumo de condução:
 
 Janus não sabe onde o trio está. Janus sabe que perdeu algo valioso. A ameaça permanece em fogo baixo, juntando fragmentos ao fundo.
+
+Quando o arco Janus avançar, o alvo final não é resgatar uma nova coleção de simbiontes. O alvo é destruir a base principal e encerrar a produção de armas biológicas feitas a partir dos sete espécimes já apagados.
