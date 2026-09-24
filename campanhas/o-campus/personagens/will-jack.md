@@ -62,6 +62,7 @@ Atual [recuperado por descanso, a definir em cena] / Máximo [30]
 - Mente recuperando do ritual do caldeirão, teleporte no limite e tensão emocional.
 - O público/Janus não deve associar Will Jack ou Azoth ao mago contaminado morto no mar.
 - Conheceu Emily, Helen e George Stacy na manhã de terça. Helen o achou gentil; George o observa; Emily quer investigar.
+- Conversou com Riri sobre o risco de conhecer Ronnie e Gary Williams. Foi alertado a não repetir padrões óbvios de elogio diante de Ronnie.
 
 ## Personalidade e Tendências
 - Civilmente aparenta ser nerd, discreto, desajeitado e pouco ameaçador.
@@ -69,6 +70,7 @@ Atual [recuperado por descanso, a definir em cena] / Máximo [30]
 - Usa humor e provocação como forma de testar limites sociais sem transformar tudo em declaração direta.
 - Suas piadas românticas com Gwen e Riri carregam subtexto consciente: interesse, convite, limite e normalização pública.
 - Sabe alternar entre “cara de nerd” e postura civil firme quando decide não se esconder.
+- Em contexto familiar, pode usar cordialidade e elogios como diplomacia social, mas isso já foi marcado por Riri como padrão detectável.
 
 ## Objetivos e Desejos
 - Concluir Arqueologia.
@@ -98,11 +100,12 @@ A IA não escolhe por Will ações, sentimentos, atração, falas importantes ou
 ## Relações
 - **Laura Jack:** avó e figura parental; falecida há cerca de um ano. Linguista/maga hermética excêntrica, lembrada com carinho.
 - **Gwen Stacy:** vizinha, Bioquímica, Aranha-Fantasma. Gwen conhece Azoth. Will conhece Aranha-Fantasma. Relação em avanço explícito, ainda sem conversa formal.
-- **Riri Williams:** vizinha, Engenharia, Ironheart. Riri conhece Azoth. Will conhece Ironheart. Relação em avanço explícito, ainda sem conversa formal.
+- **Riri Williams:** vizinha, Engenharia, Ironheart. Riri conhece Azoth. Will conhece Ironheart. Relação em avanço explícito, ainda sem conversa formal. Riri já o orientou sobre como sobreviver socialmente à família Williams.
 - **Voraz / “Docinho”:** simbionte consciente fundido ao braço de Will. Relação atual: simbiose com limites, dança, proteção e pertencimento incipiente. Voraz não gosta do apelido Docinho, mas chocolate ajuda.
 - **Limiar:** simbionte consciente vinculada a Gwen. Will ajudou a protegê-la com runas contra rastreio civil.
 - **Sombra:** simbionte consciente vinculada a Riri. Will ajudou a protegê-la com runas contra rastreio civil.
 - **Família Stacy:** Will conheceu Emily, Helen e George. Emily é caos doméstico; Helen cordial; George cauteloso.
+- **Família Williams:** ainda não conheceu Ronnie e Gary em cena. Sabe por Riri que Ronnie é perceptiva, bonita e detecta padrões sociais facilmente.
 
 ## Conhecimento Relevante
 - Formação em magia hermética transmitida pela linhagem familiar.
@@ -121,3 +124,4 @@ A IA não escolhe por Will ações, sentimentos, atração, falas importantes ou
 - No Capítulo 005, revelou sua identidade a Gwen e Riri, descobriu as identidades delas, investigou os núcleos frios do Projeto Janus e se fundiu a Voraz.
 - No Capítulo 006, libertou Limiar e Sombra com Gwen/Riri, encenou com Voraz a morte do mago contaminado no mar, apagou o barco com o caldeirão, sobreviveu e avançou romanticamente com Gwen e Riri.
 - No Capítulo 007, criou runas civis contra rastreio para Gwen/Limiar e Riri/Sombra, passou uma noite íntima e doméstica com as duas, e conheceu Emily, Helen e George Stacy no corredor.
+- No Capítulo 008, contou a Riri sobre o encontro com a família Stacy e começou a considerar o próximo risco doméstico: conhecer Ronnie e Gary Williams.
