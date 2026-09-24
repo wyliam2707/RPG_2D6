@@ -48,8 +48,9 @@ Atual [30] / Máximo [30]
 ## Estados Atuais
 - Limiar vinculada como marca prateada viva.
 - Runas discretas nas costas protegem Limiar em forma civil.
-- Emocionalmente processando o vínculo com Limiar, a intimidade crescente com Will/Riri e a percepção da família.
-- George, Helen e Emily conheceram Will na manhã de terça antes de Gwen poder controlar a cena.
+- Emocionalmente processando o vínculo com Limiar, a intimidade consolidada com Will/Riri e a percepção crescente da família.
+- George, Helen e Emily conhecem Will como presença real na vida de Gwen.
+- Após o Capítulo 009, vive com Will e Riri um namoro íntimo em privado, ainda sem anúncio público formal. A regra relacional atual é: devagar, mas não parado.
 
 ## Personalidade e Tendências
 - Usa humor e ironia para aliviar tensão e esconder desconforto.
@@ -60,13 +61,14 @@ Atual [30] / Máximo [30]
 - Diante do flerte provocativo de Will, devolve com humor, ameaça social brincalhona e atenção física/afetiva.
 - No Capítulo 006, beijou Will por escolha própria depois que ele pediu direito e não fugiu.
 - No Capítulo 007, aceitou as runas de proteção e reconheceu que a noite na cobertura foi segura, íntima e complicada.
+- No Capítulo 009, percebeu que ver Will beijar Riri não a excluiu; a cena reforçou que Riri também é parte real da relação.
 
 ## Objetivos e Desejos
 - Concluir Bioquímica e construir uma vida que não seja definida apenas pela identidade heroica.
 - Proteger sua família sem transformar proteção em controle.
 - Ter relações nas quais possa ser Gwen, e não apenas Aranha-Fantasma.
 - Ajudar Limiar a continuar sendo Limiar dentro do vínculo.
-- Explorar atração e vínculos com Will e Riri sem fingir que nada aconteceu.
+- Viver a relação com Will e Riri devagar, com espaço real para o vínculo próprio entre ela e Riri.
 
 ## Medos, Limites e Códigos
 - Evita colocar inocentes em risco por conveniência.
@@ -74,6 +76,7 @@ Atual [30] / Máximo [30]
 - Teme que sua vida heroica machuque a família ou destrua sua vida pessoal.
 - Não transforma medo de perder alguém em motivo automático para afastá-lo indefinidamente.
 - O vínculo com Limiar exige preservar duas identidades: Gwen continua Gwen; Limiar continua Limiar.
+- Regra relacional consolidada: **bando não força bando**.
 
 ## Hábitos e Rotina
 - Estuda Bioquímica em Culver University.
@@ -84,14 +87,14 @@ Atual [30] / Máximo [30]
 - Procura preservar momentos comuns sem heroísmo.
 
 ## Relações
-- **George Stacy:** pai; policial experiente transferido para Willowdale. Conheceu Will no corredor e está observando. Gwen disse que confia em Will.
-- **Helen Stacy:** mãe; viva e presente. Achou Will educado e gentil.
-- **Emily Stacy:** irmã mais nova, 16 anos. Observadora, provocadora e curiosa demais. Conheceu Will antes de Gwen poder controlar a cena e quer investigar o “Will da cobertura”.
-- **Riri Williams:** vizinha, Engenharia e Ironheart. Relação de cooperação, segredo compartilhado, rivalidade leve e potencial vínculo próprio dentro do trio. No Capítulo 007, Gwen compartilhou com Riri a noite das runas, cama, coberta e conversa de futuro.
-- **Will Jack:** vizinho, Arqueologia e Azoth. Relação avançou para confiança ativa, segredo compartilhado, preocupação, flerte explícito, beijo sem fuga e intimidade doméstica. Gwen confia nele o bastante para dizê-lo ao pai.
-- **Voraz / “Docinho”:** simbionte vinculado a Will. Gwen não ouve Voraz diretamente, salvo canal/manifestações. Ela sabe que ele é perigoso, mas reconhece a dança dele com Will.
-- **Limiar:** simbionte consciente vinculada a Gwen. Limiar fala internamente com Gwen, em frases curtas. Relação atual: corpo, calor, nome, identidade e aprendizagem.
-- **Sombra:** simbionte consciente vinculada a Riri. Gwen sabe que Sombra é assustada e precisa de segurança.
+- **George Stacy:** pai; policial experiente transferido para Willowdale. Conheceu Will no corredor e está observando. Gwen disse que confia em Will. Após o Capítulo 009, George viu Gwen voltar sorrindo e segue cauteloso, mas sem bloquear.
+- **Helen Stacy:** mãe; viva e presente. Achou Will educado e gentil. Percebe que Will faz Gwen sorrir.
+- **Emily Stacy:** irmã mais nova, 16 anos. Observadora, provocadora e curiosa demais. Conheceu Will antes de Gwen poder controlar a cena e adotou a mitologia do “Mago do Rodo” / arqueólogo élfico.
+- **Riri Williams:** vizinha, Engenharia e Ironheart. Relação de cooperação, segredo compartilhado, rivalidade leve e vínculo próprio em construção dentro do trio. No Capítulo 009, Gwen viu Riri receber cuidado adaptado e ser beijada por Will sem sentir exclusão; isso reforçou que Riri é parte real, não rival externa.
+- **Will Jack:** vizinho, Arqueologia e Azoth. Relação consolidada em privado como namoro íntimo, devagar e sem anúncio público formal. Gwen confia nele o bastante para dizê-lo ao pai e para aceitar cuidado físico sem pressão.
+- **Voraz / “Docinho”:** simbionte vinculado a Will. Gwen não ouve Voraz diretamente, salvo canal/manifestações. Ela sabe que ele é perigoso, mas reconhece a dança dele com Will e a lógica de bando.
+- **Limiar:** simbionte consciente vinculada a Gwen. Limiar fala internamente com Gwen, em frases curtas. Relação atual: corpo, calor, nome, identidade, casa, toque bom e aprendizagem.
+- **Sombra:** simbionte consciente vinculada a Riri. Gwen sabe que Sombra é assustada e precisa de segurança, aviso prévio e porta aberta.
 
 ## Conhecimento Relevante
 - Conhecimento acadêmico compatível com Bioquímica.
@@ -109,3 +112,4 @@ Atual [30] / Máximo [30]
 - No Capítulo 005, revelou sua identidade a Will e Riri, descobriu Azoth e Ironheart e aceitou a normalidade diferente como caminho possível.
 - No Capítulo 006, ofereceu-se para tirar Limiar da cápsula, vinculou-se a ela, ajudou no álibi civil, acompanhou a farsa contra Janus de fora das câmeras e beijou Will sem fuga.
 - No Capítulo 007, recebeu runas discretas para proteger Limiar de rastreio civil, compartilhou uma noite íntima de confiança com Will e Riri, e viu a família Stacy começar a perceber Will como presença real.
+- No Capítulo 009, participou do jantar no terraço com Will e Riri, aceitou massagem consensual com roupas, beijou Will no corredor e voltou para casa sorrindo. Reconheceu que o vínculo entre os três pode existir sem excluir Riri e sem apagar o vínculo próprio Gwen-Riri.
