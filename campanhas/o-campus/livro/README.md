@@ -7,6 +7,10 @@ Esta pasta guarda a memória integral da campanha em capítulos literários.
 Nenhum capítulo aberto no momento.
 
 ## Concluídos
+- Capítulo 007 — Marcas de Casa
+  - Período: 08/09/2025, segunda-feira, até a manhã de 09/09/2025, terça-feira
+  - Arquivo: capitulo-007-marcas-de-casa.md
+  - Encerramento: após a farsa contra Janus, Will, Gwen e Riri tentam viver uma segunda-feira normal. O trio conversa sobre o relacionamento, identifica o risco de rastreio dos simbiontes e cria runas discretas para proteger Limiar e Sombra em forma civil. A noite mistura estudo, confiança, intimidade e álibi doméstico. Na terça cedo, Will conhece Emily, Helen e George Stacy no corredor; Emily passa a investigar o “Will da cobertura”, Helen o acha gentil e George decide observá-lo.
 - Capítulo 006 — Tango da Morte
   - Período: 06/09/2025, sábado à tarde, até 07/09/2025, domingo à noite
   - Arquivo: capitulo-006-tango-da-morte.md
