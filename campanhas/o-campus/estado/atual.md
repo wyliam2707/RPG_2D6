@@ -3,32 +3,30 @@
 ## Momento
 Primeiras semanas de um novo semestre em Culver University.
 
-O **Capítulo 007 — Marcas de Casa** foi encerrado.
+O **Capítulo 008 — Padrões de Família** foi encerrado.
 
-O trio central já conhece as identidades secretas uns dos outros. Will/Azoth, Gwen/Aranha-Fantasma e Riri/Ironheart atuam com cooperação consciente, atravessada por três vínculos simbióticos e por uma aproximação romântica que já saiu do subtexto. Agora a vida civil e familiar começa a notar os rastros.
+O trio central já conhece as identidades secretas uns dos outros. Will/Azoth, Gwen/Aranha-Fantasma e Riri/Ironheart atuam com cooperação consciente, atravessada por três vínculos simbióticos e por uma aproximação romântica que já saiu do subtexto. A vida civil e familiar começa a notar os rastros, e os “chefes finais domésticos” entraram no tabuleiro.
 
 ## Data e agenda de continuidade
-**Data atual:** 09/09/2025, terça-feira, manhã.
+**Data atual:** 09/09/2025, terça-feira, manhã avançando para almoço.
 
 ### Cena atual
-Will saiu cedo para comprar café e coisas para casa. No retorno, encontrou Emily Stacy no corredor antes de Gwen sair. Helen e George também apareceram, e Will sobreviveu ao primeiro contato social direto com a família Stacy.
+Depois de conhecer Emily, Helen e George Stacy no corredor, Will desceu para encontrar Riri antes das aulas. Ele contou a história completa do encontro: Emily, o “Will da cobertura”, o “do sofá”, Helen, George, a avó linguista, o latim escapando, a piada sobre maldição galesa e a despedida em celta.
 
-Emily classificou Will como nerd poliglota, estranho interessante e possível lançador acidental de maldição galesa. Helen achou Will educado e gentil. George continua observando, mas ouviu de Gwen que ela confia nele.
-
-Gwen saiu de casa sabendo que Emily virou um problema ativo. Will está de volta à cobertura, com compras guardadas. A próxima parada planejada é almoço/aula e retomada da rotina civil.
+Riri avaliou que o primeiro contato com a família Stacy foi socialmente arriscado, mas bom: Helen provavelmente gostou, Emily certamente gostou como fonte de caos, e George continua avaliando se Will é problema. Will lembrou que encontrar Ronnie e Gary Williams no prédio também é uma possibilidade. Riri o alertou para não repetir padrões de elogio, especialmente “beleza de família”, mas Will observou que padrões verdadeiros também são padrões.
 
 ### Ponto de retomada
-Retomar em 09/09/2025, terça-feira, manhã avançando para almoço. Situação imediata:
-1. Capítulo 007 encerrado após o encontro de Will com Emily, Helen e George.
-2. Gwen está a caminho do campus, sabendo que a família conheceu Will.
-3. Riri ainda não viu a repercussão Emily/Will, mas provavelmente vai achar graça.
+Retomar em 09/09/2025, terça-feira, manhã indo para aulas/almoço. Situação imediata:
+1. Capítulo 008 encerrado com Will e Riri a caminho do campus.
+2. Gwen está no campus ou a caminho, já sabendo que Emily virou variável ativa.
+3. Riri sabe do primeiro contato de Will com a família Stacy e antecipa o risco de Will conhecer Ronnie/Gary.
 4. Limiar e Sombra têm runas discretas contra rastreio civil.
-5. Will está na cobertura com compras e chocolate com nozes para Voraz.
+5. Will está em modo vida civil: estudante, compras guardadas, chocolate prometido a Voraz e chefes finais domésticos no horizonte.
 
 ## Posição e condição
-- **Will Jack / Azoth:** na cobertura, terça de manhã; PV 30/30; PA recuperado por descanso, salvo gasto futuro; Voraz fundido ao braço; runas de isolamento/silêncio adicionadas ao próprio conjunto; conheceu Emily, Helen e George Stacy.
-- **Gwen Stacy / Aranha-Fantasma:** saindo para o campus; PV 35/35; PA 30/30; Limiar vinculada; recebeu cinco runas discretas nas costas para bloquear rastreio enquanto Limiar estiver recolhida; família percebe aproximação com Will.
-- **Riri Williams / Ironheart:** rotina de terça/campus; PV 30/30; PA 30/30; Sombra vinculada; recebeu cinco runas discretas em diagonal na lateral/costas/ombro para bloquear rastreio enquanto Sombra estiver recolhida; família percebe que ela passa muito tempo com Will/Gwen.
+- **Will Jack / Azoth:** a caminho do campus com Riri, terça de manhã; PV 30/30; PA recuperado por descanso, salvo gasto futuro; Voraz fundido ao braço; runas de isolamento/silêncio adicionadas ao próprio conjunto; conheceu Emily, Helen e George Stacy.
+- **Gwen Stacy / Aranha-Fantasma:** indo para o campus; PV 35/35; PA 30/30; Limiar vinculada; recebeu cinco runas discretas nas costas para bloquear rastreio enquanto Limiar estiver recolhida; família percebe aproximação com Will.
+- **Riri Williams / Ironheart:** a caminho do campus com Will; PV 30/30; PA 30/30; Sombra vinculada; recebeu cinco runas discretas em diagonal na lateral/costas/ombro para bloquear rastreio enquanto Sombra estiver recolhida; sabe que sua família pode ser o próximo contato social de Will.
 
 ## Conhecimento consolidado entre o trio
 - O trio sabe que Janus aparentemente comprou a morte do mago contaminado no mar, mas que ainda pode haver rastreio residual.
@@ -71,16 +69,18 @@ Isso serve para vida civil e deslocamento discreto, não para combate aberto.
 - Will reconheceu que gosta das duas e que tem mais experiência com magia do que relacionamentos.
 - Gwen e Riri reconheceram que também não possuem manual: Gwen faz piada quando se perde; Riri transforma em análise.
 - A noite das runas na cobertura virou mistura de estudo, intimidade, confiança e álibi doméstico.
+- A família Stacy já percebe Will como presença real. A família Williams é o próximo risco social provável.
 
 ## Famílias
 ### Família Stacy
-- **George Stacy:** conheceu Will no corredor. Observa com cautela, mas ouviu Gwen dizer que confia em Will.
+- **George Stacy:** conheceu Will no corredor. Observa com cautela, mas ouviu Gwen dizer que ela confia em Will.
 - **Helen Stacy:** achou Will educado, gentil e um pouco sozinho.
 - **Emily Stacy:** 16 anos, irmã mais nova de Gwen; conheceu Will antes de Gwen poder controlar a cena. Rápida, curiosa, socialmente perigosa. Chamou Will de “Will da cobertura”, “o do sofá”, nerd poliglota e estranho interessante. Quer investigar.
 
 ### Família Williams
-- **Ronnie Williams:** percebe que Riri passa muito tempo com Will e que voltou diferente. Não sabe se gosta dele, mas percebe que Riri parece menos sozinha.
-- **Gary Williams:** tenta aliviar, mas também observa.
+- **Ronnie Williams:** mãe de Riri. Bonita, perceptiva e muito boa em detectar padrão. Riri alerta que Ronnie percebe bajulação e não precisa de distintivo para interrogar.
+- **Gary Williams:** padrasto e figura paterna de Riri. Tenta aliviar, mas também observa.
+- Riri orientou Will: se encontrar Ronnie/Gary, ser natural, gentil, não perfeito demais, não repetir padrões óbvios de elogio, não falar de sofá, runas ou línguas mortas.
 
 ## Magia de Will — regras vistas em cena
 - **Latim/Grego/Aramaico/Celta:** vazam em momentos emocionais ou distraídos por hábito herdado de Laura.
@@ -101,9 +101,11 @@ Isso serve para vida civil e deslocamento discreto, não para combate aberto.
 - Respostas sobre ideias devem ser curtas quando o usuário pedir análise breve.
 - Manter cenas de família em tom leve, doméstico e com tensão social, não melodrama.
 - Emily deve ser caos doméstico, observadora e engraçada, sem saber segredos heroicos.
+- Riri é analítica e pode alertar Will sobre padrões sociais, especialmente perto de Ronnie.
 
 ## Pendências imediatas
 - Almoço de terça: possível conversa com Gwen e Riri sobre Emily ter conhecido Will.
+- Possível encontro futuro com Ronnie e Gary Williams.
 - Continuar rotina acadêmica normal.
 - Monitorar se Janus deixa rastros novos.
 - Decidir quando/como investigar Aviso Relay, Kessler / 9th e arquivo criptografado.
@@ -116,6 +118,6 @@ Isso serve para vida civil e deslocamento discreto, não para combate aberto.
 - Vínculo Gwen-Limiar e identidade preservada.
 - Vínculo Riri-Sombra e segurança sem uso.
 - Romance Will-Gwen-Riri e efeitos nas famílias.
-- Emily Stacy como nova variável doméstica.
-- Famílias Stacy e Williams percebendo mudanças.
+- Emily Stacy como variável doméstica ativa.
+- Possível primeiro contato futuro de Will com Ronnie e Gary Williams.
 - Vida acadêmica e rotina civil atravessadas por cooperação heroica.
