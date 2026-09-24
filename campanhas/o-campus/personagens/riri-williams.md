@@ -49,9 +49,9 @@ Atual [30] / Máximo [30]
 ## Estados Atuais
 - Sombra vinculada como tatuagem escura viva.
 - Runas discretas na lateral/costas/ombro protegem Sombra em forma civil.
-- Emocionalmente processando o beijo com Will, o vínculo com Sombra, a equação relacional com Gwen e a noite íntima na cobertura.
-- Ronnie e Gary percebem que Riri voltou diferente e passa muito tempo com Will/Gwen.
-- Encontrou Will na manhã de terça após ele conhecer a família Stacy e o alertou sobre o risco social de encontrar Ronnie/Gary.
+- Emocionalmente processando o vínculo com Sombra, a equação relacional com Gwen e Will e a consolidação privada do namoro.
+- Ronnie e Gary percebem que Riri voltou calma depois do jantar no terraço e que a aproximação com Will/Gwen é importante.
+- Após o Capítulo 009, vive com Will e Gwen um namoro íntimo em privado, ainda sem anúncio público formal. A regra relacional atual é: devagar, mas não parado.
 
 ## Personalidade e Tendências
 - É analítica, direta e extremamente curiosa.
@@ -63,6 +63,7 @@ Atual [30] / Máximo [30]
 - No Capítulo 006, beijou Will por escolha própria depois que ele pediu direito e não fugiu.
 - No Capítulo 007, aceitou as runas de proteção e reconheceu que não estava arrependida.
 - No Capítulo 008, avaliou o primeiro encontro de Will com a família Stacy e ficou alerta ao perceber que Ronnie/Gary podem ser os próximos.
+- No Capítulo 009, reconheceu que não quer ser acessório da relação Will-Gwen; precisa existir vínculo próprio entre ela e Gwen.
 
 ## Objetivos e Desejos
 - Tornar-se uma engenheira extraordinária sem depender da sombra de outros gênios.
@@ -71,6 +72,7 @@ Atual [30] / Máximo [30]
 - Encontrar pessoas capazes de acompanhá-la intelectual e emocionalmente.
 - Ajudar Sombra a ter segurança sem transformá-la em equipamento.
 - Criar protocolos éticos para os simbiontes sem entregar seres conscientes a instituições que os transformariam em ativos.
+- Viver a relação com Will e Gwen devagar, preservando autonomia, previsibilidade e vínculo próprio com Gwen.
 
 ## Medos, Limites e Códigos
 - Detesta ser tratada como criança, mascote ou apenas como “gênio útil”.
@@ -79,6 +81,7 @@ Atual [30] / Máximo [30]
 - Pode se sentir desconfortável quando não consegue compreender ou modelar uma situação, especialmente diante de magia.
 - Não usa inteligência como justificativa para desconsiderar sentimentos alheios.
 - O vínculo com Sombra exige uma regra central: proteger sem usar.
+- Regra relacional consolidada: **bando não força bando**.
 
 ## Hábitos e Rotina
 - Estuda Engenharia em Culver University.
@@ -90,14 +93,14 @@ Atual [30] / Máximo [30]
 - Preserva a vida familiar com Ronnie e Gary.
 
 ## Relações
-- **Ronnie Williams:** mãe; bonita, perceptiva, percebe mudanças em Riri antes que haja explicação completa. Riri sabe que Ronnie percebe bajulação e padrões sociais com facilidade.
-- **Gary Williams:** padrasto e figura paterna; vivo nesta continuidade. Tenta aliviar, mas também observa.
+- **Ronnie Williams:** mãe; bonita, perceptiva, percebe mudanças em Riri antes que haja explicação completa. Riri sabe que Ronnie percebe bajulação e padrões sociais com facilidade. Após o Capítulo 009, Ronnie já conheceu Will e percebeu que Riri voltou calma depois do jantar.
+- **Gary Williams:** padrasto e figura paterna; vivo nesta continuidade. Tenta aliviar, mas também observa. Usa humor ao tratar Will como vizinho perigoso.
 - **Pai biológico:** falecido antes de seu nascimento.
-- **Gwen Stacy:** vizinha, Bioquímica e Aranha-Fantasma. Relação de cooperação, segredo compartilhado, rivalidade leve e potencial vínculo próprio dentro do trio. No Capítulo 007, Riri compartilhou com Gwen a noite das runas, cama, coberta e conversa de futuro.
-- **Will Jack:** vizinho, Arqueologia e Azoth. Relação avançou para confiança ativa, análise compartilhada, preocupação, flerte explícito, beijo sem fuga e intimidade doméstica. Riri reconhece que pedir funcionou melhor que fugir. No Capítulo 008, ela o orientou sobre como não repetir padrões óbvios ao lidar com sua família.
-- **Voraz / “Docinho”:** simbionte vinculado a Will. Riri não ouve Voraz diretamente, salvo canal/manifestações. Ela o considera risco alto, mas reconhece que ele e Will construíram limites reais.
-- **Limiar:** simbionte consciente vinculada a Gwen.
-- **Sombra:** simbionte consciente vinculada a Riri. Sombra fala internamente com Riri, em frases curtas. Relação atual: abrigo, distância, voz baixa, confiança e aprendizagem.
+- **Gwen Stacy:** vizinha, Bioquímica e Aranha-Fantasma. Relação de cooperação, segredo compartilhado, rivalidade leve e vínculo próprio em construção dentro do trio. No Capítulo 009, Riri percebeu que Gwen não a tratou como rival externa nem como acessório.
+- **Will Jack:** vizinho, Arqueologia e Azoth. Relação consolidada em privado como namoro íntimo, devagar e sem anúncio público formal. Will percebeu que Riri relaxa melhor com aviso prévio, previsibilidade, controle e permissão de parar.
+- **Voraz / “Docinho”:** simbionte vinculado a Will. Riri não ouve Voraz diretamente, salvo canal/manifestações. Ela o considera risco alto, mas reconhece que ele e Will construíram limites reais e lógica de bando.
+- **Limiar:** simbionte consciente vinculada a Gwen. Riri sabe que Limiar busca identidade, corpo e casa sem apagar Gwen.
+- **Sombra:** simbionte consciente vinculada a Riri. Sombra fala internamente com Riri, em frases curtas. Relação atual: abrigo, distância, voz baixa, confiança, aviso prévio, porta aberta e aprendizagem.
 
 ## Conhecimento Relevante
 - Conhecimento acadêmico e técnico avançado compatível com engenheira excepcional.
@@ -110,6 +113,7 @@ Atual [30] / Máximo [30]
 - Sabe montar álibi digital/social sem parecer limpo demais.
 - Sabe que Sombra recolhida agora não deve gerar rastreio detectável, mas manifestação completa ainda é rastreável.
 - Sabe que Will conheceu Emily, Helen e George Stacy e que Emily virou variável doméstica ativa.
+- Sabe que Will conheceu Ronnie em cena e causou boa primeira impressão sem parecer perfeito demais.
 
 ## História Consolidada
 - Cresceu com Ronnie Williams e Gary Williams como figura paterna.
@@ -119,3 +123,4 @@ Atual [30] / Máximo [30]
 - No Capítulo 006, escolheu tirar Sombra da cápsula sem tratá-la como ferramenta, montou o álibi digital/social da farsa contra Janus, monitorou a operação de fora das câmeras e beijou Will sem fuga.
 - No Capítulo 007, recebeu runas discretas para proteger Sombra de rastreio civil, compartilhou uma noite íntima de confiança com Will e Gwen, e voltou para casa admitindo para Sombra que não estava arrependida.
 - No Capítulo 008, ouviu de Will o relato completo do encontro com a família Stacy e antecipou que a família Williams pode ser o próximo teste doméstico.
+- No Capítulo 009, participou do jantar no terraço com Will e Gwen, aceitou massagem consensual adaptada ao seu conforto, beijou Will no corredor e voltou para casa calma. Reconheceu que a relação precisa incluir vínculo próprio entre ela e Gwen, não apenas duas relações paralelas com Will.
