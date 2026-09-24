@@ -59,10 +59,10 @@ Atual [recuperado por descanso, a definir em cena] / Máximo [30]
 ## Estados Atuais
 - Voraz/Docinho fundido ao antebraço sob acordo reforçado de limites.
 - Corpo restaurado pela cura hebraica maior após a farsa no mar.
-- Mente recuperando do ritual do caldeirão, teleporte no limite e tensão emocional.
 - O público/Janus não deve associar Will Jack ou Azoth ao mago contaminado morto no mar.
-- Conheceu Emily, Helen e George Stacy na manhã de terça. Helen o achou gentil; George o observa; Emily quer investigar.
-- Conversou com Riri sobre o risco de conhecer Ronnie e Gary Williams. Foi alertado a não repetir padrões óbvios de elogio diante de Ronnie.
+- Conheceu Emily, Helen e George Stacy. Helen o achou gentil; George o observa; Emily o adotou como “Mago do Rodo” / arqueólogo élfico e quer investigar.
+- Conheceu Ronnie Williams em cena e causou boa primeira impressão por sinceridade. Ronnie percebeu que ele trata Riri como pessoa inteira.
+- Após o Capítulo 009, vive com Gwen e Riri um namoro íntimo em privado, ainda sem anúncio público formal. A regra relacional atual é: devagar, mas não parado.
 
 ## Personalidade e Tendências
 - Civilmente aparenta ser nerd, discreto, desajeitado e pouco ameaçador.
@@ -71,6 +71,7 @@ Atual [recuperado por descanso, a definir em cena] / Máximo [30]
 - Suas piadas românticas com Gwen e Riri carregam subtexto consciente: interesse, convite, limite e normalização pública.
 - Sabe alternar entre “cara de nerd” e postura civil firme quando decide não se esconder.
 - Em contexto familiar, pode usar cordialidade e elogios como diplomacia social, mas isso já foi marcado por Riri como padrão detectável.
+- Quando uma pergunta toca a ausência de família ativa, pode desviar com humor leve em vez de abrir imediatamente o assunto.
 
 ## Objetivos e Desejos
 - Concluir Arqueologia.
@@ -78,12 +79,13 @@ Atual [recuperado por descanso, a definir em cena] / Máximo [30]
 - Conciliar vida civil e atividade de vigilante.
 - Preservar a normalidade diferente com Gwen e Riri.
 - Transformar a simbiose com Voraz em convivência real sem jaula nem perda de controle.
-- Entender o que os beijos e a intimidade com Gwen e Riri significam sem fugir da conversa.
+- Viver o namoro com Gwen e Riri devagar, com conforto para todos, sem fingir que nada existe e sem forçar anúncio público cedo demais.
 - Sonho simples declarado: viajar pelo mundo, estudar tumbas antigas, achar livros de magia, voltar para casa, fazer jantar e talvez levar comida para quem ficou o dia todo no laboratório.
 
 ## Medos, Limites e Códigos
 - Não quer dominar a mente de Voraz e não aceita que Voraz domine a dele.
 - Regra reforçada com Voraz: **dois entram, dois saem**.
+- Regra relacional consolidada: **bando não força bando**.
 - Evita colocar inocentes em risco.
 - A IA não deve presumir outros medos, limites morais ou códigos sem declaração ou estabelecimento em jogo.
 
@@ -96,16 +98,18 @@ A IA não escolhe por Will ações, sentimentos, atração, falas importantes ou
 - Quando fica nervoso, distraído, empolgado ou emocionalmente pressionado, pode trocar espontaneamente do inglês para latim, grego, aramaico ou celta por uma palavra/frase curta.
 - Laura Jack foi apresentada socialmente como linguista excêntrica; Will cresceu ouvindo latim, grego, aramaico e celta antes do inglês.
 - Em combate, usa idiomas deliberadamente: aramaico/hebraico para proteção/cura; latim para véu/condição; celta para elementos; grego para espaço/teleporte.
+- Pode usar corrida/teleporte para local remoto com Voraz para gastar energia sem risco a civis, mantendo regras claras.
 
 ## Relações
-- **Laura Jack:** avó e figura parental; falecida há cerca de um ano. Linguista/maga hermética excêntrica, lembrada com carinho.
-- **Gwen Stacy:** vizinha, Bioquímica, Aranha-Fantasma. Gwen conhece Azoth. Will conhece Aranha-Fantasma. Relação em avanço explícito, ainda sem conversa formal.
-- **Riri Williams:** vizinha, Engenharia, Ironheart. Riri conhece Azoth. Will conhece Ironheart. Relação em avanço explícito, ainda sem conversa formal. Riri já o orientou sobre como sobreviver socialmente à família Williams.
-- **Voraz / “Docinho”:** simbionte consciente fundido ao braço de Will. Relação atual: simbiose com limites, dança, proteção e pertencimento incipiente. Voraz não gosta do apelido Docinho, mas chocolate ajuda.
-- **Limiar:** simbionte consciente vinculada a Gwen. Will ajudou a protegê-la com runas contra rastreio civil.
-- **Sombra:** simbionte consciente vinculada a Riri. Will ajudou a protegê-la com runas contra rastreio civil.
-- **Família Stacy:** Will conheceu Emily, Helen e George. Emily é caos doméstico; Helen cordial; George cauteloso.
-- **Família Williams:** ainda não conheceu Ronnie e Gary em cena. Sabe por Riri que Ronnie é perceptiva, bonita e detecta padrões sociais facilmente.
+- **Laura Jack:** avó e figura parental; falecida há cerca de um ano. Linguista/maga hermética excêntrica, lembrada com carinho. A receita de lasanha de Laura tornou-se memória afetiva compartilhada com Gwen e Riri no Capítulo 009.
+- **Gwen Stacy:** vizinha, Bioquímica, Aranha-Fantasma. Gwen conhece Azoth. Will conhece Aranha-Fantasma. Relação consolidada em privado como namoro íntimo, devagar e sem anúncio público formal. Gwen confia nele e já o viu beijar Riri sem se sentir excluída.
+- **Riri Williams:** vizinha, Engenharia, Ironheart. Riri conhece Azoth. Will conhece Ironheart. Relação consolidada em privado como namoro íntimo, devagar e sem anúncio público formal. Will sabe que Riri relaxa melhor quando mantém controle, previsibilidade e permissão de parar.
+- **Gwen e Riri entre si:** Will reconhece que precisa haver vínculo próprio entre elas, não apenas duas relações paralelas com ele.
+- **Voraz / “Docinho”:** simbionte consciente fundido ao braço de Will. Relação atual: simbiose com limites, dança, proteção, chocolate, corrida e pertencimento de bando. Voraz não gosta do apelido Docinho, mas chocolate ajuda.
+- **Limiar:** simbionte consciente vinculada a Gwen. Will ajudou a protegê-la com runas contra rastreio civil. Sabe que Limiar responde a casa, toque bom e ausência de ameaça.
+- **Sombra:** simbionte consciente vinculada a Riri. Will ajudou a protegê-la com runas contra rastreio civil. Sabe que Sombra responde bem a aviso prévio, porta aberta e ausência de pressão.
+- **Família Stacy:** Will conheceu Emily, Helen e George. Emily é caos doméstico e adotou o “Mago do Rodo”; Helen é cordial e receptiva; George cauteloso.
+- **Família Williams:** Will conheceu Ronnie Williams em cena e causou boa primeira impressão. Gary ainda não teve uma conversa extensa com Will, mas o observa de forma bem-humorada como vizinho perigoso.
 
 ## Conhecimento Relevante
 - Formação em magia hermética transmitida pela linhagem familiar.
@@ -125,3 +129,4 @@ A IA não escolhe por Will ações, sentimentos, atração, falas importantes ou
 - No Capítulo 006, libertou Limiar e Sombra com Gwen/Riri, encenou com Voraz a morte do mago contaminado no mar, apagou o barco com o caldeirão, sobreviveu e avançou romanticamente com Gwen e Riri.
 - No Capítulo 007, criou runas civis contra rastreio para Gwen/Limiar e Riri/Sombra, passou uma noite íntima e doméstica com as duas, e conheceu Emily, Helen e George Stacy no corredor.
 - No Capítulo 008, contou a Riri sobre o encontro com a família Stacy e começou a considerar o próximo risco doméstico: conhecer Ronnie e Gary Williams.
+- No Capítulo 009, viveu com Gwen e Riri uma quarta-feira de rotina civil que culminou no jantar no terraço, massagem consensual com roupas, beijos no corredor e retorno das duas para casa. Depois gastou energia com Voraz em uma floresta remota. O namoro entre os três foi consolidado em privado como devagar, mas não parado.
