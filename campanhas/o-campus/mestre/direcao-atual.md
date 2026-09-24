@@ -91,6 +91,27 @@ A família pode aparecer mais:
 - gerando tensão entre vida civil, romance e heroísmo;
 - percebendo mudanças de humor, horários e proximidade, sem deduzir o segredo sobrenatural.
 
+## Agendas próprias e cenas separadas
+
+A campanha não deve arrastar sempre Will, Gwen e Riri como bloco único.
+
+Gwen e Riri podem ter agendas próprias, compromissos, aulas, família, patrulha, estudo, trabalho de laboratório, descanso e decisões fora da presença de Will. Will também pode ter cenas próprias sem as duas.
+
+Exemplos adequados:
+
+- Will passar tempo só com Gwen;
+- Will passar tempo só com Riri;
+- Gwen e Riri terem cena própria sem Will;
+- Will encontrar Emily Stacy por acaso ou por motivo doméstico;
+- Will conversar apenas com Helen ou George Stacy;
+- Will encontrar Ronnie ou Gary Williams sem Riri presente;
+- Riri lidar com Ronnie/Gary sem Will e Gwen;
+- Gwen lidar com Emily/Helen/George sem Will e Riri;
+- uma das duas estar ocupada enquanto a outra participa de uma cena com Will;
+- uma personagem puxar uma ação heroica ou civil que não envolva todo mundo.
+
+Isso ajuda a campanha respirar. O romance é a três no núcleo, mas a vida deles não precisa acontecer sempre em trio. Cenas separadas fortalecem os vínculos, dão autonomia às personagens e evitam que a relação vire bloco fixo.
+
 ## Momentos em pares dentro do trio
 
 O romance é a três, mas não deve esfregar o trio em toda cena nem transformar tudo em bloco único.
