@@ -39,16 +39,18 @@ Atual [30] / Máximo [30]
 - **Sensores Avançados:** leitura de energia, movimento, calor, composição e anomalias tecnológicas dentro dos limites da armadura.
 - **Interface Tática:** integra leitura de campo, alvos, trajetórias e informações da armadura.
 - **Engenharia de Campo:** diagnosticar, reparar, adaptar ou construir tecnologia compatível quando houver tempo, materiais e ferramentas.
-- **Vínculo Simbiótico — Sombra:** Sombra está vinculada ao antebraço de Riri como marca escura viva. O vínculo é recente e exige cuidado para não transformar Sombra em ferramenta, módulo ou armadura.
+- **Vínculo Simbiótico — Sombra:** Sombra está vinculada ao corpo de Riri como marca escura viva. O vínculo é recente e exige cuidado para não transformar Sombra em ferramenta, módulo ou armadura.
+- **Runas civis contra rastreio:** cinco símbolos discretos em diagonal na lateral/costas/ombro de Riri. Com Sombra recolhida: sem rastreio detectável. Saída parcial: sinal abafado. Manifestação completa/armadura: sinal normal se houver proximidade e método.
 
 ## Itens / Equipamentos
 - **Armadura Ironheart:** RD 2; PE 10. Não concede bônus automático de Atributo ou Perícia.
 - **Registros offline do caso Janus:** Riri mantém registros separados sobre Limiar, Sombra, Voraz, magia de Will, rastreadores passivos e contenção, evitando rede quando o assunto envolve Janus.
 
 ## Estados Atuais
-- Sombra vinculada ao antebraço como tatuagem escura viva.
-- Riri voltou para casa após jantar público com Will e Gwen, com a “tatuagem” como cobertura social.
-- Emocionalmente processando o beijo com Will, o vínculo com Sombra e a equação relacional com Gwen.
+- Sombra vinculada como tatuagem escura viva.
+- Runas discretas na lateral/costas/ombro protegem Sombra em forma civil.
+- Emocionalmente processando o beijo com Will, o vínculo com Sombra, a equação relacional com Gwen e a noite íntima na cobertura.
+- Ronnie e Gary percebem que Riri voltou diferente e passa muito tempo com Will/Gwen.
 
 ## Personalidade e Tendências
 - É analítica, direta e extremamente curiosa.
@@ -58,6 +60,7 @@ Atual [30] / Máximo [30]
 - Diante de atração inesperada, tende primeiro a analisar, racionalizar e demorar mais que Gwen para admitir o que sente.
 - Diante do flerte provocativo de Will, responde com precisão seca, análise social e ironia, mas sem recuar automaticamente.
 - No Capítulo 006, beijou Will por escolha própria depois que ele pediu direito e não fugiu.
+- No Capítulo 007, aceitou as runas de proteção e reconheceu que não estava arrependida.
 
 ## Objetivos e Desejos
 - Tornar-se uma engenheira extraordinária sem depender da sombra de outros gênios.
@@ -85,11 +88,11 @@ Atual [30] / Máximo [30]
 - Preserva a vida familiar com Ronnie e Gary.
 
 ## Relações
-- **Ronnie Williams:** mãe; percebe mudanças em Riri antes que haja explicação completa.
-- **Gary Williams:** padrasto e figura paterna; vivo nesta continuidade.
+- **Ronnie Williams:** mãe; percebe mudanças em Riri antes que haja explicação completa. Sabe que Riri passa bastante tempo com Will/Gwen e está observando.
+- **Gary Williams:** padrasto e figura paterna; vivo nesta continuidade. Tenta aliviar, mas também observa.
 - **Pai biológico:** falecido antes de seu nascimento.
-- **Gwen Stacy:** vizinha, Bioquímica e Aranha-Fantasma. Relação de cooperação, segredo compartilhado, rivalidade leve e potencial vínculo próprio dentro do trio. No Capítulo 006, Riri viu Gwen aceitar Limiar e beijar Will sem transformar isso em competição simples.
-- **Will Jack:** vizinho, Arqueologia e Azoth. Relação avançou para confiança ativa, análise compartilhada, preocupação, flerte explícito e beijo sem fuga. Riri ficou irritada com o beijo-e-fuga antes da operação, mas aceitou beijá-lo quando ele pediu direito.
+- **Gwen Stacy:** vizinha, Bioquímica e Aranha-Fantasma. Relação de cooperação, segredo compartilhado, rivalidade leve e potencial vínculo próprio dentro do trio. No Capítulo 007, Riri compartilhou com Gwen a noite das runas, cama, coberta e conversa de futuro.
+- **Will Jack:** vizinho, Arqueologia e Azoth. Relação avançou para confiança ativa, análise compartilhada, preocupação, flerte explícito, beijo sem fuga e intimidade doméstica. Riri reconhece que pedir funcionou melhor que fugir.
 - **Voraz / “Docinho”:** simbionte vinculado a Will. Riri não ouve Voraz diretamente, salvo canal/manifestações. Ela o considera risco alto, mas reconhece que ele e Will construíram limites reais.
 - **Limiar:** simbionte consciente vinculada a Gwen.
 - **Sombra:** simbionte consciente vinculada a Riri. Sombra fala internamente com Riri, em frases curtas. Relação atual: abrigo, distância, voz baixa, confiança e aprendizagem.
@@ -103,6 +106,7 @@ Atual [30] / Máximo [30]
 - Sabe que Janus transportava simbiontes conscientes.
 - Sabe que Janus provavelmente comprou a morte do mago contaminado no mar.
 - Sabe montar álibi digital/social sem parecer limpo demais.
+- Sabe que Sombra recolhida agora não deve gerar rastreio detectável, mas manifestação completa ainda é rastreável.
 
 ## História Consolidada
 - Cresceu com Ronnie Williams e Gary Williams como figura paterna.
@@ -110,3 +114,4 @@ Atual [30] / Máximo [30]
 - Chega a Willowdale já com experiência heroica e domínio funcional da armadura.
 - No Capítulo 005, revelou sua identidade a Will e Gwen, descobriu Azoth e Aranha-Fantasma e aceitou a normalidade diferente como caminho possível.
 - No Capítulo 006, escolheu tirar Sombra da cápsula sem tratá-la como ferramenta, montou o álibi digital/social da farsa contra Janus, monitorou a operação de fora das câmeras e beijou Will sem fuga.
+- No Capítulo 007, recebeu runas discretas para proteger Sombra de rastreio civil, compartilhou uma noite íntima de confiança com Will e Gwen, e voltou para casa admitindo para Sombra que não estava arrependida.
