@@ -114,5 +114,5 @@ Existe uma invasão alienígena futura como grande escalada de longo prazo, sem 
 
 ## Retomada
 - Capítulo atual: nenhum aberto.
-- Último capítulo concluído: Capítulo 006 — Tango da Morte.
-- Ponto de continuação: 07/09/2025, domingo à noite, ou manhã seguinte. Will, Gwen e Riri sobreviveram à farsa marítima contra Janus. Limiar está vinculada a Gwen, Sombra a Riri, Voraz permanece com Will. Janus aparentemente comprou a morte do mago contaminado no mar. O trio terminou a noite com jantar público e beijos sem fuga; a próxima cena deve lidar com descanso, famílias, faculdade e a conversa ainda pendente sobre o que esses beijos significam.
+- Último capítulo concluído: Capítulo 007 — Marcas de Casa.
+- Ponto de continuação: 09/09/2025, terça-feira de manhã, avançando para almoço. Will voltou da rua com compras e conheceu Emily, Helen e George Stacy no corredor. Gwen saiu de casa sabendo que a família conheceu Will e que Emily virou um problema ativo. Limiar e Sombra agora têm runas discretas contra rastreio civil; forma completa ainda é rastreável.
