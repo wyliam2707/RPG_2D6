@@ -44,6 +44,7 @@ Atual [30] / Máximo [30]
 
 ## Itens / Equipamentos
 - **Traje da Aranha-Fantasma:** RD 1; PE 10; o PE se regenera integralmente a cada dia.
+- **Rosa de Will:** rosa recebida de Will na despedida do Capítulo 011, depois do jantar com Ronnie/Gary e do tempo no sofá.
 
 ## Estados Atuais
 - Limiar vinculada como marca prateada viva.
@@ -51,8 +52,10 @@ Atual [30] / Máximo [30]
 - Emocionalmente processando o vínculo com Limiar, a intimidade consolidada com Will/Riri e a percepção crescente da família.
 - George, Helen e Emily conhecem Will como presença real na vida de Gwen.
 - Após o Capítulo 009, vive com Will e Riri um namoro íntimo em privado, ainda sem anúncio público formal. A regra relacional atual é: devagar, mas não parado.
-- Após o Capítulo 010, disse aos pais que gosta de Will. George quer conversar com Will em algum momento futuro.
-- Sabe que Will fez algo magicamente real ao recitar em hebraico sobre a tatuagem de Emily, mas não recebeu explicação completa em cena.
+- Após o Capítulo 010, disse aos pais que gosta de Will.
+- No Capítulo 011, recebeu a explicação geral sobre a proteção de Emily: proteção de casualidade de uso único, sem rastreio, controle ou vínculo. Aceitou com ressalvas.
+- No Capítulo 011, voltou para casa com uma rosa de Will; George percebeu que Riri também recebeu uma.
+- George conversou com Will no sábado de manhã e voltou dizendo que gostou dele, embora continue preocupado.
 
 ## Personalidade e Tendências
 - Usa humor e ironia para aliviar tensão e esconder desconforto.
@@ -60,11 +63,13 @@ Atual [30] / Máximo [30]
 - É independente e pouco confortável com pessoas tentando decidir por ela.
 - É protetora com a família e com pessoas próximas.
 - Quando sente atração, tende primeiro a demonstrá-la por proximidade, provocação, curiosidade e atenção, não por confissões imediatas.
+- Quando gosta de algo de verdade, pode ficar quieta, olhando para o nada, como se estivesse tentando negociar com o próprio cérebro antes de recuperar o humor.
 - Diante do flerte provocativo de Will, devolve com humor, ameaça social brincalhona e atenção física/afetiva.
 - No Capítulo 006, beijou Will por escolha própria depois que ele pediu direito e não fugiu.
 - No Capítulo 007, aceitou as runas de proteção e reconheceu que a noite na cobertura foi segura, íntima e complicada.
 - No Capítulo 009, percebeu que ver Will beijar Riri não a excluiu; a cena reforçou que Riri também é parte real da relação.
 - No Capítulo 010, levou Emily à cobertura de Will e percebeu que a irmã gostou dele de forma real, não apenas por caos ou novidade.
+- No Capítulo 011, viu Will tratar a família de Riri com comida, sinceridade e caos controlado; não se sentiu excluída quando Will beijou Riri primeiro.
 
 ## Objetivos e Desejos
 - Concluir Bioquímica e construir uma vida que não seja definida apenas pela identidade heroica.
@@ -72,6 +77,7 @@ Atual [30] / Máximo [30]
 - Ter relações nas quais possa ser Gwen, e não apenas Aranha-Fantasma.
 - Ajudar Limiar a continuar sendo Limiar dentro do vínculo.
 - Viver a relação com Will e Riri devagar, com espaço real para o vínculo próprio entre ela e Riri.
+- Voltar gradualmente à vida heroica sem deixar o romance virar gaiola doméstica.
 
 ## Medos, Limites e Códigos
 - Evita colocar inocentes em risco por conveniência.
@@ -80,6 +86,7 @@ Atual [30] / Máximo [30]
 - Não transforma medo de perder alguém em motivo automático para afastá-lo indefinidamente.
 - O vínculo com Limiar exige preservar duas identidades: Gwen continua Gwen; Limiar continua Limiar.
 - Regra relacional consolidada: **bando não força bando**.
+- Limite consolidado no Capítulo 011: proteção passiva e discreta em família pode ser tolerada; qualquer coisa com vínculo, custo, rastreio, alma, controle ou transformação exige conversa antes.
 
 ## Hábitos e Rotina
 - Estuda Bioquímica em Culver University.
@@ -90,12 +97,12 @@ Atual [30] / Máximo [30]
 - Procura preservar momentos comuns sem heroísmo.
 
 ## Relações
-- **George Stacy:** pai; policial experiente transferido para Willowdale. Conheceu Will no corredor e está observando. Gwen disse que confia em Will. Após o Capítulo 010, Gwen disse aos pais que gosta de Will; George quer conversar com ele, idealmente como pai, não como policial.
+- **George Stacy:** pai; policial experiente transferido para Willowdale. Conheceu Will no corredor e passou a observá-lo. Após o Capítulo 010, Gwen disse aos pais que gosta de Will. Após o Capítulo 011, George conversou com Will, gostou dele e percebeu que Will presta atenção em Gwen, mas continua preocupado.
 - **Helen Stacy:** mãe; viva e presente. Achou Will educado e gentil. Percebe que Will faz Gwen sorrir e que Emily também gostou muito dele.
-- **Emily Stacy:** irmã mais nova, 16 anos. Observadora, provocadora e curiosa demais. Conheceu Will, visitou a cobertura e saiu com uma tatuagem temporária no pulso. Não sabe que a tatuagem contém proteção mágica real de uso único.
-- **Riri Williams:** vizinha, Engenharia e Ironheart. Relação de cooperação, segredo compartilhado, rivalidade leve e vínculo próprio em construção dentro do trio. No Capítulo 009, Gwen viu Riri receber cuidado adaptado e ser beijada por Will sem sentir exclusão; isso reforçou que Riri é parte real, não rival externa.
-- **Will Jack:** vizinho, Arqueologia e Azoth. Relação consolidada em privado como namoro íntimo, devagar e sem anúncio público formal. Gwen confia nele o bastante para dizê-lo ao pai e para aceitar cuidado físico sem pressão. Após o Capítulo 010, também viu o lado de Will como tradutor histórico de tradição familiar.
-- **Voraz / “Docinho”:** simbionte vinculado a Will. Gwen não ouve Voraz diretamente, salvo canal/manifestações. Ela sabe que ele é perigoso, mas reconhece a dança dele com Will e a lógica de bando.
+- **Emily Stacy:** irmã mais nova, 16 anos. Observadora, provocadora e curiosa demais. Conheceu Will, visitou a cobertura, saiu com uma tatuagem temporária no pulso e recebeu no Capítulo 011 um dicionário de élfico com piada de tradutor escrita por Will. Não sabe que a tatuagem contém proteção mágica real de uso único.
+- **Riri Williams:** vizinha, Engenharia e Ironheart. Relação de cooperação, segredo compartilhado, rivalidade leve e vínculo próprio em construção dentro do trio. No Capítulo 009, Gwen viu Riri receber cuidado adaptado e ser beijada por Will sem sentir exclusão; isso reforçou que Riri é parte real, não rival externa. No Capítulo 011, Gwen viu Will beijar Riri primeiro e isso não funcionou como exclusão.
+- **Will Jack:** vizinho, Arqueologia e Azoth. Relação consolidada em privado como namoro íntimo, devagar e sem anúncio público formal. Gwen confia nele e já o viu beijar Riri sem se sentir excluída. Após o Capítulo 010, também viu o lado de Will como tradutor histórico de tradição familiar. Após o Capítulo 011, recebeu uma rosa dele e sabe que seu pai conversou com Will e gostou dele com ressalvas.
+- **Voraz / “Docinho”:** simbionte vinculado a Will. Gwen não ouve Voraz diretamente, salvo canal/manifestações. Ela sabe que ele é perigoso, mas reconhece a dança dele com Will e a lógica de bando. No Capítulo 011, Voraz apareceu no sofá e negou culpa pelos improvisos de Will.
 - **Limiar:** simbionte consciente vinculada a Gwen. Limiar fala internamente com Gwen, em frases curtas. Relação atual: corpo, calor, nome, identidade, casa, toque bom e aprendizagem.
 - **Sombra:** simbionte consciente vinculada a Riri. Gwen sabe que Sombra é assustada e precisa de segurança, aviso prévio e porta aberta.
 
@@ -108,7 +115,8 @@ Atual [30] / Máximo [30]
 - Sabe que Janus transportava simbiontes conscientes.
 - Sabe que Janus provavelmente comprou a morte do mago contaminado no mar.
 - Sabe que Limiar recolhida agora não deve gerar rastreio detectável, mas manifestação completa ainda é rastreável.
-- Sabe que houve magia real na tatuagem temporária de Emily, mas não recebeu todos os detalhes do efeito em cena.
+- Sabe que a tatuagem temporária de Emily contém proteção de casualidade de uso único, sem rastreio/controle/vínculo, mas Emily e a família não sabem disso.
+- Sabe que George conversou com Will e voltou com um dicionário de élfico para Emily.
 
 ## História Consolidada
 - Integra uma família de quatro pessoas com George, Helen e Emily Stacy.
@@ -119,3 +127,4 @@ Atual [30] / Máximo [30]
 - No Capítulo 007, recebeu runas discretas para proteger Limiar de rastreio civil, compartilhou uma noite íntima de confiança com Will e Riri, e viu a família Stacy começar a perceber Will como presença real.
 - No Capítulo 009, participou do jantar no terraço com Will e Riri, aceitou massagem consensual com roupas, beijou Will no corredor e voltou para casa sorrindo. Reconheceu que o vínculo entre os três pode existir sem excluir Riri e sem apagar o vínculo próprio Gwen-Riri.
 - No Capítulo 010, levou Emily à cobertura de Will, viu a irmã conhecer o trabalho de tradutor dele e admitiu aos pais que gosta de Will. A família Stacy passou a observar Will com mais seriedade, especialmente George.
+- No Capítulo 011, cobrou explicação de Will sobre a proteção em Emily, participou do jantar com a família Williams, ficou no sofá com Will e Riri, recebeu uma rosa de despedida e voltou para casa. George conversou com Will no sábado e trouxe para Emily um dicionário de élfico dado por ele. Gwen viu que Will também cuida da irmã por atenção real, não apenas por tentativa de agradá-la.
