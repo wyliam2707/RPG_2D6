@@ -7,6 +7,10 @@ Esta pasta guarda a memória integral da campanha em capítulos literários.
 Nenhum capítulo aberto no momento.
 
 ## Concluídos
+- Capítulo 010 — O Covil do Tradutor Recluso
+  - Período: 11/09/2025, quinta-feira, manhã até noite
+  - Arquivo: capitulo-010-o-covil-do-tradutor-recluso.md
+  - Encerramento: Will revela a Gwen, Riri e Emily seu trabalho civil como tradutor histórico de tradição familiar. Emily conhece a cobertura e o quarto de trabalho, vê a pena de metal do século XIV com que Will aprendeu a escrever e recebe uma tatuagem temporária em letras élficas; por baixo dela, Will sela uma proteção real de uso único sem que Emily saiba. A noite termina com pizza, humor doméstico e retorno das garotas para casa. Gwen admite aos pais que gosta de Will; Riri admite a Ronnie e Gary que está interessada em Will e que Gwen também é importante para ela. As famílias começam a perceber a relação sem ainda compreender seu formato, e Will deixa de ser apenas o vizinho misterioso.
 - Capítulo 009 — Jantar no Terraço
   - Período: 09/09/2025, terça-feira, almoço e noite; 10/09/2025, quarta-feira, rotina civil até a noite
   - Arquivo: capitulo-009-jantar-no-terraco.md
