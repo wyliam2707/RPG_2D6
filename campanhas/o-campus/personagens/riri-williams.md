@@ -45,6 +45,7 @@ Atual [30] / Máximo [30]
 ## Itens / Equipamentos
 - **Armadura Ironheart:** RD 2; PE 10. Não concede bônus automático de Atributo ou Perícia.
 - **Registros offline do caso Janus:** Riri mantém registros separados sobre Limiar, Sombra, Voraz, magia de Will, rastreadores passivos e contenção, evitando rede quando o assunto envolve Janus.
+- **Rosa de Will:** rosa recebida de Will na despedida do Capítulo 011, depois do jantar com Ronnie/Gary e da conversa da lista.
 
 ## Estados Atuais
 - Sombra vinculada como tatuagem escura viva.
@@ -53,7 +54,9 @@ Atual [30] / Máximo [30]
 - Ronnie e Gary percebem que Riri voltou calma depois do jantar no terraço e que a aproximação com Will/Gwen é importante.
 - Após o Capítulo 009, vive com Will e Gwen um namoro íntimo em privado, ainda sem anúncio público formal. A regra relacional atual é: devagar, mas não parado.
 - Após o Capítulo 010, admitiu a Ronnie e Gary que está interessada em Will e que Gwen também é importante para ela. A família percebe a complexidade, mas não sabe o formato da relação.
-- Sabe que Will fez algo magicamente real ao recitar em hebraico sobre a tatuagem de Emily, mas não recebeu explicação completa em cena.
+- Sabe que Will fez algo magicamente real ao recitar em hebraico sobre a tatuagem de Emily. No Capítulo 011 recebeu a explicação geral: proteção de casualidade, de uso único, sem rastreio, controle ou interface consciente.
+- Após o Capítulo 011, Ronnie e Gary jantaram na cobertura de Will. Ronnie gostou dele, Gary gostou dele e do capelete, e Riri disse em casa que está menos sozinha.
+- Estabeleceu com Will uma lista reduzida de limites sobre família, comunicação e mudança de categoria de planos.
 
 ## Personalidade e Tendências
 - É analítica, direta e extremamente curiosa.
@@ -67,6 +70,7 @@ Atual [30] / Máximo [30]
 - No Capítulo 008, avaliou o primeiro encontro de Will com a família Stacy e ficou alerta ao perceber que Ronnie/Gary podem ser os próximos.
 - No Capítulo 009, reconheceu que não quer ser acessório da relação Will-Gwen; precisa existir vínculo próprio entre ela e Gwen.
 - No Capítulo 010, respeitou o método de trabalho de Will e reconheceu nele continuidade, cuidado e sistema, não apenas renda misteriosa.
+- No Capítulo 011, ficou irritada com o improviso de Will envolvendo Ronnie/Gary, mas reconheceu que ele avisou, ouviu a lista e tratou sua família bem.
 
 ## Objetivos e Desejos
 - Tornar-se uma engenheira extraordinária sem depender da sombra de outros gênios.
@@ -76,6 +80,7 @@ Atual [30] / Máximo [30]
 - Ajudar Sombra a ter segurança sem transformá-la em equipamento.
 - Criar protocolos éticos para os simbiontes sem entregar seres conscientes a instituições que os transformariam em ativos.
 - Viver a relação com Will e Gwen devagar, preservando autonomia, previsibilidade e vínculo próprio com Gwen.
+- Manter a família próxima sem revelar cedo demais os segredos que ainda não podem saber.
 
 ## Medos, Limites e Códigos
 - Detesta ser tratada como criança, mascote ou apenas como “gênio útil”.
@@ -85,6 +90,7 @@ Atual [30] / Máximo [30]
 - Não usa inteligência como justificativa para desconsiderar sentimentos alheios.
 - O vínculo com Sombra exige uma regra central: proteger sem usar.
 - Regra relacional consolidada: **bando não força bando**.
+- Limite consolidado no Capítulo 011: quando Will envolver sua família ou mudar um plano de categoria, ela precisa saber cedo. Não por fragilidade, mas para preservar perímetro, preparo e segredos.
 
 ## Hábitos e Rotina
 - Estuda Engenharia em Culver University.
@@ -96,14 +102,14 @@ Atual [30] / Máximo [30]
 - Preserva a vida familiar com Ronnie e Gary.
 
 ## Relações
-- **Ronnie Williams:** mãe; bonita, perceptiva, percebe mudanças em Riri antes que haja explicação completa. Riri sabe que Ronnie percebe bajulação e padrões sociais com facilidade. Após o Capítulo 010, Ronnie sabe que Riri está interessada em Will e que Gwen também é importante para ela, mas não sabe o formato completo.
-- **Gary Williams:** padrasto e figura paterna; vivo nesta continuidade. Tenta aliviar, mas também observa. Usa humor ao tratar Will como vizinho perigoso. Após o Capítulo 010, percebeu que a situação é mais séria do que piada simples.
+- **Ronnie Williams:** mãe; bonita, perceptiva, percebe mudanças em Riri antes que haja explicação completa. Riri sabe que Ronnie percebe bajulação e padrões sociais com facilidade. Após o Capítulo 010, Ronnie sabe que Riri está interessada em Will e que Gwen também é importante para ela, mas não sabe o formato completo. Após o Capítulo 011, Ronnie conheceu melhor Will, viu sua sala de tradução, gostou dele sem confiar cegamente e ouviu Riri dizer que está menos sozinha.
+- **Gary Williams:** padrasto e figura paterna; vivo nesta continuidade. Tenta aliviar, mas também observa. Usa humor ao tratar Will como vizinho perigoso. Após o Capítulo 011, conheceu Will no jantar de capelete, gostou dele e da comida, e entende que a situação é séria por trás das piadas.
 - **Pai biológico:** falecido antes de seu nascimento.
-- **Gwen Stacy:** vizinha, Bioquímica e Aranha-Fantasma. Relação de cooperação, segredo compartilhado, rivalidade leve e vínculo próprio em construção dentro do trio. No Capítulo 010, Riri admitiu em casa que Gwen também é importante para ela.
-- **Will Jack:** vizinho, Arqueologia e Azoth. Relação consolidada em privado como namoro íntimo, devagar e sem anúncio público formal. Will percebeu que Riri relaxa melhor com aviso prévio, previsibilidade, controle e permissão de parar. Após o Capítulo 010, Riri admitiu em casa que está interessada nele.
-- **Voraz / “Docinho”:** simbionte vinculado a Will. Riri não ouve Voraz diretamente, salvo canal/manifestações. Ela o considera risco alto, mas reconhece que ele e Will construíram limites reais e lógica de bando.
+- **Gwen Stacy:** vizinha, Bioquímica e Aranha-Fantasma. Relação de cooperação, segredo compartilhado, rivalidade leve e vínculo próprio em construção dentro do trio. No Capítulo 010, Riri admitiu em casa que Gwen também é importante para ela. No Capítulo 011, Gwen participou do jantar com Ronnie/Gary e ficou ao lado de Riri na conversa da lista.
+- **Will Jack:** vizinho, Arqueologia e Azoth. Relação consolidada em privado como namoro íntimo, devagar e sem anúncio público formal. Will percebeu que Riri relaxa melhor com aviso prévio, previsibilidade, controle e permissão de parar. Após o Capítulo 011, Riri sabe que Will gosta dela, gostou de sua família e pode ser irritantemente honesto sobre não prometer perfeição.
+- **Voraz / “Docinho”:** simbionte vinculado a Will. Riri não ouve Voraz diretamente, salvo canal/manifestações. Ela o considera risco alto, mas reconhece que ele e Will construíram limites reais e lógica de bando. No Capítulo 011, Voraz apareceu no sofá e negou culpa pelos improvisos de Will.
 - **Limiar:** simbionte consciente vinculada a Gwen. Riri sabe que Limiar busca identidade, corpo e casa sem apagar Gwen.
-- **Sombra:** simbionte consciente vinculada a Riri. Sombra fala internamente com Riri, em frases curtas. Relação atual: abrigo, distância, voz baixa, confiança, aviso prévio, porta aberta e aprendizagem.
+- **Sombra:** simbionte consciente vinculada a Riri. Sombra fala internamente com Riri, em frases curtas. Relação atual: abrigo, distância, voz baixa, confiança, aviso prévio, porta aberta e aprendizagem. No Capítulo 011, Sombra reconheceu a rosa como presente.
 
 ## Conhecimento Relevante
 - Conhecimento acadêmico e técnico avançado compatível com engenheira excepcional.
@@ -117,8 +123,8 @@ Atual [30] / Máximo [30]
 - Sabe montar álibi digital/social sem parecer limpo demais.
 - Sabe que Sombra recolhida agora não deve gerar rastreio detectável, mas manifestação completa ainda é rastreável.
 - Sabe que Will conheceu Emily, Helen e George Stacy e que Emily virou variável doméstica ativa.
-- Sabe que Will conheceu Ronnie em cena e causou boa primeira impressão sem parecer perfeito demais.
-- Sabe que houve magia real na tatuagem temporária de Emily, mas não recebeu todos os detalhes do efeito em cena.
+- Sabe que Will conheceu Ronnie e Gary em cena e causou boa impressão sem parecer perfeito demais.
+- Sabe que a proteção na tatuagem temporária de Emily é proteção de casualidade de uso único, sem rastreio/controle/vínculo.
 
 ## História Consolidada
 - Cresceu com Ronnie Williams e Gary Williams como figura paterna.
@@ -130,3 +136,4 @@ Atual [30] / Máximo [30]
 - No Capítulo 008, ouviu de Will o relato completo do encontro com a família Stacy e antecipou que a família Williams pode ser o próximo teste doméstico.
 - No Capítulo 009, participou do jantar no terraço com Will e Gwen, aceitou massagem consensual adaptada ao seu conforto, beijou Will no corredor e voltou para casa calma. Reconheceu que a relação precisa incluir vínculo próprio entre ela e Gwen, não apenas duas relações paralelas com Will.
 - No Capítulo 010, viu Will trabalhar como tradutor histórico, reconheceu o método e a raridade do serviço, postou uma foto socialmente aceitável da noite e, ao voltar para casa, admitiu a Ronnie e Gary que está interessada em Will e que Gwen também é importante para ela.
+- No Capítulo 011, viu Will transformar um café improvisado com Ronnie em jantar familiar, ficou irritada com a comunicação tardia, mas reconheceu que ele avisou e tratou sua família bem. Apresentou uma lista reduzida de limites, recebeu uma rosa de Will, foi beijada primeiro naquela noite e voltou para casa dizendo que está menos sozinha.
