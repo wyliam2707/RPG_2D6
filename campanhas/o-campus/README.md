@@ -104,6 +104,11 @@ Existe uma invasão alienígena futura como grande escalada de longo prazo, sem 
 - Gwendolyn “Gwen” Stacy — IA — central — protagonista — personagens/gwen-stacy.md
 - Riri Williams — IA — central — protagonista — personagens/riri-williams.md
 
+## Fonte canônica do narrador
+- Repositório-base do sistema e da campanha: https://github.com/wyliam2707/RPG_2D6
+- Ao narrar ou retomar `O Campus`, tratar este repositório como fonte primária de regras, continuidade, personagens, estado atual, material reservado e capítulos salvos.
+- Em caso de dúvida entre memória solta e arquivos do repositório, os arquivos do repositório prevalecem.
+
 ## Estrutura
 - Estado atual: estado/atual.md
 - Continuidade diária: continuidade/README.md
