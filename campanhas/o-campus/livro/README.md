@@ -7,6 +7,10 @@ Esta pasta guarda a memória integral da campanha em capítulos literários.
 Nenhum capítulo aberto no momento.
 
 ## Concluídos
+- Capítulo 011 — Capelete, Rosas e Dicionários
+  - Período: 12/09/2025, sexta-feira de manhã, até 13/09/2025, sábado de manhã
+  - Arquivo: capitulo-011-capelete-rosas-e-dicionarios.md
+  - Encerramento: Will explica a Gwen e Riri a proteção de casualidade em Emily, passa pela rotina de aulas e almoço com as duas, encontra Ronnie no mercado e transforma um café improvisado em jantar com Ronnie, Gary, Gwen e Riri. Riri apresenta uma lista reduzida sobre família, comunicação e mudanças de categoria de planos. A noite termina com sofá, beijos, Voraz negando culpa e rosas invocadas para Gwen e Riri. No sábado cedo, Will treina, cruza com George, conversa com ele sobre Gwen, abnegação e cuidado, mostra a sala de tradução e manda para Emily um dicionário de élfico com uma piada de tradutor escrita com a pena de metal do século XIV. As famílias gostam mais de Will, mas continuam observando sem saber magia, simbiontes, identidades heroicas ou o formato real da relação.
 - Capítulo 010 — O Covil do Tradutor Recluso
   - Período: 11/09/2025, quinta-feira, manhã até noite
   - Arquivo: capitulo-010-o-covil-do-tradutor-recluso.md
