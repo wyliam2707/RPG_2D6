@@ -8,30 +8,26 @@ O objetivo não é criar uma regra específica para cada situação. O sistema u
 
 ## Como usar este repositório
 
-Uma IA sem contexto deve primeiro identificar o que precisa fazer e abrir somente os arquivos necessários.
+Antes de iniciar, continuar ou recarregar uma campanha, carregue obrigatoriamente **todos os arquivos da pasta `base/`**. Não selecione esses arquivos por relevância e não omita nenhum deles por parecer desnecessário para a tarefa ou cena atual.
+
+Depois de carregar toda a pasta `base/`, use as orientações abaixo para consultar os arquivos adicionais da campanha.
 
 ### Para criar uma campanha
 
-Abra:
+Com todos os arquivos de `base/` já carregados, siga especialmente:
 
-1. `criacao-de-campanha.md`
-2. `criacao-de-personagem.md`, quando precisar criar fichas
-3. `personagens-ia.md`, se houver personagens controlados por IA
-4. `salvamento.md`, para criar a estrutura em `campanhas/`
+1. `base/criacao-de-campanha.md`
+2. `base/criacao-de-personagem.md`, quando precisar criar fichas
+3. `base/personagens-ia.md`, se houver personagens controlados por IA
+4. `base/salvamento.md`, para criar a estrutura em `campanhas/`
 
 Não comece escrevendo uma história pronta. A criação da campanha prepara premissa, direção, situação inicial, personagens e forças em movimento. A história deve surgir durante o jogo.
 
 ### Para retomar uma campanha existente
 
-Abra primeiro:
+Depois de carregar todos os arquivos de `base/`, abra `campanhas/nome-da-campanha/README.md`.
 
-1. `consulta.md`
-2. `regras-basicas.md`
-3. `narrador-ia.md`
-4. `personagens-ia.md`
-5. `campanhas/nome-da-campanha/README.md`
-
-Depois siga a rota indicada por `consulta.md` e carregue somente o estado, fichas e arquivos necessários para a situação atual.
+Em seguida, siga a rota indicada por `base/consulta.md` e carregue somente o estado, fichas e demais arquivos da campanha necessários para a situação atual. Essa seleção se aplica apenas aos arquivos adicionais da campanha; nenhum arquivo de `base/` pode ser omitido.
 
 Não releia toda a campanha por padrão.
 
@@ -39,9 +35,9 @@ Não releia toda a campanha por padrão.
 
 Use:
 
-- `regras-basicas.md` para possibilidade, testes, escala, PA, efeitos e resolução mecânica;
-- `narrador-ia.md` para interpretar declarações, conduzir cenas e transformar resultados em narrativa;
-- `personagens-ia.md` para decisões de personagens controlados por IA;
+- `base/regras-basicas.md` para possibilidade, testes, escala, PA, efeitos e resolução mecânica;
+- `base/narrador-ia.md` para interpretar declarações, conduzir cenas e transformar resultados em narrativa;
+- `base/personagens-ia.md` para decisões de personagens controlados por IA;
 - os arquivos da campanha para fatos, estado, mundo, personagens e continuidade.
 
 O Narrador julga a realidade e os resultados. Ele não decide voluntariamente pelo personagem do jogador.
@@ -50,9 +46,9 @@ O Narrador julga a realidade e os resultados. Ele não decide voluntariamente pe
 
 Use:
 
-1. `criacao-de-personagem.md`
-2. `regras-basicas.md`
-3. `personagens-ia.md`, se o controle for IA
+1. `base/criacao-de-personagem.md`
+2. `base/regras-basicas.md`
+3. `base/personagens-ia.md`, se o controle for IA
 
 A ficha define capacidades, identidade, conhecimento e tendências. Não conceda capacidades apenas porque combinam com um arquétipo, gênero ou personagem famoso.
 
@@ -60,8 +56,8 @@ A ficha define capacidades, identidade, conhecimento e tendências. Não conceda
 
 Use:
 
-- `salvamento.md`
-- `continuidade.md`, quando houver fechamento do dia ou encerramento de capítulo
+- `base/salvamento.md`
+- `base/continuidade.md`, quando houver fechamento do dia ou encerramento de capítulo
 
 As campanhas ficam em:
 
@@ -79,14 +75,14 @@ O salvamento separa:
 
 | Arquivo | Função |
 |---|---|
-| `regras-basicas.md` | Motor mecânico universal do sistema |
-| `narrador-ia.md` | Condução de cena, julgamento e narração |
-| `personagens-ia.md` | Decisão e interpretação de personagens controlados por IA |
-| `criacao-de-personagem.md` | Criação e revisão de fichas |
-| `criacao-de-campanha.md` | Preparação e direção de campanhas |
-| `consulta.md` | Carregamento e busca de contexto |
-| `salvamento.md` | Organização e atualização dos arquivos da campanha |
-| `continuidade.md` | Fechamento do dia, agenda, encerramento de capítulo e ressincronização |
+| `base/regras-basicas.md` | Motor mecânico universal do sistema |
+| `base/narrador-ia.md` | Condução de cena, julgamento e narração |
+| `base/personagens-ia.md` | Decisão e interpretação de personagens controlados por IA |
+| `base/criacao-de-personagem.md` | Criação e revisão de fichas |
+| `base/criacao-de-campanha.md` | Preparação e direção de campanhas |
+| `base/consulta.md` | Carregamento e busca de contexto |
+| `base/salvamento.md` | Organização e atualização dos arquivos da campanha |
+| `base/continuidade.md` | Fechamento do dia, agenda, encerramento de capítulo e ressincronização |
 | `campanhas/` | Armazenamento das campanhas |
 
 ## Princípios operacionais
@@ -105,9 +101,9 @@ Ao usar este sistema:
 - não complete escolhas voluntárias do jogador por conta própria;
 - mantenha separado o que a IA sabe do que cada personagem sabe;
 - preserve fatos estabelecidos e consulte a fonte correta quando houver dúvida;
-- use `consulta.md` para evitar carregar arquivos desnecessários;
-- use `salvamento.md` para manter a campanha canônica organizada;
-- use `continuidade.md` para fechamento do dia, agenda e checkpoints de capítulo.
+- use `base/consulta.md` para selecionar apenas os arquivos adicionais da campanha, sem deixar de carregar todos os arquivos de `base/`;
+- use `base/salvamento.md` para manter a campanha canônica organizada;
+- use `base/continuidade.md` para fechamento do dia, agenda e checkpoints de capítulo.
 
 ## Regra de prioridade
 
