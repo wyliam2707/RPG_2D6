@@ -1,101 +1,126 @@
 # Estado atual
 
 ## Momento
-**Data atual:** 11/09/2025, quinta-feira, manhã.
+**Data atual:** 12/09/2025, sexta-feira, manhã.
 
-O **Capítulo 009 — Jantar no Terraço** foi encerrado.
+O **Capítulo 010 — O Covil do Tradutor Recluso** foi encerrado.
 
-A campanha retoma após uma quarta-feira de rotina civil, romance e consolidação doméstica. Não houve novo ataque de Janus nem patrulha relevante. O foco atual é a manhã seguinte ao jantar no terraço, com Will, Gwen e Riri voltando à vida universitária enquanto famílias e simbiontes já registraram que a noite anterior foi importante.
+A campanha retoma na manhã seguinte à visita de Gwen, Riri e Emily à cobertura de Will. A quinta-feira terminou sem combate, sem Janus, sem patrulha relevante e sem revelação pública de identidades heroicas. O foco atual é a continuidade civil, a reação gradual das famílias e a retomada da rotina universitária/heroica após a noite doméstica.
 
 ## Cena atual
-Will acorda na cobertura depois do jantar no terraço, da massagem, dos beijos no corredor, de acompanhar Gwen e Riri até casa e de gastar energia com Voraz em uma floresta remota.
+Nenhuma cena aberta no momento.
 
-Gwen acorda na casa Stacy após voltar sorrindo, ser sondada por Emily/Helen/George e processar que o beijo de Will em Riri não a excluiu.
+Will está na cobertura após ter trabalhado como tradutor, recebido pagamento, jantado com Gwen, Riri e Emily, arrumado a casa e deixado o quarto de trabalho trancado.
 
-Riri acorda na casa Williams após voltar calma, ser observada por Ronnie/Gary e processar que a noite com Will e Gwen foi difícil de categorizar, mas honesta.
+Gwen dormiu na casa Stacy depois de voltar com Emily. Disse aos pais que gosta de Will, sem revelar o formato da relação com Riri, magia, simbiontes ou identidades heroicas.
+
+Riri dormiu na casa Williams depois de admitir a Ronnie e Gary que está interessada em Will e que Gwen também é importante para ela, sem nomear o formato da relação e sem revelar magia, simbiontes ou identidades heroicas.
 
 ## Posição e condição
-- **Will Jack / Azoth:** cobertura, quinta de manhã; PV 30/30; PA recuperado por descanso, salvo gasto futuro; Voraz fundido ao braço; Selo de Velamento e runas de isolamento civil ativos na rotina. Corpo cansado de forma saudável após corrida com Voraz, sem dano relevante.
-- **Gwen Stacy / Aranha-Fantasma:** casa Stacy, quinta de manhã; PV 35/35; PA 30/30; Limiar vinculada e recolhida; runas civis nas costas ativas enquanto Limiar permanece interna.
-- **Riri Williams / Ironheart:** casa Williams, quinta de manhã; PV 30/30; PA 30/30; Sombra vinculada e recolhida; runas civis na lateral/costas/ombro ativas enquanto Sombra permanece interna.
+- **Will Jack / Azoth:** cobertura, manhã de sexta; PV 30/30; PA recuperado por descanso, salvo gasto futuro; Voraz fundido ao braço; Selo de Velamento e runas de isolamento civil ativos na rotina. O quarto de trabalho está trancado e organizado.
+- **Gwen Stacy / Aranha-Fantasma:** casa Stacy, manhã de sexta; PV 35/35; PA 30/30; Limiar vinculada e recolhida; runas civis nas costas ativas enquanto Limiar permanece interna.
+- **Riri Williams / Ironheart:** casa Williams, manhã de sexta; PV 30/30; PA 30/30; Sombra vinculada e recolhida; runas civis na lateral/costas/ombro ativas enquanto Sombra permanece interna.
+- **Emily Stacy:** casa Stacy, manhã de sexta; possui tatuagem temporária de rena/letras élficas no pulso, destinada a sair em 1 ou 2 dias. Por baixo da tinta há uma proteção mágica real, de uso único, criada por Will em hebraico: protege a vida uma vez e depois se apaga.
+
+## Conhecimento distribuído
+### Will
+- Sabe exatamente que a tatuagem de Emily também é proteção real de uso único.
+- Sabe que Gwen e Riri perceberam que houve magia real na bênção, mas não houve explicação completa em cena.
+- Sabe que Emily e as famílias acreditam que foi apenas tatuagem temporária artística.
+
+### Gwen
+- Sabe que Will fez algo real ao recitar em hebraico sobre a tatuagem de Emily, mas não recebeu explicação mecânica completa na frente da irmã.
+- Disse aos pais que gosta de Will.
+- Sabe que George quer conversar com Will qualquer dia, como pai, não como interrogatório declarado.
+
+### Riri
+- Sabe que Will fez algo real ao recitar em hebraico sobre a tatuagem de Emily, mas não recebeu explicação mecânica completa em cena.
+- Admitiu a Ronnie e Gary que está interessada em Will.
+- Admitiu que Gwen também é importante para ela, sem explicar tudo.
+
+### Emily e família Stacy
+- Emily sabe que Will é tradutor histórico, trabalha com manuscritos, escreve à mão, grava pronúncia e tem uma pena antiga de família. Não sabe os valores reais completos que Gwen pediu para ocultar, nem sabe da magia real da tatuagem.
+- Helen sabe que Emily gostou muito de Will e que Gwen voltou feliz.
+- George sabe que Gwen gosta de Will e quer conversar com ele. Não sabe magia, simbiontes, identidades heroicas ou trisal.
+
+### Família Williams
+- Ronnie e Gary sabem que Riri está interessada em Will e que Gwen também é importante para ela.
+- Ronnie percebeu que Riri voltou menos fechada e mais confortável.
+- Gary trata o assunto com humor, mas percebe que não é só brincadeira.
+- Nenhum dos dois sabe magia, simbiontes, identidades heroicas ou formato completo da relação.
 
 ## Relação central atual
-O relacionamento Will-Gwen-Riri deixou de ser apenas tensão e passou a ser vivido em privado como namoro íntimo, ainda sem anúncio público formal.
+O relacionamento Will-Gwen-Riri continua privado, íntimo e sem anúncio público formal.
 
-A regra emocional atual é: **devagar, mas não parado**.
+A regra emocional atual permanece: **devagar, mas não parado**.
 
-Pontos importantes:
-- Will, Gwen e Riri concordaram que a relação deve avançar com conforto para todos, sem forçar nome público cedo demais e sem fingir que nada existe.
-- Gwen e Riri reconheceram que precisa existir vínculo próprio entre elas, não apenas duas relações paralelas com Will.
-- Gwen não se sentiu excluída ao ver Will beijar Riri.
-- Riri não se sentiu acessório da relação Will-Gwen.
-- Os simbiontes foram incluídos na lógica de cuidado: bando não força bando.
+Atualizações relevantes após o Capítulo 010:
+- Gwen admitiu aos pais que gosta de Will.
+- Riri admitiu a Ronnie e Gary que está interessada em Will.
+- Riri também admitiu que Gwen é importante para ela.
+- As famílias começaram a perceber que há algo maior acontecendo, mas ainda não sabem o formato da relação.
+- A relação não deve ser anunciada ou deduzida pelas famílias cedo demais sem evidência clara.
+
+## Trabalho civil de Will
+Will Jack trabalha como tradutor histórico especializado, dentro de uma tradição familiar ligada à avó Laura Jack.
+
+Elementos estabelecidos:
+- traduz manuscritos/textos antigos e raros;
+- escreve a tradução à mão;
+- preserva o original em caderno separado;
+- usa cores como metadados manuais para relacionar palavras, estrutura, raiz, dúvida e pronúncia;
+- grava áudio com original, tradução e original com pronúncia enfatizada;
+- cobra caro por serviço raro, sigiloso e artesanal;
+- possui penas de escrita herdadas, incluindo uma pena de metal do século XIV usada desde que aprendeu a escrever aos 4 anos;
+- o quarto de trabalho na cobertura funciona como espaço profissional e acervo familiar.
+
+Azoth, separado do trabalho civil de Will, também cura pessoas, algumas que pagam e muitas que não pagam; as que pagam podem pagar muito bem.
 
 ## Famílias
 ### Família Stacy
-- **Emily Stacy:** adotou Will como figura de caos doméstico e o chama, na prática, de “Mago do Rodo” / arqueólogo élfico. Curiosa, divertida e socialmente perigosa. Não sabe segredos heroicos.
-- **Helen Stacy:** percebe que Will faz Gwen sorrir e tende a ver a aproximação com simpatia cautelosa.
-- **George Stacy:** observa horários, postura e efeitos em Gwen. Não bloqueou, mas segue cauteloso.
+- **Emily Stacy:** conheceu a cobertura e o quarto de trabalho de Will. Viu Will como tradutor, segurou a pena de metal com respeito e recebeu a tatuagem temporária no pulso. Gostou muito de Will e defendeu que ele não foi assustador, tratou sua curiosidade com respeito e deu limites claros.
+- **Helen Stacy:** percebeu que Gwen voltou feliz e gostou do efeito de Will sobre as filhas. Viu a tatuagem como bonita e temporária.
+- **George Stacy:** cauteloso, mas não hostil. Quer conversar com Will. Deve agir como pai antes de policial, conforme combinado com Helen, mas isso ainda é tensão ativa.
 
 ### Família Williams
-- **Ronnie Williams:** já conheceu Will. Primeira impressão: educado, estranho, sincero e atento a Riri como pessoa inteira. Percebeu que Riri voltou calma após o jantar.
-- **Gary Williams:** usa humor para aliviar, chama Will de vizinho perigoso em tom doméstico e observa sem hostilidade.
+- **Ronnie Williams:** percebeu que Riri respeita Will não apenas por competência, mas por cuidado e continuidade. Quer que Riri não precise esconder tudo. Pode querer conhecer melhor Will como vizinho e pessoa.
+- **Gary Williams:** usa humor para lidar com a complexidade, mas percebeu que Riri mostrou uma fresta real. Pode brincar que leva seis a oito meses úteis para parar de desconfiar do vizinho.
 
 ## Simbiontes conscientes
 ### Voraz / “Docinho”
 - Fundido ao braço de Will.
-- Gosta de chocolate com nozes; recebeu chocolate prometido.
-- Após o jantar, correu com Will em uma floresta remota, rasgando troncos mortos e gastando energia sem risco a civis.
-- Interpreta o trio como bando em formação. Reage bem a cuidado, regras claras e pertencimento.
+- Interpretou a visita, a comida e a casa cheia como bando na casa.
+- Entende o trabalho de Will como palavras que pagam casa e chocolate.
 
 ### Limiar
 - Vinculada a Gwen.
-- Reagiu bem à noite de cuidado: casa, toque bom, sem ameaça.
-- Continua buscando identidade, nome, corpo e continuidade sem apagar Gwen.
+- Continua recolhida e discreta na vida civil.
+- Sentiu a noite como mais uma camada de casa, família, segredo e escolha.
 
 ### Sombra
 - Vinculada a Riri.
-- Reagiu bem a aviso prévio, previsibilidade e permissão de parar durante a massagem.
-- Conceito atual importante: porta aberta, sem empurrar.
-
-## Conhecimento consolidado entre o trio
-- O trio sabe que Janus aparentemente comprou a morte do mago contaminado no mar, mas que ainda pode haver rastreio residual.
-- A marca de Janus funciona como rastro/farol quando o simbionte está exposto.
-- Runas civis reduzem rastreio quando simbiontes estão recolhidos, mas manifestação completa ainda pode ser detectada por Janus se houver proximidade, oportunidade e método.
-- Will, Gwen e Riri não devem caçar Janus agora. A prioridade é vida civil, segurança dos vínculos, famílias e heroísmo comum quando surgir.
-
-## Regra de rastreio simbiótico civil
-Runas discretas foram criadas para Voraz/Will, Limiar/Gwen e Sombra/Riri.
-
-Funcionamento correto:
-- Simbionte totalmente dentro do corpo: **sem rastreio detectável**.
-- Simbionte saindo parcialmente para fora do corpo: **sinal abafado/reduzido**.
-- Simbionte em forma de armadura ou manifestação completa: **sinal normal**, rastreável se Janus tiver proximidade, oportunidade e método/equipamento adequado.
-
-Isso serve para vida civil e deslocamento discreto, não para combate aberto.
+- Continua recolhida e discreta na vida civil.
+- Reagiu bem à ideia de portas abrindo sem arrombamento: Riri contou parte da verdade à família sem ser forçada.
 
 ## Estado público / Janus
-- A superfície pública continua confusa sobre o monstro do porto.
-- Sem ligação pública com Will, Gwen ou Riri.
-- Nenhum novo sinal ativo de Janus foi detectado durante a quarta-feira.
-- O trio deve evitar deixar Janus dominar a rotina da campanha.
+- Nenhum novo sinal ativo de Janus foi detectado durante a quinta-feira.
+- Janus não dominou a cena e não deve dominar automaticamente a próxima.
+- A superfície pública continua sem ligação entre Will/Gwen/Riri e a farsa do mago contaminado no mar.
 
 ## Fios ativos
-- Romance Will-Gwen-Riri agora vivido em privado como namoro íntimo.
-- Vínculo próprio Gwen-Riri precisa continuar recebendo espaço real.
-- Famílias Stacy e Williams observam a aproximação.
-- Retorno gradual à rotina heroica/patrulhas, sem caçar Janus.
-- Projeto Janus e resposta real à perda das cápsulas.
-- Aviso / Aviso Relay.
-- Kessler / 9th e arquivo criptografado.
-- Vínculo Will-Voraz e regras de bando.
-- Vínculo Gwen-Limiar e identidade preservada.
-- Vínculo Riri-Sombra e segurança sem uso.
-- Vida acadêmica e rotina civil atravessadas por cooperação heroica.
+- Retomada da sexta-feira, 12/09/2025, após noite doméstica importante.
+- George Stacy quer conversar com Will.
+- Ronnie e Gary começaram a perceber a complexidade da relação de Riri com Will e Gwen.
+- Emily possui proteção mágica real de uso único escondida sob tatuagem temporária.
+- Gwen e Riri perceberam magia real na tatuagem e podem cobrar explicação.
+- Relação Will-Gwen-Riri precisa continuar devagar, com cenas em pares e autonomia de Gwen/Riri.
+- Famílias observam sem saber magia/simbiontes/trisal.
+- Retorno gradual à vida heroica/patrulhas, sem caçar Janus.
+- Projeto Janus, Aviso / Aviso Relay, Kessler / 9th, Hawthorne e Galpão 17 seguem como fios de fundo.
 
 ## Retomada
 **Capítulo atual:** nenhum aberto.
 
-**Último capítulo concluído:** Capítulo 009 — Jantar no Terraço.
+**Último capítulo concluído:** Capítulo 010 — O Covil do Tradutor Recluso.
 
-**Ponto exato de continuação:** 11/09/2025, quinta-feira de manhã. Retomar com Will acordando na cobertura ou com a rotina matinal do prédio/campus. O tom recomendado é cotidiano universitário com romance em consolidação, famílias observando e heroísmo comum em segundo plano, sem Janus dominar a cena.
+**Ponto exato de continuação:** 12/09/2025, sexta-feira de manhã. Retomar com a rotina matinal no prédio ou na Culver, permitindo consequências leves da noite anterior: famílias observando, Emily protegendo/mostrando a tatuagem temporária, Gwen/Riri podendo perguntar sobre a magia real, e Will voltando à rotina civil/heroica. Tom recomendado: cotidiano universitário, romance em consolidação, famílias atentas e possibilidade de heroísmo comum sem Janus dominar a cena.
