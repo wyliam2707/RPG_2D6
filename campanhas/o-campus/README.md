@@ -120,5 +120,5 @@ Existe uma invasão alienígena futura como grande escalada de longo prazo, sem 
 
 ## Retomada
 - Capítulo atual: nenhum aberto.
-- Último capítulo concluído: Capítulo 009 — Jantar no Terraço.
-- Ponto de continuação: 11/09/2025, quinta-feira de manhã. Will acorda na cobertura depois do jantar no terraço, da massagem consensual com Gwen e Riri, dos beijos no corredor e da corrida com Voraz em uma floresta remota. Gwen e Riri acordam em suas casas com as famílias já percebendo que a noite anterior foi importante. O romance está consolidado em privado como “devagar, mas não parado”, ainda sem anúncio público formal. A retomada recomendada é rotina civil/universitária, famílias observando, vínculo próprio Gwen-Riri recebendo espaço e heroísmo comum sem Janus dominar.
+- Último capítulo concluído: Capítulo 010 — O Covil do Tradutor Recluso.
+- Ponto de continuação: 12/09/2025, sexta-feira de manhã. A quinta-feira terminou com Will revelando seu trabalho de tradutor histórico, Emily conhecendo a cobertura e recebendo uma tatuagem temporária com proteção real escondida, Gwen admitindo aos pais que gosta de Will e Riri admitindo a Ronnie/Gary que está interessada em Will e que Gwen também é importante para ela. As famílias começaram a perceber mudanças, mas ainda não sabem magia, simbiontes, identidades heroicas ou relação a três. A retomada recomendada é rotina civil/universitária, consequências leves da noite anterior, famílias observando e possível explicação sobre a magia feita em Emily, sem Janus dominar a cena.
